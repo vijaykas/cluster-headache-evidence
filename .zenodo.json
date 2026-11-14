@@ -1,0 +1,29 @@
+{
+  "title": "Cluster headache: an open evidence base",
+  "upload_type": "dataset",
+  "description": "<p>A reproducible, machine-readable record of cluster headache research: every registered trial and its result, the eight GWAS risk loci and their tissue-level effects, mechanism and provocation findings, and the research and funding landscape &mdash; with the code that regenerates all of it from public sources.</p><p>Cluster headache affects roughly 1 in 1,000 people and has one NIH-funded research lab in the United States. The literature is scattered and no maintained synthesis exists; this is an attempt at one.</p><p>The evidence record and the hypotheses derived from it are kept in separate documents. The record is intended to be useful independently of the claims.</p><p>Includes eight computational analyses run against ClinicalTrials.gov, NIH RePORTER, GTEx, PubChem (IUPHAR/Guide to Pharmacology), Open Targets, PubMed and OpenAIRE.</p>",
+  "creators": [
+    { "name": "Vijay" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "cluster headache",
+    "trigeminal autonomic cephalalgia",
+    "headache",
+    "5-HT7",
+    "HTR7",
+    "GWAS",
+    "drug repurposing",
+    "open data",
+    "reproducible research",
+    "patient-led research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/vijaykas/cluster-headache-evidence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
