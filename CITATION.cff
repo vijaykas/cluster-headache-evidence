@@ -6,6 +6,9 @@ authors:
   - given-names: "Vijay"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # optional, free to register
 repository-code: "https://github.com/vijaykas/cluster-headache-evidence"
+doi: "10.5281/zenodo.24233067"
+version: "v1.0.1"
+date-released: "2026-11-14"
 abstract: >-
   A reproducible, machine-readable record of cluster headache research:
   registered trials and their results, the eight GWAS risk loci and their

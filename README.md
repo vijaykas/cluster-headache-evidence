@@ -1,5 +1,7 @@
 # Cluster headache: an open evidence base
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24233067.svg)](https://doi.org/10.5281/zenodo.24233067)
+
 A machine-readable, reproducible record of what is known about cluster headache — every registered trial and its result, the eight genetic risk loci and what they do, the mechanism findings, and who is actually researching and funding the disease. Plus the code that regenerates all of it from public sources.
 
 Cluster headache affects roughly 1 in 1,000 people and is among the most painful conditions in medicine. It has, at the time of writing, **one NIH-funded research lab in the United States**. The literature is scattered and no maintained synthesis exists. This repository is an attempt at one.
@@ -76,7 +78,23 @@ If you research cluster headache and something here is wrong, I would rather kno
 
 Code is MIT. The evidence record and documentation are CC BY 4.0. See `LICENSE`.
 
-Citation metadata is in `CITATION.cff`.
+Archived on Zenodo. Cite the concept DOI, which always resolves to the latest version:
+
+> Vijay (2026). *Cluster headache: an open evidence base*. Zenodo. https://doi.org/10.5281/zenodo.24233067
+
+```bibtex
+@dataset{cluster_headache_evidence,
+  author    = {Vijay},
+  title     = {Cluster headache: an open evidence base},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24233067},
+  url       = {https://doi.org/10.5281/zenodo.24233067}
+}
+```
+
+To pin a specific snapshot instead, use that release's own DOI — v1.0.1 is `10.5281/zenodo.24233068`.
+Machine-readable metadata is in `CITATION.cff`.
 
 ## Related reading
 
