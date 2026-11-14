@@ -1,0 +1,1297 @@
+{
+ "JNJ-18038683": {
+  "trials": [
+   {
+    "nct": "NCT00566202",
+    "title": "A Safety and Effectiveness Study of JNJ-18038683 in Patients With Moderate to Severe Depression",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02466685",
+    "title": "Testing the Ability of JNJ-18038683 to Improve Cognition and Reduce Depressive Symptoms in Stab",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder"
+   },
+   {
+    "nct": "NCT03633357",
+    "title": "Imaging 5HT7 Antagonist Effects in Bipolar Disorder",
+    "phase": "NA",
+    "status": "UNKNOWN",
+    "cond": "Bipolar Disorder"
+   }
+  ],
+  "pubmed_all": 5,
+  "pubmed_human": 3
+ },
+ "JNJ 18038683": {
+  "trials": [
+   {
+    "nct": "NCT02466685",
+    "title": "Testing the Ability of JNJ-18038683 to Improve Cognition and Reduce Depressive Symptoms in Stab",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder"
+   }
+  ],
+  "pubmed_all": 5,
+  "pubmed_human": 3
+ },
+ "SB-269970": {
+  "trials": [],
+  "pubmed_all": 234,
+  "pubmed_human": 35
+ },
+ "SB269970": {
+  "trials": [],
+  "pubmed_all": 301,
+  "pubmed_human": 57
+ },
+ "LP-211": {
+  "trials": [],
+  "pubmed_all": 55,
+  "pubmed_human": 10
+ },
+ "DR-4004": {
+  "trials": [],
+  "pubmed_all": 5,
+  "pubmed_human": 0
+ },
+ "lurasidone": {
+  "trials": [
+   {
+    "nct": "NCT01284517",
+    "title": "Lurasidone HCI - A 6-week Phase 3 Study of Patients With Bipolar I Depression",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Bipolar Depression"
+   },
+   {
+    "nct": "NCT01911442",
+    "title": "Lurasidone Pediatric Autism Study",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Autism"
+   },
+   {
+    "nct": "NCT05481957",
+    "title": "Vortioxetine Adjunctive Treatment in Bipolar Depression",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Bipolar Depression"
+   },
+   {
+    "nct": "NCT02282085",
+    "title": "Treatment Study Comparing Aripiprazole Once Monthly With Standard of Care Medication in Outpati",
+    "phase": "PHASE4",
+    "status": "UNKNOWN",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00549718",
+    "title": "Lurasidone HCl: A Phase 3 Study of Patients With Acute Schizophrenia",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02199743",
+    "title": "Lurasidone Effects on Tissue Glutamate in Schizophrenia",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia;Schizoaffective Disorder"
+   },
+   {
+    "nct": "NCT06328140",
+    "title": "Sleep Quality, Cognitive Performance, and Computerized Cognitive Training",
+    "phase": "",
+    "status": "WITHDRAWN",
+    "cond": "Bipolar Disorder;Major Depressive Disorder;Psychosis"
+   },
+   {
+    "nct": "NCT06128213",
+    "title": "NRX-101 for Complicated Urinary Tract Infection (UTI) Including Pyelonephritis",
+    "phase": "PHASE2",
+    "status": "UNKNOWN",
+    "cond": "Urinary Tract Infections;Pyelonephritis"
+   },
+   {
+    "nct": "NCT02435095",
+    "title": "Antipsychotic Induced Structural and Functional Brain Changes",
+    "phase": "PHASE4",
+    "status": "TERMINATED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT03786614",
+    "title": "Antidepressant Discontinuation in Treatment Resistant Depression",
+    "phase": "NA",
+    "status": "UNKNOWN",
+    "cond": "Treatment Resistant Depression"
+   },
+   {
+    "nct": "NCT00088634",
+    "title": "A Study to Test the Effectiveness and Safety of a New Medication in the Treatment of Schizophre",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01074073",
+    "title": "Lithium Drug-Drug Interaction Study With Lurasidone HCl",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT03396068",
+    "title": "NRX-101 for Maintenance of Remission From Severe Bipolar Depression in Patients With Suicidal I",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Bipolar Depression;Suicidal Ideation"
+   },
+   {
+    "nct": "NCT02046369",
+    "title": "Lurasidone Pediatric Bipolar Study",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Bipolar I Depression"
+   },
+   {
+    "nct": "NCT07806227",
+    "title": "Broadband Near Infrared Spectroscopy to Understand the Role of Brain Cytochrome C Oxidase in Bi",
+    "phase": "PHASE4",
+    "status": "NOT_YET_RECRUITING",
+    "cond": "Bipolar Disorder Depression"
+   },
+   {
+    "nct": "NCT00806234",
+    "title": "Reducing Weight Gain and Improving Metabolic Function in Children Being Treated With Antipsycho",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Psychotic Disorders"
+   },
+   {
+    "nct": "NCT01173874",
+    "title": "Efficacy of Cognitive Remediation in Patients With Schizophrenia or Schizoaffective Disorder St",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01833897",
+    "title": "NMDA Antagonists in Bipolar Depression",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder"
+   },
+   {
+    "nct": "NCT03557931",
+    "title": "A Study to Assess the Safety and Efficacy of ASP4345 as Add-on Treatment for Cognitive Impairme",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01082276",
+    "title": "Rifampin Drug-Drug Interaction Study With Lurasidone HCl",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Male, Healthy Normal Subjects"
+   },
+   {
+    "nct": "NCT01498770",
+    "title": "An Observational Drug Utilization Study of Asenapine in the United Kingdom (P08308)",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder"
+   },
+   {
+    "nct": "NCT07227103",
+    "title": "A Randomized, Double-Blind Controlled Comparison of NRX-101 vs. Placebo for Adults Being Treate",
+    "phase": "PHASE2,PHASE3",
+    "status": "RECRUITING",
+    "cond": "Treatment Resistant Depression;Treatment Resistant Depression (TRD)"
+   },
+   {
+    "nct": "NCT07834112",
+    "title": "Body Weight Changes After Switching to Lurasidone for Antipsychotic-induced Weight Gain in Bipo",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder (BD)"
+   },
+   {
+    "nct": "NCT01731119",
+    "title": "Study of Lurasidone in Treating Antipsychotic Naive or Quasi-Naive Children and Adolescents",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia;Schizoaffective Disorder;Schizophreniform Disorder;Psych"
+   },
+   {
+    "nct": "NCT02174523",
+    "title": "Pharmacokinetic Study of Lurasidone After Multiple Oral Administration in Healthy Human Subject",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00711269",
+    "title": "Study of SM-13496 (Lurasidone HCl) in Patients With Schizophrenia",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01566162",
+    "title": "A Twelve Week, Open Label Extension Study in Patients With Schizophrenia",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01614899",
+    "title": "A Phase III Study of SM-13496 (Lurasidone HCl) in Patients With Schizophrenia",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT07781293",
+    "title": "Study of Lurasidone as Adjunctive Treatment in Patients With Major Depressive Disorder With Ina",
+    "phase": "PHASE3",
+    "status": "NOT_YET_RECRUITING",
+    "cond": "Major Depressive Disorder (MDD);Major Depressive Disorder With Psychot"
+   },
+   {
+    "nct": "NCT02002832",
+    "title": "A Clinical Trial of Lurasidone in Treatment of Schizophrenia",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT03402152",
+    "title": "NRX101 Glx Biomarker Validation Study",
+    "phase": "PHASE2,PHASE3",
+    "status": "COMPLETED",
+    "cond": "Bipolar Depression;Suicidal Ideation"
+   },
+   {
+    "nct": "NCT00549666",
+    "title": "A Randomized, Placebo-Controlled, Two-Period, Crossover Study to Evaluate the Effect of Lurasid",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Pharmacokinetics"
+   },
+   {
+    "nct": "NCT02181803",
+    "title": "Elpipodect (MK-8189) Multiple Dose Study in Healthy Volunteers and Schizophrenia Participants (",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02147379",
+    "title": "Lurasidone and Cognition in Bipolar I Disorder",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Bipolar I Disorder"
+   },
+   {
+    "nct": "NCT01423253",
+    "title": "Major Depressive Disorder With Mixed Features - Extension",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT00868452",
+    "title": "Lurasidone - A 6-week Study of Patients With Bipolar I Depression (Add-on)",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Bipolar Depression"
+   },
+   {
+    "nct": "NCT02213887",
+    "title": "Study of the Effects of Pantoprazole on Levels of Prescribed Psychiatric Medications",
+    "phase": "PHASE4",
+    "status": "WITHDRAWN",
+    "cond": "Psychotic Disorders;Gastroesophageal Reflux"
+   },
+   {
+    "nct": "NCT01082250",
+    "title": "The Bioequivalence Of Two Different Lurasidone Formulations In Patients",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02174510",
+    "title": "A Pharmacokinetic Study of Lurasidone After Single Oral Administration in Healthy Subjects",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT04383691",
+    "title": "A Study of Lurasidone Compared With Placebo for the Treatment of Bipolar I Depression",
+    "phase": "PHASE3",
+    "status": "TERMINATED",
+    "cond": "Bipolar I Depression"
+   },
+   {
+    "nct": "NCT06695676",
+    "title": "Effects of Lurasidone on Left Ventricle Systolic Functions",
+    "phase": "",
+    "status": "NOT_YET_RECRUITING",
+    "cond": "Lurasidone Cardiotoxicity;Schizophrenia Patients;Bipolar Disorders"
+   },
+   {
+    "nct": "NCT04432688",
+    "title": "The Safety and Effectiveness of Latuda\u00ae Post-marketing Surveillance in the Treatment of Chinese",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01932541",
+    "title": "Open-Label Study of Latuda for the Treatment of Mania in Children and Adolescents 6-17 Years Ol",
+    "phase": "PHASE4",
+    "status": "WITHDRAWN",
+    "cond": "Mania;Bipolar I;Bipolar II;Bipolar Spectrum Disorder;Bipolar Disorder"
+   },
+   {
+    "nct": "NCT02974010",
+    "title": "Sequential Therapy for the Treatment of Severe Bipolar Depression.",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Bipolar Depression;Suicidal Ideas;Suicidal Ideation;Suicide, Attempted"
+   },
+   {
+    "nct": "NCT04002700",
+    "title": "A Study to Assess Stroke Risk Among Users of Typical Versus Atypical Antipsychotics Stratified ",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Stroke"
+   },
+   {
+    "nct": "NCT05011669",
+    "title": "The Safety and Efficacy of Lurasidone With Different Initiation Dose in Chinese Acute Phase Pat",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT06527885",
+    "title": "Lurasidone Non-Interventional Study in Schizophrenia Patients",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00088621",
+    "title": "A Study to Test the Safety and Tolerability of a New Medication in the Treatment of Schizophren",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT04312503",
+    "title": "Observational Study on the Effect of Switch to Lurasidone in Subjects With Schizophrenia\"",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00615433",
+    "title": "Lurasidone HCl A Phase 3 Study of Patients With Acute Schizophrenia",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   }
+  ],
+  "pubmed_all": 910,
+  "pubmed_human": 525
+ },
+ "vortioxetine": {
+  "trials": [
+   {
+    "nct": "NCT07579481",
+    "title": "Vortioxetine in Depression and Concomitant Migraine",
+    "phase": "",
+    "status": "RECRUITING",
+    "cond": "Depression;Migraine"
+   },
+   {
+    "nct": "NCT03053362",
+    "title": "THINC-it Vortioxetine - Sensitivity to Change",
+    "phase": "PHASE2,PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder;Cognitive Change"
+   },
+   {
+    "nct": "NCT05481957",
+    "title": "Vortioxetine Adjunctive Treatment in Bipolar Depression",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Bipolar Depression"
+   },
+   {
+    "nct": "NCT04294654",
+    "title": "Vortioxetine in Patients With Depression and Early Dementia",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder;Dementia"
+   },
+   {
+    "nct": "NCT05952713",
+    "title": "Comparative Responses to 15 Different Antidepressants in Major Depressive Disorder",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02272517",
+    "title": "Efficacy of Vortioxetine Versus Escitalopram on Cognitive Function in Patients With Inadequate ",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT06805266",
+    "title": "Vortioxetine for Depressive Symptoms and Freezing of Gait in Parkinson Disease",
+    "phase": "PHASE4",
+    "status": "NOT_YET_RECRUITING",
+    "cond": "Parkinson Disease, Idiopathic;Freezing of Gait;Depression Not Otherwis"
+   },
+   {
+    "nct": "NCT03598868",
+    "title": "Vortioxetine add-on Treatment Improves the Symptoms in Patients With Bipolar Depression",
+    "phase": "PHASE2",
+    "status": "UNKNOWN",
+    "cond": "Bipolar Disorder Depression"
+   },
+   {
+    "nct": "NCT07633626",
+    "title": "Vortioxetine for Cognitive Function in ALK-positive NSCLC Treated With Lorlatinib",
+    "phase": "",
+    "status": "RECRUITING",
+    "cond": "Advanced ALK/ROS1-positive NSCLC;Carcinoma, Non-Small-Cell Lung (NSCLC"
+   },
+   {
+    "nct": "NCT03779789",
+    "title": "Vortioxetine in the Elderly vs. Selective Serotonin Reuptake Inhibitors (SSRIs): a Pragmatic As",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02112903",
+    "title": "Study Comparing the Gastro-intestinal Tolerability and Absorption Profile of Vortioxetine After",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Healthy Women"
+   },
+   {
+    "nct": "NCT00694304",
+    "title": "Open-label Safety Extension Study of 2.5, 5 and 10 mg of Vortioxetine (Lu AA21004) in Long-term",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT00635219",
+    "title": "Randomised Placebo-controlled Duloxetine-referenced Efficacy and Safety Study of 2.5, 5 and 10 ",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT01571453",
+    "title": "Study of Vortioxetine (Lu AA21004) in Major Depressive Disorder in Asian Countries",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02932904",
+    "title": "Effect of Vortioxetine, Paroxetine, and Placebo on Sexual Functioning in Healthy Volunteers",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Healthy Volunteers"
+   },
+   {
+    "nct": "NCT00730691",
+    "title": "Efficacy of Vortioxetine (Lu AA21004) in Treating Generalized Anxiety Disorder",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Generalized Anxiety Disorder"
+   },
+   {
+    "nct": "NCT02845349",
+    "title": "Vortioxetine for the Treatment of Major Depression and Co-morbidities After Traumatic Brain Inj",
+    "phase": "PHASE3",
+    "status": "WITHDRAWN",
+    "cond": "TBI;Major Depression"
+   },
+   {
+    "nct": "NCT03272711",
+    "title": "Remediation of Age-related Cognitive Decline: Vortioxetine and Cognitive Training",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Age-related Cognitive Decline"
+   },
+   {
+    "nct": "NCT03437564",
+    "title": "A Bioequivalence Study of the Lu AA21004 20 mg and 2\u00d710 mg Tablets",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Healthy Adult Participants"
+   },
+   {
+    "nct": "NCT05014919",
+    "title": "Vortioxetine to Prevent Return of Symptoms in Children With Depression",
+    "phase": "PHASE3",
+    "status": "TERMINATED",
+    "cond": "Depression"
+   },
+   {
+    "nct": "NCT01355081",
+    "title": "Efficacy Study of Vortioxetine (Lu AA21004) for Treatment of Major Depressive Disorder",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT05932407",
+    "title": "A Database Survey of Comparison The Risk of Haemorrhage Between Vortioxetine Tablet Treatment a",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT07284628",
+    "title": "Vortioxetine for Newly Diagnosed Glioblastoma",
+    "phase": "PHASE2",
+    "status": "RECRUITING",
+    "cond": "Glioblastoma"
+   },
+   {
+    "nct": "NCT04448431",
+    "title": "Comparison of Vortioxetine and Desvenlafaxine in Adult Patients Suffering From Depression",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT03580967",
+    "title": "Vortioxetine Monotherapy for Major Depressive Disorder in Type 2 Diabetes",
+    "phase": "PHASE4",
+    "status": "WITHDRAWN",
+    "cond": "Type2 Diabetes;Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT07741331",
+    "title": "Compare the Efficacy and Safety of KH607 Tablets Versus Vortioxetine Hydrobromide Tablets in Ad",
+    "phase": "PHASE3",
+    "status": "NOT_YET_RECRUITING",
+    "cond": "Major Depressive Disorder (MDD)"
+   },
+   {
+    "nct": "NCT04253678",
+    "title": "Vortioxetine for Cancer Patients With Depression: An Observational Study",
+    "phase": "",
+    "status": "UNKNOWN",
+    "cond": "Major Depressive Disorder;Cancer"
+   },
+   {
+    "nct": "NCT02749721",
+    "title": "The Relationship Among Changes in Brain Network Activation in Adult Outpatients With Major Depr",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT03766867",
+    "title": "Vortioxetine Intravenous Infusion at Initiation of Oral Treatment With Vortioxetine in Patients",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT01140906",
+    "title": "Randomised Placebo-controlled Duloxetine-referenced Study of Efficacy and Safety of 15 and 20 m",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02386488",
+    "title": "Pharmacokinetic Properties of Vortioxetine in Healthy Young Chinese Men and Women",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Pharmacokinetics"
+   },
+   {
+    "nct": "NCT01564862",
+    "title": "Efficacy of Lu AA21004 on Cognitive Dysfunction in Major Depressive Disorder",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Depressive Disorder, Major"
+   },
+   {
+    "nct": "NCT05104918",
+    "title": "Vortioxetine as a Novel Anti-depressant With Improvement in Cognitive Abilities",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02709746",
+    "title": "Active Reference (Fluoxetine) Fixed-dose Study of Vortioxetine in Paediatric Patients Aged 12 t",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Depressive Disorder, Major"
+   },
+   {
+    "nct": "NCT04288895",
+    "title": "Open-label, Flexible-dose Study of Vortioxetine in Patients With Depression in India",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT00672620",
+    "title": "Efficacy and Safety of Vortioxetine (Lu AA21004) in the Treatment of Patients With Major Depres",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT00839423",
+    "title": "Randomised Placebo-controlled Venlafaxine-referenced Study of Efficacy and Safety of 5 and 10 m",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT02332954",
+    "title": "Assessment in Work Productivity and the Relationship With Cognitive Symptoms in Patients With M",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT04895488",
+    "title": "Cognitive Effects of Adjuvant Vortioxetine in Early Schizophrenia",
+    "phase": "PHASE2,PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Cognitive Impairment With Primary Psychotic Disorder;Negative Symptoms"
+   },
+   {
+    "nct": "NCT05047952",
+    "title": "Vortioxetine for Post-COVID-19 Condition",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Post-COVID-19 Condition;Post-COVID-19 Syndrome;Cognitive Impairment"
+   },
+   {
+    "nct": "NCT05416762",
+    "title": "Single Dose Study to Evaluate Dose-proportionality of Vortioxetine Hemihydrobromide Orally Disi",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder (MDD"
+   },
+   {
+    "nct": "NCT06591091",
+    "title": "Clemastine for Improving White Matter and Boosting Antidepressant Response in Late-life Depress",
+    "phase": "PHASE2",
+    "status": "RECRUITING",
+    "cond": "Depression"
+   },
+   {
+    "nct": "NCT02454426",
+    "title": "Vortioxetine in Patients With Major Depressive Disorder and Coronary Artery Disease",
+    "phase": "EARLY_PHASE1",
+    "status": "WITHDRAWN",
+    "cond": "Major Depressive Disorder;Coronary Artery Disease"
+   },
+   {
+    "nct": "NCT01364649",
+    "title": "Vortioxetine (Lu AA21004) 10 and 20 mg for Treatment of Major Depressive Disorder With Sexual D",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Treatment Outcome"
+   },
+   {
+    "nct": "NCT02969876",
+    "title": "Pattern Separation, Brain Derived Neurotrophic Factors, and Mechanisms of Vortioxetine",
+    "phase": "PHASE4",
+    "status": "TERMINATED",
+    "cond": "Depressive Disorder;Major Depression;Depression;Depression, Unipolar"
+   },
+   {
+    "nct": "NCT06025474",
+    "title": "Comparison of Vortioxetine Versus Other Antidepressants With Pregabalin Augmentation in Burning",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Burning Mouth Syndrome"
+   },
+   {
+    "nct": "NCT03830827",
+    "title": "MBRP + Vortioxetine VS MBRP on Preventing Relapse in Chronic MA Users",
+    "phase": "PHASE4",
+    "status": "UNKNOWN",
+    "cond": "Relapse;Cognitive Impairment;Depression"
+   },
+   {
+    "nct": "NCT03555136",
+    "title": "Real-life Effectiveness of Vortioxetine in Depression",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder"
+   },
+   {
+    "nct": "NCT01255787",
+    "title": "Efficacy and Safety Study of Vortioxetine (Lu AA21004) for Treatment of Major Depressive Disord",
+    "phase": "PHASE2,PHASE3",
+    "status": "COMPLETED",
+    "cond": "Depressive Disorder, Major"
+   },
+   {
+    "nct": "NCT02637466",
+    "title": "Vortioxetine for MDD, Cognition, and Systemic Inflammatory Biomarkers",
+    "phase": "PHASE4",
+    "status": "WITHDRAWN",
+    "cond": "Unipolar Major Depression;Stage I, II or III Breast Cancer"
+   }
+  ],
+  "pubmed_all": 951,
+  "pubmed_human": 556
+ },
+ "amisulpride": {
+  "trials": [
+   {
+    "nct": "NCT01795183",
+    "title": "Effectiveness and Safety of Amisulpride in Chinese Patients With Schizophrenia",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT05956600",
+    "title": "An Open-Label, Single-Arm Clinical Trial Evaluating the Safety and Efficacy of Amisulpride in T",
+    "phase": "NA",
+    "status": "WITHDRAWN",
+    "cond": "Schizophrenia, Treatment-Resistant"
+   },
+   {
+    "nct": "NCT01105481",
+    "title": "Amisulpride Augmentation Therapy for Clozapine-resistant Schizophrenic Patients",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Treatment-resistant Schizophrenia"
+   },
+   {
+    "nct": "NCT04446234",
+    "title": "Atypical Antipsychotics Influence on the Safety of the Heart and Monitoring Indicators Model Bu",
+    "phase": "PHASE4",
+    "status": "UNKNOWN",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02088060",
+    "title": "A Four-week Clinical Trial Investigating Efficacy and Safety of Cannabidiol As a Treatment for ",
+    "phase": "PHASE2",
+    "status": "TERMINATED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT07554040",
+    "title": "Amisulpride for the Prevention of Postoperative Nausea and Vomiting in Patients Undergoing Lapa",
+    "phase": "",
+    "status": "NOT_YET_RECRUITING",
+    "cond": "PONV"
+   },
+   {
+    "nct": "NCT02449291",
+    "title": "Study of APD421 as PONV Treatment (no Prior Prophylaxis)",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Postoperative Nausea and Vomiting"
+   },
+   {
+    "nct": "NCT00761670",
+    "title": "Efficacy Study on Cognitive Functions in Schizophrenic Patients",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02926859",
+    "title": "Enhancing Recovery in Early Schizophrenia",
+    "phase": "PHASE2",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02095938",
+    "title": "Association of Amisulpride Response in Schizophrenia With Brain Image",
+    "phase": "PHASE4",
+    "status": "UNKNOWN",
+    "cond": "Schizophrenia;Schizophreniform Disorder"
+   },
+   {
+    "nct": "NCT02051387",
+    "title": "Cannabidiol as a Different Type of an Antipsychotic: Drug Delivery and Interaction Study",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02435095",
+    "title": "Antipsychotic Induced Structural and Functional Brain Changes",
+    "phase": "PHASE4",
+    "status": "TERMINATED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00926965",
+    "title": "Tardive Dyskinesia and Cognitive Function",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Tardive Dyskinesia;Neurocognitive Function"
+   },
+   {
+    "nct": "NCT02880995",
+    "title": "[18 Fluorine(F)]DOPA Determinants and Predictors of Treatment Response in Psychosis",
+    "phase": "NA",
+    "status": "UNKNOWN",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT04528095",
+    "title": "SMART Design to Compare Antipsychotic Treatments in Treatment-Resistant Schizophrenia",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Treatment-resistant Schizophrenia"
+   },
+   {
+    "nct": "NCT06040944",
+    "title": "Antipsychotic Induced Hyperprolactinemaia as Risk Factor for Periodontitis in Schizophrenic Pat",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia Spectrum and Other Psychotic Disorders;Periodontal Disea"
+   },
+   {
+    "nct": "NCT06581302",
+    "title": "Magnetic Seizure Therapy for Psychotic Disorders",
+    "phase": "NA",
+    "status": "RECRUITING",
+    "cond": "Psychotic Disorders"
+   },
+   {
+    "nct": "NCT06585540",
+    "title": "A Pilot Study to Evaluate Barhemsys for the Prevention of Postoperative Nausea And Vomiting in ",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Post Operative Nausea and Vomiting"
+   },
+   {
+    "nct": "NCT01972711",
+    "title": "Study Assessing SEP-363856 in Male and Female Volunteers With High or Low Schizotype Characteri",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01701258",
+    "title": "An Investigation of Early Life Stress and Depression",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Major Depressive Disorder (MDD);History of Childhood Sexual Abuse (CSA"
+   },
+   {
+    "nct": "NCT02222220",
+    "title": "Metoclopramide as Treatment of Clozapine-induced Hypersalivation",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Clozapine-induced Hypersalivation"
+   },
+   {
+    "nct": "NCT00331981",
+    "title": "Amisulpride in Schizophrenic Patients",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01765829",
+    "title": "Clinical Trial to Evaluate the Efficacy of Treatment vs Discontinuation in a First Episode of N",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "Psychosis Nos/Other"
+   },
+   {
+    "nct": "NCT01498770",
+    "title": "An Observational Drug Utilization Study of Asenapine in the United Kingdom (P08308)",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder"
+   },
+   {
+    "nct": "NCT05822713",
+    "title": "A Comparison of the Efficacy of Amisulpride and Placebo in the Prevention of PONV in Patients a",
+    "phase": "PHASE3",
+    "status": "UNKNOWN",
+    "cond": "PONV"
+   },
+   {
+    "nct": "NCT01185418",
+    "title": "Evaluation of Negative Symptoms and Cognitive Function After Administration of Antipsychotics i",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Normal Volunteers"
+   },
+   {
+    "nct": "NCT00534573",
+    "title": "Benzamide Derivates as Treatment of Clozapine-induced Hypersalivation",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Clozapine-induced Hypersalivation"
+   },
+   {
+    "nct": "NCT04876521",
+    "title": "Low Dose Amisulpride Vs Olanzapine-Fluoxetine Combination in Post-Schizophrenic Depression",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Post-Schizophrenic Depression"
+   },
+   {
+    "nct": "NCT00956189",
+    "title": "Identification and Treatment Response Prediction of Antipsychotic-Related Metabolic Syndrome",
+    "phase": "NA",
+    "status": "COMPLETED",
+    "cond": "Metabolic Syndrome X"
+   },
+   {
+    "nct": "NCT00245674",
+    "title": "SOLIACS: Solian Solution in the Acute Setting",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00126009",
+    "title": "SOLMANIA - Comparison of Valproate-Amisulpride and Valproate-Haloperidol in Bipolar I Patients",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Bipolar Disorder"
+   },
+   {
+    "nct": "NCT04529226",
+    "title": "Study to Compare Clozapine vs Treatment as Usual in People With Intellectual Disability & Treat",
+    "phase": "PHASE2",
+    "status": "UNKNOWN",
+    "cond": "Psychosis;Intellectual Disability"
+   },
+   {
+    "nct": "NCT07918222",
+    "title": "Sequential Treatment Approaches for Treatment-Resistant Schizophrenia",
+    "phase": "PHASE3",
+    "status": "RECRUITING",
+    "cond": "Treatment-resistant Schizophrenia"
+   },
+   {
+    "nct": "NCT07494305",
+    "title": "Multicenter Study to Assess the Efficacy and Safety of LB-102 in the Treatment of Adult Patient",
+    "phase": "PHASE2",
+    "status": "RECRUITING",
+    "cond": "Bipolar I Disorder"
+   },
+   {
+    "nct": "NCT00628290",
+    "title": "Evaluation of the Antipsychotic Efficacy of Cannabidiol in Acute Schizophrenic Psychosis",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT00204061",
+    "title": "Early Pharmacological and Psychological Intervention for Late Prodromal States of Psychosis",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia;Psychoses"
+   },
+   {
+    "nct": "NCT06887621",
+    "title": "Efficacy of Adding Oral Amisulpride to Dual Prophylaxis for Postoperative Nausea and Vomiting i",
+    "phase": "PHASE2",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "cond": "Post Operative Nausea and Vomiting (PONV)"
+   },
+   {
+    "nct": "NCT01154829",
+    "title": "Pan European Collaboration on Antipsychotic Naive Schizophrenia (PECANS)",
+    "phase": "NA",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT02557984",
+    "title": "Dopamine and Opioid Receptor Antagonists Reduce Cue-induced Reward Responding and Reward Impuls",
+    "phase": "NA",
+    "status": "COMPLETED",
+    "cond": "Addiction"
+   },
+   {
+    "nct": "NCT03510325",
+    "title": "Sequential Multiple-Assignment Randomized Trials to Compare Antipsychotic Treatments(SMART-CAT)",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT03863691",
+    "title": "Influence of Dopaminergic Blockade on Stress Responses, Motivation and Emotional Reactivity in ",
+    "phase": "NA",
+    "status": "COMPLETED",
+    "cond": "Healthy Participants"
+   },
+   {
+    "nct": "NCT03802838",
+    "title": "Clinical Evaluation of Acupuncture Treatment for Negative Symptoms of Schizophrenia",
+    "phase": "PHASE4",
+    "status": "UNKNOWN",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT04674670",
+    "title": "Psychobiological Mechanisms Underlying Chronic Pain",
+    "phase": "NA",
+    "status": "COMPLETED",
+    "cond": "Fibromyalgia;Pain, Chronic;Chronic Pain, Widespread"
+   },
+   {
+    "nct": "NCT04002258",
+    "title": "Prolactin Change in Chinese Patients With Schizophrenia After Antipsychotics Treatment",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia;Antipyretics Toxicity;Prolactin Excess"
+   },
+   {
+    "nct": "NCT00448630",
+    "title": "An Observational Study On Metabolic Syndrome Parameters In Schizophrenia Patients Treated With ",
+    "phase": "",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia;Metabolic Syndrome X"
+   },
+   {
+    "nct": "NCT01714011",
+    "title": "Safety and Efficacy of Aripiprazole and Ziprasidone Among Schizophrenic Patients With Metabolic",
+    "phase": "PHASE4",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT04954365",
+    "title": "Post Operative Nausea and Vomiting (PONV) Rescue Outcomes After Amisulpride Treatment",
+    "phase": "",
+    "status": "WITHDRAWN",
+    "cond": "Nausea and Vomiting, Postoperative"
+   },
+   {
+    "nct": "NCT04588129",
+    "title": "Receptor Occupancy of LB-102 Using Positron Emission Tomography (PET) in Healthy Volunteers",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT01323205",
+    "title": "Investigation of the Safety, Tolerability and Potential Therapeutic Effects of JNJ-40411813 in ",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Schizophrenia"
+   },
+   {
+    "nct": "NCT04533724",
+    "title": "Study on the Gut Microbial Mechanism of Negative Symptoms of Schizophrenia",
+    "phase": "EARLY_PHASE1",
+    "status": "UNKNOWN",
+    "cond": "Negative Symptom;Schizophrenia;Amisulpride;Gut Microbiomes"
+   }
+  ],
+  "pubmed_all": 1485,
+  "pubmed_human": 955
+ },
+ "intepirdine": {
+  "trials": [
+   {
+    "nct": "NCT00224497",
+    "title": "A Dose Ranging Study To Investigate The Efficacy And Safety Of SB-742457 In Alzheimer's Disease",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02928445",
+    "title": "Long-Term Extension Study of Intepirdine (RVT-101) in Subjects With Dementia With Lewy Bodies: ",
+    "phase": "PHASE2,PHASE3",
+    "status": "TERMINATED",
+    "cond": "Dementia With Lewy Bodies"
+   },
+   {
+    "nct": "NCT00551772",
+    "title": "A Study To Assess The Pharmacokinetics Of SB-742457 Formulated As A Capsule And A Tablet In Hea",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02669433",
+    "title": "Study Evaluating Intepirdine (RVT-101) in Subjects With Dementia With Lewy Bodies: The HEADWAY-",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Dementia With Lewy Bodies"
+   },
+   {
+    "nct": "NCT02586909",
+    "title": "12-Month Open-Label Extension Study of Intepirdine (RVT-101) in Subjects With Alzheimer's Disea",
+    "phase": "PHASE3",
+    "status": "TERMINATED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT00708552",
+    "title": "Study of SB-742457 or Donepezil Versus Placebo in Subjects With Mild-to-moderate Alzheimer's Di",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02585934",
+    "title": "Study Evaluating Intepirdine (RVT-101) in Subjects With Mild to Moderate Alzheimer's Disease on",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02910102",
+    "title": "Study Evaluating Intepirdine (RVT-101) on Gait and Balance in Subjects With Dementia",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease;Dementia With Lewy Bodies;Parkinson's Disease Deme"
+   },
+   {
+    "nct": "NCT00348192",
+    "title": "SB-742457 And Donepezil In Alzheimer's Disease",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT00710684",
+    "title": "A Study of SB-742457, Added to Donepezil for the Treatment of Mild-to-moderate Alzheimer's Dise",
+    "phase": "PHASE2",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   }
+  ],
+  "pubmed_all": 13,
+  "pubmed_human": 2
+ },
+ "idalopirdine": {
+  "trials": [
+   {
+    "nct": "NCT02006654",
+    "title": "Study of Idalopirdine in Patients With Mild - Moderate Alzheimer's Disease Treated With an Acet",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02006641",
+    "title": "Idalopirdine in Patients With Mild-moderate Alzheimer's Disease Treated With Donepezil",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT03307993",
+    "title": "Positron Emission Tomography (PET) Study in Patients With Alzheimer's Disease",
+    "phase": "PHASE1",
+    "status": "TERMINATED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02415907",
+    "title": "Investigating the Absorption, Metabolism and Excretion (AME) of Idalopirdine",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Healthy"
+   },
+   {
+    "nct": "NCT02079246",
+    "title": "Long-term Safety and Tolerability of Idalopirdine (Lu AE58054) as Adjunctive Treatment to Donep",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02436486",
+    "title": "Study Investigating the Effect of Idalopirdine on Cardiac Repolarisation in Healthy Men",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Healthy Volunteers"
+   },
+   {
+    "nct": "NCT02340195",
+    "title": "Pharmacokinetic Properties of Idalopirdine (Lu AE58054) in Subjects With and Without Impaired K",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Alzheimer Disease"
+   },
+   {
+    "nct": "NCT01955161",
+    "title": "Study of Idalopirdine in Patients With Mild - Moderate Alzheimer's Disease Treated With Donepez",
+    "phase": "PHASE3",
+    "status": "COMPLETED",
+    "cond": "Alzheimer's Disease"
+   },
+   {
+    "nct": "NCT02894515",
+    "title": "Bioequivalence Study of Idalopirdine in Healthy Subjects",
+    "phase": "PHASE1",
+    "status": "WITHDRAWN",
+    "cond": "Bioequivalence"
+   },
+   {
+    "nct": "NCT02371707",
+    "title": "Bioequivalence Study of Idalopirdine Tablets 60 mg",
+    "phase": "PHASE1",
+    "status": "COMPLETED",
+    "cond": "Healthy"
+   }
+  ],
+  "pubmed_all": 30,
+  "pubmed_human": 15
+ },
+ "SB-258719": {
+  "trials": [],
+  "pubmed_all": 29,
+  "pubmed_human": 8
+ },
+ "SB-656104": {
+  "trials": [],
+  "pubmed_all": 12,
+  "pubmed_human": 3
+ },
+ "PZ-1444": {
+  "trials": [],
+  "pubmed_all": 2,
+  "pubmed_human": 0
+ }
+}

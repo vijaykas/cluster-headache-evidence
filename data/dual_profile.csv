@@ -1,0 +1,12 @@
+drug,p_5HT1BDF_agonist,CH_class,p_5HT7,HT7_action,lasting
+sumatriptan,8.5,acute abortive only (RCT),6.0,Antagonist,False
+zolmitriptan,8.8,acute abortive only (RCT),,,False
+frovatriptan,8.6,acute/short prophylaxis (migraine),7.3,FULL AGONIST (Comer 2002),False
+dihydroergotamine,9.0,LASTING: IV breaks the bout,8.0,Antagonist,True
+ergotamine,8.8,LASTING: classic prophylaxis,7.4,Antagonist (mouse AID 1345215),True
+methysergide,8.0,"LASTING: prophylaxis, ends bouts",7.8,Antagonist,True
+bromolysergide,9.1,LASTING: remission months (BOL-148 pilot),7.5,Antagonist,True
+lurasidone,,never tested in CH,9.3,Antagonist,False
+vortioxetine,,never tested in CH,6.3,Antagonist,False
+olanzapine,,"abortive only (open, n=5)",6.5,Antagonist,False
+chlorpromazine,,relief in open series (1980),7.6,Inverse agonist,False

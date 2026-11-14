@@ -1,0 +1,54 @@
+,sumatriptan,zolmitriptan,ergotamine,dihydroergotamine,methysergide,psilocin,LSD,BOL-148
+5-hydroxytryptamine receptor 1A,0,1,0,1,0,1,1,1
+5-hydroxytryptamine receptor 2C,1,0,1,1,1,1,1,0
+5-hydroxytryptamine receptor 1D,1,1,1,0,0,1,1,1
+5-hydroxytryptamine receptor 2A,0,0,1,1,1,1,1,1
+5-hydroxytryptamine receptor 1B,1,1,1,0,0,0,0,1
+5-hydroxytryptamine receptor 1E,0,0,0,0,0,1,1,1
+5-hydroxytryptamine receptor 3A,1,0,0,0,0,0,0,0
+5-hydroxytryptamine receptor 5A,0,0,1,0,0,1,1,0
+5-hydroxytryptamine receptor 1F,1,0,0,0,0,0,0,1
+Multidrug and toxin extrusion protein 1,0,0,0,0,0,0,0,0
+5-hydroxytryptamine receptor 7,0,0,0,0,1,1,1,1
+5-hydroxytryptamine receptor 2B,0,0,1,1,1,1,1,0
+Alpha-1A adrenergic receptor,0,0,0,1,0,0,0,0
+Alpha-1D adrenergic receptor,0,0,1,1,0,0,0,0
+Alpha-2A adrenergic receptor,0,0,1,1,0,0,0,0
+Alpha-2B adrenergic receptor,0,0,1,1,0,0,0,0
+Alpha-2C adrenergic receptor,0,0,1,1,0,0,0,0
+Beta-1 adrenergic receptor,0,0,0,0,0,0,0,0
+Beta-2 adrenergic receptor,0,0,0,0,0,0,0,0
+Cytochrome P450 3A4,0,0,0,0,0,0,0,0
+D(1A) dopamine receptor,0,0,0,0,0,1,0,0
+D(2) dopamine receptor,0,0,1,1,0,0,0,0
+D(3) dopamine receptor,0,0,1,1,1,1,1,0
+Tyrosine-protein kinase Fyn,0,0,0,0,0,0,0,0
+Tyrosine-protein kinase Lck,0,0,0,0,0,0,0,0
+5-hydroxytryptamine receptor 6,0,0,1,1,1,1,1,1
+Thromboxane-A synthase,0,0,0,0,0,0,0,0
+ATP-dependent translocase ABCB1,0,0,0,0,0,0,0,0
+Voltage-gated inwardly rectifying potassium channel KCNH2,0,0,0,0,0,0,0,0
+Bile salt export pump,0,0,0,0,0,0,0,0
+Prostaglandin G/H synthase 2,0,0,0,0,0,0,0,0
+Adrenergic receptor alpha-1,0,0,0,1,0,0,0,0
+Menin/Histone-lysine N-methyltransferase MLL,0,0,0,0,0,0,0,0
+Microtubule-associated protein tau,0,0,0,0,0,0,0,0
+Solute carrier family 22 member 2,0,0,0,0,0,0,0,0
+Multidrug and toxin extrusion protein 2,0,0,0,0,0,0,0,0
+Histamine H2 receptor,0,0,0,0,0,0,0,0
+Beta-3 adrenergic receptor,0,0,0,0,0,0,0,0
+Thromboxane A2 receptor,0,0,0,0,0,0,0,0
+Growth hormone secretagogue receptor type 1,0,0,0,0,0,0,0,0
+"3',5'-cyclic-AMP phosphodiesterase 4D",0,0,0,0,0,0,0,0
+Histamine H1 receptor,0,0,0,0,0,0,0,0
+Sigma non-opioid intracellular receptor 1,0,0,0,0,0,0,0,0
+ATP-dependent DNA helicase Q1,0,0,0,0,0,0,0,0
+Histone-lysine N-methyltransferase 2A,0,0,0,0,0,0,0,0
+Aldehyde dehydrogenase 1A1,0,0,0,0,0,0,0,0
+Alpha-galactosidase A,0,0,0,0,0,0,0,0
+Estrogen receptor beta,0,0,0,0,0,0,0,0
+Progesterone receptor,0,0,0,0,0,0,0,0
+Adenosine receptor A2a,0,0,0,0,0,0,0,0
+Adenosine receptor A2b,0,0,0,0,0,0,0,0
+D(4) dopamine receptor,0,0,0,0,0,0,1,0
+D(1B) dopamine receptor,0,0,0,0,0,0,0,0

@@ -1,0 +1,1332 @@
+[
+ {
+  "drug": "psilocin",
+  "cid": 4980,
+  "aid": "1919423",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.072",
+  "gene": "3363",
+  "assay": "Radioligand Binding Assay from US Patent US11642336B2: \"5-HT2A agonists for use in treatment of depression\""
+ },
+ {
+  "drug": "psilocin",
+  "cid": 4980,
+  "aid": "2060761",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0716",
+  "gene": "3363",
+  "assay": "Ray2010 Assay 74 from Article : \"Psychedelics and the human receptorome.\""
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "6611",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00631",
+  "gene": "3363",
+  "assay": "Binding affinity against 5-hydroxytryptamine 7 human receptors"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "6648",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.002",
+  "gene": "65032",
+  "assay": "Binding affinity towards rat 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "6666",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00955",
+  "gene": "65032",
+  "assay": "Binding affinity at rat 5-hydroxytryptamine 7 receptor."
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "6672",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Agonistic activity against rat 5-HT7 adenyl cyclase expressed in HEK293 cells; Active"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "6689",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0066",
+  "gene": "3363",
+  "assay": "Binding affinities towards 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "178693",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Subcutaneous dose giving half-maximal decrease of 5-HTP formation in the rat brain (limbic)"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "178695",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Subcutaneous dose giving half-maximal decrease of 5-HTP formation in the rat brain (striatum)"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "178697",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Subcutaneous dose giving half-maximal decrease of 5-HTP formation in the rat brain hemispheres (cortex)"
+ },
+ {
+  "drug": "LSD",
+  "cid": 5761,
+  "aid": "2060761",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0066",
+  "gene": "3363",
+  "assay": "Ray2010 Assay 74 from Article : \"Psychedelics and the human receptorome.\""
+ },
+ {
+  "drug": "BOL-148",
+  "cid": 10171,
+  "aid": "6587",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.03",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from human 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "BOL-148",
+  "cid": 10171,
+  "aid": "6670",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.01",
+  "gene": "65032",
+  "assay": "Binding affinity towards 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "BOL-148",
+  "cid": 10171,
+  "aid": "6685",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.01",
+  "gene": "3363",
+  "assay": "Non-selective inhibitory activity was determined against 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "BOL-148",
+  "cid": 10171,
+  "aid": "1345215",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "15566",
+  "assay": "Mouse 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "BOL-148",
+  "cid": 10171,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "BOL-148",
+  "cid": 10171,
+  "aid": "1546005",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.03162",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from recombinant human 5-HT7 receptor expressed in African green monkey COS7 cells"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "6670",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.01259",
+  "gene": "65032",
+  "assay": "Binding affinity towards 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "6685",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.01259",
+  "gene": "3363",
+  "assay": "Non-selective inhibitory activity was determined against 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "1345215",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "15566",
+  "assay": "Mouse 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "methysergide",
+  "cid": 9681,
+  "aid": "1546005",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.07943",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from recombinant human 5-HT7 receptor expressed in African green monkey COS7 cells"
+ },
+ {
+  "drug": "dihydroergotamine",
+  "cid": 10531,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "dihydroergotamine",
+  "cid": 10531,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "ergotamine",
+  "cid": 8223,
+  "aid": "1345215",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "15566",
+  "assay": "Mouse 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "sumatriptan",
+  "cid": 5358,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "sumatriptan",
+  "cid": 5358,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "sumatriptan",
+  "cid": 5358,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "sumatriptan",
+  "cid": 5358,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "sumatriptan",
+  "cid": 5358,
+  "aid": "1546005",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "1",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from recombinant human 5-HT7 receptor expressed in African green monkey COS7 cells"
+ },
+ {
+  "drug": "sumatriptan",
+  "cid": 5358,
+  "aid": "1961784",
+  "outcome": "Active",
+  "act_name": "AC50",
+  "value": "4.6732",
+  "gene": "3363",
+  "assay": "Binding affinity towards human HTR7 in an in vitro assay with cellular components measured by membrane filtration"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6587",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0009",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from human 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6611",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0003981",
+  "gene": "3363",
+  "assay": "Binding affinity against 5-hydroxytryptamine 7 human receptors"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6612",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0004898",
+  "gene": "3363",
+  "assay": "Binding affinity to human recombinant 5-hydroxytryptamine 7 receptor in mammalian cells using [3H]5-CT as radioligand"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6650",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00051",
+  "gene": "65032",
+  "assay": "Binding affinity to the rat 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6652",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "2.9e-05",
+  "gene": "65032",
+  "assay": "Binding affinity against Rat 5-hydroxytryptamine 7 receptor using [3H]5-HT"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6662",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Maximal relaxation effect induced by 3 uM compound on substance P stimulated guinea pig ileum with 5-hydroxytryptamine 7 receptor nondesensitization"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6663",
+  "outcome": "Inactive",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Maximal relaxation effect induced by 3 uM compound on substance P stimulated guinea pig ileum with 5-hydroxytryptamine receptor desensitization"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6666",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0001202",
+  "gene": "65032",
+  "assay": "Binding affinity at rat 5-hydroxytryptamine 7 receptor."
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6671",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Agonistic activity against rat 5-HT7 adenyl cyclase expressed by HEK293 cells"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "6678",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.01",
+  "gene": "3363",
+  "assay": "Binding affinity of compound towards rodent 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "282108",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00051",
+  "gene": "65032",
+  "assay": "Displacement of [3H]LSD from rat recombinant 5HT7 receptor expressed in HEK293 cells"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "282111",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.63",
+  "gene": "3363",
+  "assay": "Activity at 5HT7 receptor assessed as relaxation of substance P-induced contraction of Dunkin-Hartley guinea pig ileum"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "282112",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Agonist activity at 5-carboxamidotryptamine desensitized 5HT7 receptor assessed as relaxation of substance P-induced contraction of Dunkin-Hartley guinea pig ileum"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "282113",
+  "outcome": "Active",
+  "act_name": "Kd",
+  "value": "0.03311",
+  "gene": "3363",
+  "assay": "Activity at SB-269970 desensitized 5HT7 receptor assessed as reduction of substance P-induced contraction of Dunkin-Hartley guinea pig ileum"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "282116",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Activity at 5HT7 receptor assessed as relaxation of substance P-induced contraction of Dunkin-Hartley guinea pig ileum at 3 uM"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "296883",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0005",
+  "gene": "65032",
+  "assay": "Displacement of [3H]LSD from rat recombinant 5HT7 receptor expressed in HEK293 cells"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "308128",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00051",
+  "gene": "65032",
+  "assay": "Displacement of [3H]LSD from rat recombinant 5HT7 receptor expressed in HEK293 cells"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "391745",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0005",
+  "gene": "65032",
+  "assay": "Displacement of [3H]LSD from rat cloned 5HT7 receptor expressed in HEK293 cells"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "773788",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0018",
+  "gene": "65032",
+  "assay": "Displacement of [3H]-5-CT from 5-HT7 receptor in Sprague-Dawley rat hypothalamus after 120 mins"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "776869",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0004",
+  "gene": "3363",
+  "assay": "Displacement of [3H]-5-CT from human recombinant 5-HT7 receptor expressed in CHO-K1 cells after 120 mins"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1187938",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7R expressed in HEK293 cells assessed as cAMP accumulation at 12.5 uM incubated for 10 mins by fluorescence assay"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1281956",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7 receptor expressed in HEK293 cells assessed as increase in cAMP level at 10 uM after 15 mins by HTRF assay"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345215",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "15566",
+  "assay": "Mouse 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1384577",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00093",
+  "gene": "3363",
+  "assay": "Binding affinity to 5-HT7 receptor (unknown origin)"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1595154",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Agonist activity at 5-HT7 receptor (unknown origin) expressed in N1E-115 cells assessed as intracellular cAMP response time by confocal laser scanning microscopy"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1595179",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Agonist activity at 5-HT7 receptor (unknown origin) expressed in N1E-115 cells assessed as intracellular cAMP response amplitude by confocal laser scanning microscopy"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1704742",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5HT7 receptor expressed in CHO-K1 cells at 10 uM by calcium 4 dye based FLIPR assay relative to control"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1704743",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.0051",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5HT7 receptor expressed in CHO-K1 cells by calcium 4 dye based FLIPR assay"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1739139",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00035",
+  "gene": "3363",
+  "assay": "Displacement of [3H]-5-CT from human 5-HT7R expressed in human HEK293 cells assessed as inhibitory constant incubated for 60 mins by radioligand binding assay"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "1798075",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0005",
+  "gene": "65032",
+  "assay": "Radioligand Labeled Binding Assay from Article 10.1021/jm070487n: \"Structure-activity relationship study on N-(1,2,3,4-tetrahydronaphthalen-1-yl)-4-aryl-1-piperazinehexanamides, a class of 5-HT7 receptor agents. 2.\""
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "2119130",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7 expressed in HEK293 cells assessed as receptor activation at 10 uM incubated for 60 mins by FLIPR fluorimetry based calcium flux assay relative to control"
+ },
+ {
+  "drug": "5-CT",
+  "cid": 1809,
+  "aid": "2119131",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.0002",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7 expressed in HEK293 cells assessed as receptor activation incubated for 60 mins by FLIPR fluorimetry based calcium flux assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "6587",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0081",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from human 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "6611",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.003162",
+  "gene": "3363",
+  "assay": "Binding affinity against 5-hydroxytryptamine 7 human receptors"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "6648",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.01",
+  "gene": "65032",
+  "assay": "Binding affinity towards rat 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "6666",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0006026",
+  "gene": "65032",
+  "assay": "Binding affinity at rat 5-hydroxytryptamine 7 receptor."
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "6673",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Agonistic activity against rat 5-HT7-adenyl cyclase expressed by HEK293 cells; Active"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "6678",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.004",
+  "gene": "3363",
+  "assay": "Binding affinity of compound towards rodent 5-hydroxytryptamine 7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "308129",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00733",
+  "gene": "65032",
+  "assay": "Displacement of [3H]LSD from rat recombinant 5HT7 receptor expressed in HEK293 cells at 10 uM"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "340267",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.0015",
+  "gene": "3363",
+  "assay": "Inhibition of human 5HT7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "346459",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00022",
+  "gene": "3363",
+  "assay": "Displacement of radiolabeled serotonin from human 5HT7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "346459",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00061",
+  "gene": "3363",
+  "assay": "Displacement of radiolabeled serotonin from human 5HT7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "355721",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00255",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human 5HT7 receptor expressed in CHO cells"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "415371",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.015",
+  "gene": "3363",
+  "assay": "Agonist activity at human recombinant 5HT7 receptor expressed in CHOK1 cells assessed as increase in cAMP levels by HTRF assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "611939",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00013",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human 5HT7 receptor"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "751846",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00011",
+  "gene": "3363",
+  "assay": "Binding affinity to human 5-HT7 receptor by radioligand displacement assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "751846",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00029",
+  "gene": "3363",
+  "assay": "Binding affinity to human 5-HT7 receptor by radioligand displacement assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "752210",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00049",
+  "gene": "3363",
+  "assay": "Binding affinity to human 5-HT7 receptor by radioligand displacement assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1141726",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0014",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from human 5-HT7 receptor expressed in HEK293 cells after 30 mins by microbeta counting analysis"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1152681",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0008",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human recombinant 5-HT7 receptor expressed in CHO cells"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1186027",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.017",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5-HT7 expressed in HEK-293 cells assessed as increase in cAMP level after 45 mins by HTRF assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1188130",
+  "outcome": "Active",
+  "act_name": "Kd",
+  "value": "0.00398",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from human 5HT7 receptor transfected in CFO-K1 cells after 30 mins by liquid scintillation spectrometry"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1196327",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0008",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human 5-HT7 receptor expressed in CHO cells"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1285663",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00025",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human recombinant 5-HT7 receptor expressed in CHO cells"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1330689",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.006",
+  "gene": "3363",
+  "assay": "Displacement of [3H]D-lysergic acid diethylamide from 5HT7R (unknown origin) expressed in HEK293 cell membranes incubated for 1.5 hrs in absence of light by liquid scintillation counting"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1330692",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.005754",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5-HT7R expressed in HEK293 cells assessed as induction of cAMP levels treated for 10 mins measured after 30 mins by D2-dye based fluorescence assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1330692",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.0058",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5-HT7R expressed in HEK293 cells assessed as induction of cAMP levels treated for 10 mins measured after 30 mins by D2-dye based fluorescence assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1336362",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00025",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human recombinant 5HT7 receptor expressed in CHO cells measured after 120 mins by scintillation counting method"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345215",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "15566",
+  "assay": "Mouse 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345235",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "65032",
+  "assay": "Rat 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1345291",
+  "outcome": "Active",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Human 5-HT7 receptor (5-Hydroxytryptamine receptors)"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1380716",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.007",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5-HT7 receptor expressed in CHO-K1 cells assessed as increase in serotonin-induced cAMP level after 1 hr by TR-FRET assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1380717",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Antagonist activity at human 5-HT7 receptor expressed in CHO-K1 cells assessed as decrease in serotonin-induced cAMP level after 1 hr by TR-FRET assay relative to control"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1384702",
+  "outcome": "Inconclusive",
+  "act_name": "IC50",
+  "value": "",
+  "gene": "3363",
+  "assay": "Antagonist activity at human 5-HT7 receptor expressed in HEK293 cells assessed as inhibition of Gs protein-mediated cAMP accumulation by luminescence-based assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1384702",
+  "outcome": "Inconclusive",
+  "act_name": "pIC50",
+  "value": "",
+  "gene": "3363",
+  "assay": "Antagonist activity at human 5-HT7 receptor expressed in HEK293 cells assessed as inhibition of Gs protein-mediated cAMP accumulation by luminescence-based assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1384703",
+  "outcome": "Inconclusive",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Antagonist activity at human 5-HT7 receptor expressed in HEK293 cells assessed as inhibition of Gs protein-mediated cAMP accumulation by luminescence-based assay relative to SB269970"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1384704",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.04786",
+  "gene": "3363",
+  "assay": "Agonist activity at tTA containing TCS cleavage site-fused 5-HT7 receptor (unknown origin) expressed in tTA-dependent luciferase reporter/TEV-fused beta-arrestin2 expressing HTLA cells assessed as induction of beta-arrestin2 recruitment after 22 hrs by Tango assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1384704",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.048",
+  "gene": "3363",
+  "assay": "Agonist activity at tTA containing TCS cleavage site-fused 5-HT7 receptor (unknown origin) expressed in tTA-dependent luciferase reporter/TEV-fused beta-arrestin2 expressing HTLA cells assessed as induction of beta-arrestin2 recruitment after 22 hrs by Tango assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1384707",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7 receptor expressed in HEK293 cells assessed as increase in Gs protein-mediated cAMP accumulation by luminescence-based assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1433984",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00017",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human recombinant 5-HT7 receptor expressed in CHO cells after 120 mins by scintillation counting"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1433984",
+  "outcome": "Active",
+  "act_name": "IC50",
+  "value": "0.00047",
+  "gene": "3363",
+  "assay": "Displacement of [3H]LSD from human recombinant 5-HT7 receptor expressed in CHO cells after 120 mins by scintillation counting"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1545638",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Agonist activity at human recombinant 5-HT7 receptor expressed in CHOK1 cells by LANCE TR-FRET assay relative to control"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1545644",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.00537",
+  "gene": "3363",
+  "assay": "Agonist activity at human recombinant 5-HT7 receptor expressed in CHOK1 cells by LANCE TR-FRET assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1545644",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.0057",
+  "gene": "3363",
+  "assay": "Agonist activity at human recombinant 5-HT7 receptor expressed in CHOK1 cells by LANCE TR-FRET assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1546005",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.007943",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-HT from recombinant human 5-HT7 receptor expressed in African green monkey COS7 cells"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1627080",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.00212",
+  "gene": "3363",
+  "assay": "Displacement of [3H]-5-HT from human 5-HT7 receptor expressed in CHOK1 cell membranes after 30 mins by liquid scintillation spectrometry"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1664669",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.07",
+  "gene": "3363",
+  "assay": "Agonist activity at human recombinant 5-HT7 receptor expressed in CHOK1 Hunter cell incubated for 30 to 60 mins by hit-hunter cAMP assay based chemiluminescence analysis"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1756812",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.00366",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5-HT7A receptor expressed in HEK cell membranes incubated for 20 mins by cAMP functional assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1756813",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "3363",
+  "assay": "Agonist activity at human 5-HT7A receptor expressed in HEK cell membranes incubated for 20 mins by cAMP functional assay relative to control"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1817158",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.0045",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7R transfected in HEK293 cells assessed as Gs-mediated cAMP accumulation incubated for 30 mins by microplate reader analysis"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1817158",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.009333",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7R transfected in HEK293 cells assessed as Gs-mediated cAMP accumulation incubated for 30 mins by microplate reader analysis"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1817159",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.11",
+  "gene": "",
+  "assay": "Agonist activity at 5-HT7R (unknown origin) transfected in HEK293 cells expressing tTA-dependent luciferase reporter and beta arrestin 2-TEV fusion gene assessed as beta arrestin recruitment incubated for 22 hrs by Tango assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1817159",
+  "outcome": "Active",
+  "act_name": "EC50",
+  "value": "0.1122",
+  "gene": "",
+  "assay": "Agonist activity at 5-HT7R (unknown origin) transfected in HEK293 cells expressing tTA-dependent luciferase reporter and beta arrestin 2-TEV fusion gene assessed as beta arrestin recruitment incubated for 22 hrs by Tango assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1817160",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "",
+  "assay": "Agonist activity at human 5-HT7R transfected in HEK293 cells assessed as Gs-mediated cAMP accumulation incubated for 30 mins by microplate reader analysis relative to control"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1817161",
+  "outcome": "Unspecified",
+  "act_name": "",
+  "value": "",
+  "gene": "",
+  "assay": "Agonist activity at 5-HT7R (unknown origin) transfected in HEK293 cells expressing tTA-dependent luciferase reporter and beta arrestin 2-TEV fusion gene assessed as beta arrestin recruitment incubated for 22 hrs by Tango assay relative to control"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "1830042",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0021",
+  "gene": "3363",
+  "assay": "Displacement of [3H]5-CT from human recombinant 5-HT7A receptor expressed in HEK cells by radioligand completion assay"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "2104607",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0011",
+  "gene": "",
+  "assay": "Displacement of [3H]LSD from 5-HT7 receptor (unknown origin) assessed as inhibition binding"
+ },
+ {
+  "drug": "serotonin",
+  "cid": 5202,
+  "aid": "2119120",
+  "outcome": "Active",
+  "act_name": "Ki",
+  "value": "0.0002",
+  "gene": "",
+  "assay": "Binding affinity to human 5-HT7 receptor extracted from HEK293 cell membrane assessed as inhibition of [3H]LSD binding to 5-HT7 by measuring inhibition constant at 1 uM incubated for 1 hrs by microbeta2 reader"
+ }
+]

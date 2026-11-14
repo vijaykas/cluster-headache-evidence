@@ -1,0 +1,531 @@
+[
+ {
+  "drug": "lurasidone",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "risperidone",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "ziprasidone",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "zotepine",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "metergoline",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "dihydroergotamine",
+  "n": 36,
+  "titles": [
+   [
+    "31997136",
+    "2020",
+    "Pharmacotherapy for Cluster Headache."
+   ],
+   [
+    "31889312",
+    "2020",
+    "The Headache Pipeline: Excitement and Uncertainty."
+   ],
+   [
+    "30632614",
+    "2019",
+    "Effectiveness of Oxygen and Other Acute Treatments for Cluster Headache: Results From the Cluster Headache Questionnaire, an International Survey."
+   ],
+   [
+    "26017524",
+    "2015",
+    "Emerging treatments for the primary headache disorders."
+   ],
+   [
+    "25667300",
+    "2015",
+    "Exacerbation of SUNCT and SUNA syndromes during intravenous dihydroergotamine treatment: A case series."
+   ],
+   [
+    "23773141",
+    "2013",
+    "Cluster headache: conventional pharmacological management."
+   ],
+   [
+    "22644186",
+    "2012",
+    "The therapeutic future in headache."
+   ],
+   [
+    "22049203",
+    "2011",
+    "Intravenous dihydroergotamine for inpatient management of refractory primary headaches."
+   ],
+   [
+    "20816442",
+    "2010",
+    "Acute and preventive treatment of cluster headache and other trigeminal autonomic cephalgias."
+   ],
+   [
+    "20352587",
+    "2010",
+    "Cluster headache: diagnosis and treatment."
+   ],
+   [
+    "21718584",
+    "2010",
+    "Cluster headache."
+   ],
+   [
+    "19109043",
+    "2009",
+    "Cluster headache in children--experience from a specialist headache clinic."
+   ],
+   [
+    "19450329",
+    "2008",
+    "Cluster headache."
+   ],
+   [
+    "16628535",
+    "2006",
+    "Diagnosis and treatment of cluster headache."
+   ],
+   [
+    "15549518",
+    "2004",
+    "Cluster headache: symptomatic treatment."
+   ],
+   [
+    "15270595",
+    "2004",
+    "Intranasal medications for the treatment of migraine and cluster headache."
+   ],
+   [
+    "15012663",
+    "2004",
+    "Outpatient intravenous dihydroergotamine for refractory cluster headache."
+   ],
+   [
+    "12808371",
+    "2003",
+    "The emergency management of headaches."
+   ],
+   [
+    "12005276",
+    "2002",
+    "Naratriptan in the prophylaxis of cluster headache."
+   ],
+   [
+    "11252143",
+    "2001",
+    "Treatment and management of cluster headache."
+   ]
+  ]
+ },
+ {
+  "drug": "fluphenazine",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "methysergide",
+  "n": 47,
+  "titles": [
+   [
+    "31889312",
+    "2020",
+    "The Headache Pipeline: Excitement and Uncertainty."
+   ],
+   [
+    "27449673",
+    "2017",
+    "The role of methysergide in migraine and cluster headache treatment worldwide - A survey in members of the International Headache Society."
+   ],
+   [
+    "25005009",
+    "2014",
+    "[Therapy of trigeminal autonomic headaches]."
+   ],
+   [
+    "24934823",
+    "2014",
+    "Valvular heart disease associated with long-term treatment by methysergide: a case report."
+   ],
+   [
+    "22650381",
+    "2012",
+    "Management of cluster headache."
+   ],
+   [
+    "20816442",
+    "2010",
+    "Acute and preventive treatment of cluster headache and other trigeminal autonomic cephalgias."
+   ],
+   [
+    "20569084",
+    "2010",
+    "Pharmacotherapy of cluster headache."
+   ],
+   [
+    "20352587",
+    "2010",
+    "Cluster headache: diagnosis and treatment."
+   ],
+   [
+    "21718584",
+    "2010",
+    "Cluster headache."
+   ],
+   [
+    "19895705",
+    "2009",
+    "Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study."
+   ],
+   [
+    "19402567",
+    "2009",
+    "Diagnostic and therapeutic trajectory of cluster headache patients in Flanders."
+   ],
+   [
+    "19109043",
+    "2009",
+    "Cluster headache in children--experience from a specialist headache clinic."
+   ],
+   [
+    "18651939",
+    "2008",
+    "Cluster headache."
+   ],
+   [
+    "19450329",
+    "2008",
+    "Cluster headache."
+   ],
+   [
+    "17367594",
+    "2007",
+    "Cluster headache treatment dilemmas: the experts respond."
+   ],
+   [
+    "17277688",
+    "2006",
+    "Long-term results of radiosurgery for refractory cluster headache."
+   ],
+   [
+    "16987158",
+    "2006",
+    "EFNS guidelines on the treatment of cluster headache and other trigeminal-autonomic cephalalgias."
+   ],
+   [
+    "15565203",
+    "2004",
+    "Asystole associated with cluster headache."
+   ],
+   [
+    "22151120",
+    "2004",
+    "Hypothalamic deep brain stimulation for the treatment of chronic cluster headaches: a series report."
+   ],
+   [
+    "12699552",
+    "2003",
+    "Stimulation of the posterior hypothalamus for treatment of chronic intractable cluster headaches: first reported series."
+   ]
+  ]
+ },
+ {
+  "drug": "clozapine",
+  "n": 1,
+  "titles": [
+   [
+    "16804270",
+    "2006",
+    "Clozapine-responsive cluster headache."
+   ]
+  ]
+ },
+ {
+  "drug": "mianserin",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "chlorpromazine",
+  "n": 3,
+  "titles": [
+   [
+    "21718584",
+    "2010",
+    "Cluster headache."
+   ],
+   [
+    "19450329",
+    "2008",
+    "Cluster headache."
+   ],
+   [
+    "7390793",
+    "1980",
+    "Cluster headache: response to chlorpromazine."
+   ]
+  ]
+ },
+ {
+  "drug": "ritanserin",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "perphenazine",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "cyamemazine",
+  "n": 1,
+  "titles": [
+   [
+    "41428068",
+    "2026",
+    "Misuse of cocaine in a patient with cluster headache: A clinico-biological case report."
+   ]
+  ]
+ },
+ {
+  "drug": "thioridazine",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "iloperidone",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "cyproheptadine",
+  "n": 3,
+  "titles": [
+   [
+    "3607869",
+    "1987",
+    "Cluster-tic syndrome."
+   ],
+   [
+    "934545",
+    "1976",
+    "[Therapeutic possibilities in idiopathic headaches. Analysis of about 1000 cases]."
+   ],
+   [
+    "810675",
+    "1975",
+    "[Therapeutic possibilities in idiopathic headaches. Analysis of 1000 cases (author's transl)]."
+   ]
+  ]
+ },
+ {
+  "drug": "haloperidol",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "olanzapine",
+  "n": 1,
+  "titles": [
+   [
+    "11576207",
+    "2001",
+    "Olanzapine as an abortive agent for cluster headache."
+   ]
+  ]
+ },
+ {
+  "drug": "ketanserin",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "vortioxetine",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "amisulpride",
+  "n": 0,
+  "titles": []
+ },
+ {
+  "drug": "pizotifen",
+  "n": 11,
+  "titles": [
+   [
+    "33629333",
+    "2021",
+    "Systematic literature review and Bayesian network meta-analysis of episodic cluster headache drugs."
+   ],
+   [
+    "31997136",
+    "2020",
+    "Pharmacotherapy for Cluster Headache."
+   ],
+   [
+    "23852659",
+    "2013",
+    "Cluster headache and oxygen: is it possible to predict which patients will be relieved? A prospective cross-sectional correlation study."
+   ],
+   [
+    "21718584",
+    "2010",
+    "Cluster headache."
+   ],
+   [
+    "19911465",
+    "2009",
+    "What happens to new-onset headache in children that present to primary care? A case-cohort study using electronic primary care records."
+   ],
+   [
+    "19450329",
+    "2008",
+    "Cluster headache."
+   ],
+   [
+    "12472514",
+    "2002",
+    "Paroxysmal hemicrania and cluster headache: two discrete entities or is there an overlap?"
+   ],
+   [
+    "11790156",
+    "2002",
+    "Cluster headache: aetiology, diagnosis and management."
+   ],
+   [
+    "7691515",
+    "1993",
+    "Orofacial neuralgia. Diagnosis and treatment guidelines."
+   ],
+   [
+    "1960054",
+    "1991",
+    "Cerebral arteriovenous malformation and cluster-like headache."
+   ],
+   [
+    "934545",
+    "1976",
+    "[Therapeutic possibilities in idiopathic headaches. Analysis of about 1000 cases]."
+   ]
+  ]
+ },
+ {
+  "drug": "ergotamine",
+  "n": 77,
+  "titles": [
+   [
+    "32310413",
+    "2026",
+    "Ergotamine/Caffeine."
+   ],
+   [
+    "41591603",
+    "2026",
+    "Smoking and cluster headache: clinical, gender, and treatment insights from a cross-sectional cluster analysis."
+   ],
+   [
+    "40410667",
+    "2025",
+    "Ergotamine enhances circadian amplitude and diurnally mitigates nitroglycerin-induced mechanical hypersensitivity."
+   ],
+   [
+    "32541379",
+    "2020",
+    "Patterns of pharmacological treatment of patients with migraine, tension-type headache, and cluster headache in a large group of patients in Colombia, 2019."
+   ],
+   [
+    "30632614",
+    "2019",
+    "Effectiveness of Oxygen and Other Acute Treatments for Cluster Headache: Results From the Cluster Headache Questionnaire, an International Survey."
+   ],
+   [
+    "26709672",
+    "2015",
+    "Normobaric and hyperbaric oxygen therapy for the treatment and prevention of migraine and cluster headache."
+   ],
+   [
+    "24353996",
+    "2013",
+    "Triptans for acute cluster headache."
+   ],
+   [
+    "22773467",
+    "2012",
+    "The history of oxygen inhalation as a treatment for cluster headache."
+   ],
+   [
+    "22650381",
+    "2012",
+    "Management of cluster headache."
+   ],
+   [
+    "22009127",
+    "2011",
+    "[Treatment guidelines for acute and preventive treatment of cluster headache]."
+   ],
+   [
+    "21107766",
+    "2011",
+    "Management of chronic cluster headache."
+   ],
+   [
+    "20816442",
+    "2010",
+    "Acute and preventive treatment of cluster headache and other trigeminal autonomic cephalgias."
+   ],
+   [
+    "20393964",
+    "2010",
+    "Triptans for acute cluster headache."
+   ],
+   [
+    "21718584",
+    "2010",
+    "Cluster headache."
+   ],
+   [
+    "19874534",
+    "2009",
+    "Evidence-based interventional pain medicine according to clinical diagnoses. 2. Cluster headache."
+   ],
+   [
+    "19341028",
+    "2009",
+    "[Cluster headache]."
+   ],
+   [
+    "18646121",
+    "2008",
+    "Normobaric and hyperbaric oxygen therapy for migraine and cluster headache."
+   ],
+   [
+    "19450329",
+    "2008",
+    "Cluster headache."
+   ],
+   [
+    "17885769",
+    "2008",
+    "[Hyper- or normobaric oxygen therapy to treat migraine and cluster headache pain. Cochrane review]."
+   ],
+   [
+    "17217869",
+    "2006",
+    "[Cluster headache (Horton's headache)]."
+   ]
+  ]
+ }
+]

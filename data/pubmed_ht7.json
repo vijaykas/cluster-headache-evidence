@@ -1,0 +1,270 @@
+{
+ "lsd_5ht7_function": {
+  "count": 12,
+  "ids": [
+   "42212270",
+   "11259568",
+   "9671650",
+   "14578406",
+   "8397408",
+   "10051134",
+   "16967291",
+   "8566092"
+  ],
+  "titles": [
+   [
+    "42212270",
+    "2026",
+    "Latrepirdine (Dimebon), a potent 5-HT(7) receptor antagonist, modulates stress-mediated behaviors in rodents."
+   ],
+   [
+    "11259568",
+    "2001",
+    "A 5-HT(7) receptor-mediated depolarization in the anterodorsal thalamus. I. Pharmacological characterization."
+   ],
+   [
+    "9671650",
+    "1998",
+    "Cloning and functional expression of an Aplysia 5-HT receptor negatively coupled to adenylate cyclase."
+   ],
+   [
+    "14578406",
+    "2003",
+    "Pharmacological characterization of a serotonin receptor (5-HT7) stimulating cAMP production in human corneal epithelial cells."
+   ],
+   [
+    "8397408",
+    "1993",
+    "Molecular cloning, characterization, and localization of a high-affinity serotonin receptor (5-HT7) activating cAMP formation."
+   ],
+   [
+    "10051134",
+    "1999",
+    "[3H]-Mesulergine labels 5-HT7 sites in rat brain and guinea-pig ileum but not rat jejunum."
+   ],
+   [
+    "16967291",
+    "2006",
+    "Reanalysis of constitutively active rat and human 5-HT7(a) receptors in HEK-293F cells demonstrates lack of silent properties for reported neutral antagonists."
+   ],
+   [
+    "8566092",
+    "1995",
+    "Characterization of a postjunctional 5-HT receptor mediating relaxation of guinea-pig isolated ileum."
+   ]
+  ]
+ },
+ "psilocin_5ht7": {
+  "count": 3,
+  "ids": [
+   "40424654",
+   "35975761",
+   "37783788"
+  ],
+  "titles": [
+   [
+    "40424654",
+    "2025",
+    "Psilocybin and psilocin regulate microglial immunomodulation and support neuroplasticity via serotonergic and AhR signaling."
+   ],
+   [
+    "35975761",
+    "2022",
+    "New investigational agents for the treatment of major depressive disorder."
+   ],
+   [
+    "37783788",
+    "2023",
+    "Repeated low doses of psilocybin increase resilience to stress, lower compulsive actions, and strengthen cortical connections to the paraventricular thalamic nucleus in rats."
+   ]
+  ]
+ },
+ "frova_5ht7": {
+  "count": 2,
+  "ids": [
+   "12028320",
+   "15726452"
+  ],
+  "titles": [
+   [
+    "12028320",
+    "2002",
+    "Pharmacology of the selective 5-HT(1B/1D) agonist frovatriptan."
+   ],
+   [
+    "15726452",
+    "2005",
+    "Evidence for 5-HT2B and 5-HT7 receptor-mediated relaxation in pulmonary arteries of weaned pigs."
+   ]
+  ]
+ },
+ "ht7_vasodilation": {
+  "count": 20,
+  "ids": [
+   "11937086",
+   "15320857",
+   "27465216",
+   "12434581",
+   "11226128",
+   "17703282",
+   "10961380",
+   "24584680"
+  ],
+  "titles": [
+   [
+    "11937086",
+    "2002",
+    "Is the 5-HT(7) receptor involved in the pathogenesis and prophylactic treatment of migraine?"
+   ],
+   [
+    "15320857",
+    "2003",
+    "Migraine: pathophysiology, pharmacology, treatment and future trends."
+   ],
+   [
+    "27465216",
+    "2017",
+    "The Role of 5-Hydroxytryptamine in the Pathophysiology of Migraine and its Relevance to the Design of Novel Treatments."
+   ],
+   [
+    "12434581",
+    "2002",
+    "An introduction to migraine: from ancient treatment to functional pharmacology and antimigraine therapy."
+   ],
+   [
+    "11226128",
+    "2001",
+    "Evidence for 5-HT(1B/1D) and 5-HT(2A) receptors mediating constriction of the canine internal carotid circulation."
+   ],
+   [
+    "17703282",
+    "2007",
+    "Cardiovascular responses produced by 5-hydroxytriptamine:a pharmacological update on the receptors/mechanisms involved and therapeutic implications."
+   ],
+   [
+    "10961380",
+    "2000",
+    "Mediation of 5-HT-induced internal carotid vasodilatation in GR127935- and ritanserin-pretreated dogs by 5-HT7 receptors."
+   ],
+   [
+    "24584680",
+    "2014",
+    "5-HT7 receptors are involved in neurogenic dural vasodilatation in an experimental model of migraine."
+   ]
+  ]
+ },
+ "ht7_migraine": {
+  "count": 34,
+  "ids": [
+   "14965246",
+   "17897004",
+   "24676550",
+   "17691977",
+   "15320857",
+   "24143101",
+   "11937086",
+   "12070528"
+  ],
+  "titles": [
+   [
+    "14965246",
+    "2004",
+    "5-HT7 receptors."
+   ],
+   [
+    "17897004",
+    "2007",
+    "5-hydroxytryptamine (5-HT) receptor ligands."
+   ],
+   [
+    "24676550",
+    "2014",
+    "Vortioxetine for the treatment of depression."
+   ],
+   [
+    "17691977",
+    "2007",
+    "5HT1F- and 5HT7-receptor agonists for the treatment of migraines."
+   ],
+   [
+    "15320857",
+    "2003",
+    "Migraine: pathophysiology, pharmacology, treatment and future trends."
+   ],
+   [
+    "24143101",
+    "2013",
+    "Lurasidone as a potential therapy for bipolar disorder."
+   ],
+   [
+    "11937086",
+    "2002",
+    "Is the 5-HT(7) receptor involved in the pathogenesis and prophylactic treatment of migraine?"
+   ],
+   [
+    "12070528",
+    "2002",
+    "SB-258741: a 5-HT7 receptor antagonist of potential clinical interest."
+   ]
+  ]
+ },
+ "ht7_cluster": {
+  "count": 0,
+  "ids": []
+ },
+ "ht7_scn": {
+  "count": 88,
+  "ids": [
+   "23136678",
+   "14965246",
+   "36528920",
+   "15032609",
+   "24622785",
+   "9787933",
+   "25324743",
+   "27108672"
+  ],
+  "titles": [
+   [
+    "23136678",
+    "2004",
+    "1-(2-{(2R)-1-[(2-[(18)F]Fluorophenyl)sulfonyl]pyrrolidin-2-yl}ethyl)-4-methylpiperidine."
+   ],
+   [
+    "14965246",
+    "2004",
+    "5-HT7 receptors."
+   ],
+   [
+    "36528920",
+    "2023",
+    "Development and challenges in the discovery of 5-HT(1A) and 5-HT(7) receptor ligands."
+   ],
+   [
+    "15032609",
+    "2004",
+    "Serotonin(7) receptors (5-HT(7)Rs) and their ligands."
+   ],
+   [
+    "24622785",
+    "2014",
+    "Selective agonists for serotonin 7 (5-HT7) receptor and their applications in preclinical models: an overview."
+   ],
+   [
+    "9787933",
+    "1998",
+    "Photic entrainment of circadian rhythms in rodents."
+   ],
+   [
+    "25324743",
+    "2014",
+    "Cellular mechanisms of the 5-HT7 receptor-mediated signaling."
+   ],
+   [
+    "27108672",
+    "2016",
+    "The sleep effects of lurasidone: a placebo-controlled cross-over study using a 4-h phase-advance model of transient insomnia."
+   ]
+  ]
+ }
+}

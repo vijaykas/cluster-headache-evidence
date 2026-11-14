@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Cluster headache: an open evidence base"
+message: "If you use this record or its analyses, please cite it."
+type: dataset
+authors:
+  - given-names: "Vijay"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # optional, free to register
+repository-code: "https://github.com/vijaykas/cluster-headache-evidence"
+abstract: >-
+  A reproducible, machine-readable record of cluster headache research:
+  registered trials and their results, the eight GWAS risk loci and their
+  tissue-level effects, mechanism and provocation findings, and the
+  research and funding landscape. Includes eight computational analyses
+  run against public data, with the code to regenerate them.
+keywords:
+  - cluster headache
+  - trigeminal autonomic cephalalgia
+  - headache
+  - open data
+  - reproducible research
+license: CC-BY-4.0

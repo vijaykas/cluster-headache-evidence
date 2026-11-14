@@ -1,0 +1,251 @@
+{
+ "DUSP10": {
+  "id": "ENSG00000143507",
+  "tractable": [
+   "SM:Structure with Ligand",
+   "PR:Database Ubiquitination",
+   "PR:Small Molecule Binder"
+  ],
+  "drugs": []
+ },
+ "MERTK": {
+  "id": "ENSG00000153208",
+  "tractable": [
+   "SM:Advanced Clinical",
+   "SM:Structure with Ligand",
+   "SM:High-Quality Ligand",
+   "SM:High-Quality Pocket",
+   "SM:Druggable Family",
+   "AB:UniProt loc high conf",
+   "AB:GO CC high conf",
+   "AB:UniProt SigP or TMHMM",
+   "AB:Human Protein Atlas loc",
+   "PR:Literature",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data",
+   "PR:Small Molecule Binder"
+  ],
+  "drugs": [
+   [
+    "NINGETINIB",
+    "PHASE_2"
+   ]
+  ]
+ },
+ "TMEM87B": {
+  "id": "ENSG00000153214",
+  "tractable": [
+   "AB:UniProt SigP or TMHMM",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data"
+  ],
+  "drugs": []
+ },
+ "FBLN7": {
+  "id": "ENSG00000144152",
+  "tractable": [
+   "AB:UniProt loc med conf",
+   "AB:UniProt SigP or TMHMM",
+   "AB:GO CC med conf",
+   "AB:Human Protein Atlas loc"
+  ],
+  "drugs": []
+ },
+ "SLC20A1": {
+  "id": "ENSG00000144136",
+  "tractable": [
+   "AB:UniProt loc high conf",
+   "AB:GO CC high conf",
+   "AB:UniProt SigP or TMHMM",
+   "AB:Human Protein Atlas loc",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data",
+   "PR:Small Molecule Binder"
+  ],
+  "drugs": []
+ },
+ "SATB2": {
+  "id": "ENSG00000119042",
+  "tractable": [
+   "PR:UniProt Ubiquitination",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data"
+  ],
+  "drugs": []
+ },
+ "UFL1": {
+  "id": "ENSG00000014123",
+  "tractable": [
+   "PR:UniProt Ubiquitination",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data"
+  ],
+  "drugs": []
+ },
+ "FHL5": {
+  "id": "ENSG00000112214",
+  "tractable": [
+   "PR:Database Ubiquitination"
+  ],
+  "drugs": []
+ },
+ "KLHL32": {
+  "id": "ENSG00000186231",
+  "tractable": [
+   "SM:Druggable Family",
+   "PR:Database Ubiquitination"
+  ],
+  "drugs": []
+ },
+ "NDUFAF4": {
+  "id": "ENSG00000123545",
+  "tractable": [
+   "SM:Approved Drug",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data"
+  ],
+  "drugs": [
+   [
+    "METFORMIN HYDROCHLORIDE",
+    "WITHDRAWAL"
+   ],
+   [
+    "ME-344",
+    "PHASE_1_2"
+   ],
+   [
+    "METFORMIN",
+    "WITHDRAWAL"
+   ]
+  ]
+ },
+ "CFTR": {
+  "id": "ENSG00000001626",
+  "tractable": [
+   "SM:Approved Drug",
+   "SM:Structure with Ligand",
+   "SM:High-Quality Ligand",
+   "SM:High-Quality Pocket",
+   "SM:Druggable Family",
+   "AB:UniProt loc high conf",
+   "AB:GO CC high conf",
+   "AB:UniProt SigP or TMHMM",
+   "PR:UniProt Ubiquitination",
+   "PR:Database Ubiquitination",
+   "PR:Small Molecule Binder"
+  ],
+  "drugs": [
+   [
+    "GALICAFTOR",
+    "PHASE_2"
+   ],
+   [
+    "OLACAFTOR",
+    "PHASE_2"
+   ],
+   [
+    "BAMOCAFTOR",
+    "PHASE_3"
+   ],
+   [
+    "DEUTIVACAFTOR",
+    "APPROVAL"
+   ],
+   [
+    "TEZACAFTOR",
+    "PHASE_4"
+   ],
+   [
+    "ICENTICAFTOR",
+    "PHASE_2"
+   ],
+   [
+    "IVACAFTOR",
+    "PHASE_4"
+   ],
+   [
+    "CROFELEMER",
+    "PHASE_4"
+   ],
+   [
+    "NAVOCAFTOR",
+    "PHASE_2"
+   ],
+   [
+    "ELEXACAFTOR",
+    "PHASE_4"
+   ],
+   [
+    "IOWH-032",
+    "PHASE_2"
+   ],
+   [
+    "LUMACAFTOR",
+    "PHASE_4"
+   ],
+   [
+    "VANZACAFTOR",
+    "APPROVAL"
+   ]
+  ]
+ },
+ "CAPZA2": {
+  "id": "ENSG00000198898",
+  "tractable": [
+   "AB:GO CC high conf",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data"
+  ],
+  "drugs": []
+ },
+ "ST7": {
+  "id": "ENSG00000004866",
+  "tractable": [
+   "AB:UniProt SigP or TMHMM",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data"
+  ],
+  "drugs": []
+ },
+ "PLCE1": {
+  "id": "ENSG00000138193",
+  "tractable": [
+   "SM:Structure with Ligand",
+   "AB:GO CC high conf",
+   "AB:UniProt loc med conf"
+  ],
+  "drugs": []
+ },
+ "LRP1": {
+  "id": "ENSG00000123384",
+  "tractable": [
+   "AB:GO CC high conf",
+   "AB:UniProt loc med conf",
+   "AB:UniProt SigP or TMHMM",
+   "AB:Human Protein Atlas loc",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data",
+   "OC:Advanced Clinical"
+  ],
+  "drugs": [
+   [
+    "ANG1005",
+    "PHASE_3"
+   ]
+  ]
+ },
+ "CAPN2": {
+  "id": "ENSG00000162909",
+  "tractable": [
+   "SM:High-Quality Ligand",
+   "SM:Med-Quality Pocket",
+   "SM:Druggable Family",
+   "AB:GO CC high conf",
+   "AB:UniProt loc med conf",
+   "PR:Database Ubiquitination",
+   "PR:Half-life Data",
+   "PR:Small Molecule Binder"
+  ],
+  "drugs": []
+ }
+}

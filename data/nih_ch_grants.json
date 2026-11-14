@@ -1,0 +1,2452 @@
+{
+ "all": [
+  {
+   "fiscal_year": 2026,
+   "project_num": "1R61NS144491-01A1",
+   "organization": {
+    "org_name": "UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON",
+    "city": null,
+    "country": null,
+    "org_city": "HOUSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "TX",
+    "org_state_name": null,
+    "dept_type": "NEUROSURGERY",
+    "fips_country_code": null,
+    "org_duns": [
+     "800771594"
+    ],
+    "org_ueis": [
+     "ZUFBNVZ587D4"
+    ],
+    "primary_duns": "800771594",
+    "primary_uei": "ZUFBNVZ587D4",
+    "org_fips": "US",
+    "org_ipf_code": "578417",
+    "org_zipcode": "770305400",
+    "external_org_id": 578417
+   },
+   "activity_code": "R61",
+   "award_amount": 392223,
+   "principal_investigators": [
+    {
+     "profile_id": 7860313,
+     "first_name": "Mark",
+     "middle_name": "J",
+     "last_name": "Burish",
+     "is_contact_pi": true,
+     "full_name": "Mark J Burish",
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "profile_id": 11974136,
+     "first_name": "Seung-Hee",
+     "middle_name": "",
+     "last_name": "Yoo",
+     "is_contact_pi": false,
+     "full_name": "Seung-Hee  Yoo",
+     "title": "ASSISTANT PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2026-09-05T00:00:00",
+   "project_end_date": "2027-05-31T00:00:00",
+   "abstract_text": "PROJECT SUMMARY / ABSTRACT\nCluster headache (CH), which affects about 1 in 1,000 people, is a severe and debilitating primary headache\ndisorder characterized by repeated attacks occurring in clusters over weeks or months. CH has clearly defined\nfeatures: severe pain (worse than childbirth), facial autonomic changes (such as a watery eye), restlessness,\nand a striking circadian pattern of attacks (at the same time each day like clockwork in approximately 70.5% of\npatients). CH also has a well-defined pathophysiology of 3 systems: the trigeminovascular pain system, the\nautonomic nervous system, and the hypothalamic system (in particular the posterior hypothalamus, the first brain\narea activated during an attack). Despite the well-known features and systems involved in CH, no disease-\nspecific treatments are available: all CH treatments are repurposed medications from other diseases. This lack\nof CH-specific treatments is due in large part to the lack of a viable animal model that faithfully recapitulates the\naforementioned CH features. To develop a specific animal model for CH, we previously studied a\ntrigeminovascular headache model (repeated nitroglycerin injections), and discovered a circadian pattern of pain\nresponses that reflects the clockwork-like pattern of attacks in CH patients. Furthermore, our analysis also\nidentified a recently discovered CH modifier gene Mertk (MER proto-oncogene, tyrosine receptor kinase) to be\nhighly rhythmically expressed in the trigeminal ganglion. Deletion of Mertk (Mertk-KO) altered the normal\ncircadian rhythm of pain sensitivity by increasing pain sensitivity over 24 hours. Finally, activation of the posterior\nhypothalamus (via c-Fos staining) was observed after NTG administration in wild-type mice. Based on these\nexciting preliminary findings, we hypothesize that a combination of trigeminovascular (nitroglycerin), genetic\n(Mertk-KO), and hypothalamic (direct optogenetic activation of the posterior hypothalamus) manipulations will\ngenerate the first multi-modal animal model of CH. In Aim 1 (the R61 phase), we will determine the contributions\nof each aspect of our combined model, alone or in combination (a 4x2 grid of NTG or control, Mertk KO mouse\nor wild-type control, and optogenetic injection or control). Our milestone for progression to the R33 phase will be\nsignificant differences in at least two pain behaviors in our model compared to controls. In Aims 2 and 3 (the R33\nphase), we will validate our model through face validity (lacrimation and restlessness), construct validity (CGRP,\nPACAP, and VIP in the trigeminal ganglion and hypothalamus), and predictive validity (ability of first-line and\nnew treatments to ameliorate the pain behaviors of our model). This project is highly significant and innovative,\naddressing a profound need for a specific and comprehensive animal model for this devastating yet understudied\ndisease. With the unique combination of complementary expertise in CH (laboratory and clinical), circadian\nbiology, pharmacology, optogenetics and pain, we are ideally suited to generate this combined CH model with\nthe goal of providing insights into CH pathophysiology and developing novel therapeutics.",
+   "project_title": "Development of a multi-modal mouse model of cluster headache"
+  },
+  {
+   "fiscal_year": 2026,
+   "project_num": "5R01NS136677-03",
+   "organization": {
+    "org_name": "UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON",
+    "city": null,
+    "country": null,
+    "org_city": "HOUSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "TX",
+    "org_state_name": null,
+    "dept_type": "BIOCHEMISTRY",
+    "fips_country_code": null,
+    "org_duns": [
+     "800771594"
+    ],
+    "org_ueis": [
+     "ZUFBNVZ587D4"
+    ],
+    "primary_duns": "800771594",
+    "primary_uei": "ZUFBNVZ587D4",
+    "org_fips": "US",
+    "org_ipf_code": "578417",
+    "org_zipcode": "770305400",
+    "external_org_id": 578417
+   },
+   "activity_code": "R01",
+   "award_amount": 485692,
+   "principal_investigators": [
+    {
+     "profile_id": 7860313,
+     "first_name": "Mark",
+     "middle_name": "J",
+     "last_name": "Burish",
+     "is_contact_pi": false,
+     "full_name": "Mark J Burish",
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "profile_id": 11974136,
+     "first_name": "Seung-Hee",
+     "middle_name": "",
+     "last_name": "Yoo",
+     "is_contact_pi": true,
+     "full_name": "Seung-Hee  Yoo",
+     "title": "ASSISTANT PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2024-04-17T00:00:00",
+   "project_end_date": "2029-03-31T00:00:00",
+   "abstract_text": "PROJECT SUMMARY / ABSTRACT\n Pain, often referred to as the \u201cfifth vital sign,\u201d is a universal experience and a major reason to seek medical\nintervention. Growing evidence indicates a regulatory role of our biological timer, the circadian clock, in pain\ntiming and thresholds. Particularly, several headache disorders have been found to display distinct circadian\nfeatures, including cluster headache (CH) and migraine. CH is an extremely painful disorder (nicknamed \u201csuicide\nheadache\u201d), affecting 1 out of every 1,000 people, and is known to exhibit a precise daily rhythmicity of headache\nattacks. However, the molecular mechanisms underlying rhythmic pain responses in headache disorders remain\npoorly understood. This significant gap in knowledge hinders the development of novel chronotherapeutic\nstrategies to optimize pain management. To elucidate the circadian regulation of pain responses, we first\nexamined the trigeminal ganglion (TG), the primary somatosensory ganglion for the canonical headache\npathway, and discovered strong circadian rhythms in TG ex vivo cultures. Using a nitroglycerin (NTG) induced\nmouse headache model, we demonstrated circadian rhythms of pain sensitivity which were abolished when the\ncore clock genes Per1/Per2 were disrupted. TG RNA-sequencing analysis revealed a robust circadian\ntranscriptome including core clock genes and clock-regulated pain neurotransmitters. Among the most\nrhythmically expressed genes in the TG circadian transcriptome, Mertk (MER proto-oncogene, tyrosine receptor\nkinase) was recently identified as a CH susceptibility gene in three independent large-scale GWAS studies;\nhowever, its role in pain pathways is completely unknown. We found that NTG induced the phosphorylation of\nMERTK (which is required for its tyrosine kinase activity), and importantly circadian pain sensitivity was abolished\nin Mertk KO mice, suggesting a role for Mertk to confer circadian timing to pain pathways. Based on these\nexciting preliminary findings, we hypothesize that the TG circadian clock governs rhythmic headache responses\nvia regulation of pain genes including the novel regulator Mertk. Our two specific aims are as follows. In Aim 1,\ncombining genetic, environmental and pharmacological approaches, we will delineate the regulatory role of the\nnociceptive neuron clock in headache pain rhythms and a potential chronotherapeutic application. In Aim 2, we\nwill investigate the role of MERTK in rhythmic headache responses and identify downstream mechanistic\npathways. This grant proposal embodies conceptual and experimental innovations including circadian regulation\nof headache pain and a novel regulatory role of MERTK in the clock-headache crosstalk. With the unique\ncombination of complementary expertise in circadian biology and headache/CH, we are ideally suited to\ninterrogate key molecular mechanisms at the interface of circadian rhythms and headache pain. Given the\nincreasing appreciation of the fundamental function of the clock in pain pathophysiology, our study will have\nstrong basic and translational impact, and may ultimately lead to a new paradigm of manipulating the circadian\nmachinery to ameliorate headache pain.",
+   "project_title": "Regulation of headache pain responses by the Trigeminal ganglion clock"
+  },
+  {
+   "fiscal_year": 2026,
+   "project_num": "1R21DA066044-01",
+   "organization": {
+    "org_name": "NEW YORK STATE PSYCHIATRIC INSTITUTE DBA RESEARCH FOUNDATION FOR MENTAL HYGIENE, INC",
+    "city": null,
+    "country": null,
+    "org_city": "NEW YORK",
+    "org_country": "UNITED STATES",
+    "org_state": "NY",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "167204994"
+    ],
+    "org_ueis": [
+     "TYVNMW8FNQQ3"
+    ],
+    "primary_duns": "167204994",
+    "primary_uei": "TYVNMW8FNQQ3",
+    "org_fips": "US",
+    "org_ipf_code": "1590919",
+    "org_zipcode": "100321007",
+    "external_org_id": 1590919
+   },
+   "activity_code": "R21",
+   "award_amount": 450175,
+   "principal_investigators": [
+    {
+     "profile_id": 7839182,
+     "first_name": "John",
+     "middle_name": "J",
+     "last_name": "Mariani",
+     "is_contact_pi": true,
+     "full_name": "John J Mariani",
+     "title": "RESEARCH PSYCHIATRIST II"
+    },
+    {
+     "profile_id": 3066082,
+     "first_name": "Diana",
+     "middle_name": "M",
+     "last_name": "Martinez",
+     "is_contact_pi": false,
+     "full_name": "Diana M Martinez",
+     "title": "PSYCHIATRIST II"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "DA",
+    "abbreviation": "NIDA",
+    "name": "National Institute on Drug Abuse",
+    "admin_org_id": "12500072",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2026-05-15T00:00:00",
+   "project_end_date": "2028-04-30T00:00:00",
+   "abstract_text": "Project Summary:\nThe opioid epidemic continues to evolve, with high-potency synthetic opioids (HPSO), such as fentanyl, driving\nrecent increases in the US overdose death rate. The aim of this study is to test the impact of blocking the\nsphenopalatine ganglion (SPG) as an adjunctive treatment to buprenorphine maintenance. The SPG is a large\nautonomic ganglion that can be blocked with a local anesthetic using minimal equipment. SPG blocks have\nbeen used clinically for decades to treat refractory migraine and cluster headache. This study proposes to\nenroll 40 individuals with opioid use disorder (OUD) who test positive for HPSO use. All participants will receive\nstandard treatment with transmucosal buprenorphine and will be randomized to an active versus sham SPG\nblock. The first SPG block will be delivered just prior to induction onto buprenorphine. After that, the SPG block\nwill be performed weekly over the course of this 8-week study. The primary outcome measures will be weekly\nopioid withdrawal symptoms as measured by the clinical opiate withdrawal scale and treatment acceptability as\nmeasured by adherence to the weekly SPG procedure. The primary purpose of this proposed R21 is to\nestimate the 95% confidence interval for the treatment effect size between active and sham SPG block, for\npurpose of planning future studies, which will be done using confidence interval methodology. The resulting\n95% confidence interval provides considerably more information than testing a specific null hypothesis: it gives\nus a range of plausible effect sizes which can be used to estimate potential effect sizes in larger clinical trials.",
+   "project_title": "Induction and Maintenance on Buprenorphine in Opioid Use Disorder: Investigation of a peripheral nerve block for autonomic dysfunction"
+  },
+  {
+   "fiscal_year": 2026,
+   "project_num": "5R01NS132121-03",
+   "organization": {
+    "org_name": "YALE UNIVERSITY",
+    "city": null,
+    "country": null,
+    "org_city": "NEW HAVEN",
+    "org_country": "UNITED STATES",
+    "org_state": "CT",
+    "org_state_name": null,
+    "dept_type": "NEUROLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "043207562"
+    ],
+    "org_ueis": [
+     "FL6GV84CKN57"
+    ],
+    "primary_duns": "043207562",
+    "primary_uei": "FL6GV84CKN57",
+    "org_fips": "US",
+    "org_ipf_code": "9420201",
+    "org_zipcode": "065208327",
+    "external_org_id": 9420201
+   },
+   "activity_code": "R01",
+   "award_amount": 1322110,
+   "principal_investigators": [
+    {
+     "profile_id": 78627917,
+     "first_name": "Maxime",
+     "middle_name": "Olivier",
+     "last_name": "Baud",
+     "is_contact_pi": false,
+     "full_name": "Maxime Olivier Baud",
+     "title": ""
+    },
+    {
+     "profile_id": 6804521,
+     "first_name": "TORE",
+     "middle_name": "",
+     "last_name": "EID",
+     "is_contact_pi": false,
+     "full_name": "TORE  EID",
+     "title": "PROFESSOR"
+    },
+    {
+     "profile_id": 1925965,
+     "first_name": "VIKRAM",
+     "middle_name": "RAMNATH",
+     "last_name": "RAO",
+     "is_contact_pi": false,
+     "full_name": "VIKRAM RAMNATH RAO",
+     "title": ""
+    },
+    {
+     "profile_id": 1902992,
+     "first_name": "DENNIS",
+     "middle_name": "D",
+     "last_name": "SPENCER",
+     "is_contact_pi": false,
+     "full_name": "DENNIS D SPENCER",
+     "title": "PROFESSOR"
+    },
+    {
+     "profile_id": 7034748,
+     "first_name": "HITTEN",
+     "middle_name": "P",
+     "last_name": "ZAVERI",
+     "is_contact_pi": true,
+     "full_name": "HITTEN P ZAVERI",
+     "title": "PROFESSOR OF NEUROLOGY"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2024-07-01T00:00:00",
+   "project_end_date": "2029-06-30T00:00:00",
+   "abstract_text": "PROJECT SUMMARY\nThe hallmark of epilepsy is recurrent seizures, i.e., paroxysmal attacks of abnormal brain electrical activity that\nare associated with high morbidity and premature mortality. In addition to the direct morbidity of seizures,\npeople with epilepsy must also contend with the ever-present uncertainty about when the next seizure will\noccur. The unpredictability of seizures represents a significant and disabling feature of epilepsy. Despite\ndecades of research, there is no established method for determining when a seizure could occur. Akin to\nweather forecasts that estimate the probability of rain, seizure forecasts that quantify the likelihood of seizures\nover a future temporal window could increase the quality of life for patients and families living with epilepsy, so\nthey could plan around a seizure event. A forecast could help patients and families prepare for, or even\nmitigate upcoming seizures. The overarching goals of the present proposal are (1) to elucidate the relationship\nbetween biochemical changes in saliva (a readily available biofluid that reflects systemic chemistry) and\nelectrophysiological features that determine seizure likelihood (recorded from a Responsive Neurostimulation\n(RNS\u00ae) System) and (2) to leverage these relationships to develop effective seizure forecasting methods that\nwill empower people with epilepsy with the unprecedented ability to anticipate and prevent seizures. We have\nstrong preliminary data from people with epilepsy that several saliva chemicals exhibit novel multidien (multi-\nday) and circadian (~24-hour) concentration changes that correlate with periods of increased seizure\nlikelihood. Our central hypothesis states that a latent biochemical variable for seizure likelihood can be\ndetected in people with epilepsy using serial salivary sampling. We will pursue the following specific aims: (1)\nestablish biochemical signatures of multidien seizure likelihood and develop effective seizure forecasting\napproaches; and (2) establish biochemical signatures of increased seizure likelihood over the circadian cycle.\nSuccessful completion of this project will significantly advance the fields of chronobiology, metabolism, and\nepilepsy by: (a) identifying novel multidien and circadian rhythms in biochemical and metabolic pathways in\npeople with epilepsy and healthy controls, (b) linking these changes to possible causes of seizures, and (c)\nusing these changes to forecast seizures and define a more effective standard of care. The expected positive\nimpacts on public health will be to (a) empower people with epilepsy with the ability to anticipate and prevent\nseizures, (b) provide researchers with validated saliva sample collection and analysis approaches, and (c)\ndiscover ground-breaking biochemical insight into the human chrono-metabolome. Detailed knowledge about\nthe chrono-metabolome is expected to fuel innovative studies on various episodic brain disorders that place a\nlarge burden on society, like migraine, cluster headaches, affective disorders, and substance use disorders.",
+   "project_title": "Personalized Seizure Forecasting: A Precision Medicine Approach"
+  },
+  {
+   "fiscal_year": 2025,
+   "project_num": "5R01NS136677-02",
+   "organization": {
+    "org_name": "UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON",
+    "city": null,
+    "country": null,
+    "org_city": "HOUSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "TX",
+    "org_state_name": null,
+    "dept_type": "BIOCHEMISTRY",
+    "fips_country_code": null,
+    "org_duns": [
+     "800771594"
+    ],
+    "org_ueis": [
+     "ZUFBNVZ587D4"
+    ],
+    "primary_duns": "800771594",
+    "primary_uei": "ZUFBNVZ587D4",
+    "org_fips": "US",
+    "org_ipf_code": "578417",
+    "org_zipcode": "770305400",
+    "external_org_id": 578417
+   },
+   "activity_code": "R01",
+   "award_amount": 437472,
+   "principal_investigators": [
+    {
+     "profile_id": 7860313,
+     "first_name": "Mark",
+     "middle_name": "J",
+     "last_name": "Burish",
+     "is_contact_pi": false,
+     "full_name": "Mark J Burish",
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "profile_id": 11974136,
+     "first_name": "Seung-Hee",
+     "middle_name": "",
+     "last_name": "Yoo",
+     "is_contact_pi": true,
+     "full_name": "Seung-Hee  Yoo",
+     "title": "ASSISTANT PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2024-04-17T00:00:00",
+   "project_end_date": "2029-03-31T00:00:00",
+   "abstract_text": "PROJECT SUMMARY / ABSTRACT\n Pain, often referred to as the \u201cfifth vital sign,\u201d is a universal experience and a major reason to seek medical\nintervention. Growing evidence indicates a regulatory role of our biological timer, the circadian clock, in pain\ntiming and thresholds. Particularly, several headache disorders have been found to display distinct circadian\nfeatures, including cluster headache (CH) and migraine. CH is an extremely painful disorder (nicknamed \u201csuicide\nheadache\u201d), affecting 1 out of every 1,000 people, and is known to exhibit a precise daily rhythmicity of headache\nattacks. However, the molecular mechanisms underlying rhythmic pain responses in headache disorders remain\npoorly understood. This significant gap in knowledge hinders the development of novel chronotherapeutic\nstrategies to optimize pain management. To elucidate the circadian regulation of pain responses, we first\nexamined the trigeminal ganglion (TG), the primary somatosensory ganglion for the canonical headache\npathway, and discovered strong circadian rhythms in TG ex vivo cultures. Using a nitroglycerin (NTG) induced\nmouse headache model, we demonstrated circadian rhythms of pain sensitivity which were abolished when the\ncore clock genes Per1/Per2 were disrupted. TG RNA-sequencing analysis revealed a robust circadian\ntranscriptome including core clock genes and clock-regulated pain neurotransmitters. Among the most\nrhythmically expressed genes in the TG circadian transcriptome, Mertk (MER proto-oncogene, tyrosine receptor\nkinase) was recently identified as a CH susceptibility gene in three independent large-scale GWAS studies;\nhowever, its role in pain pathways is completely unknown. We found that NTG induced the phosphorylation of\nMERTK (which is required for its tyrosine kinase activity), and importantly circadian pain sensitivity was abolished\nin Mertk KO mice, suggesting a role for Mertk to confer circadian timing to pain pathways. Based on these\nexciting preliminary findings, we hypothesize that the TG circadian clock governs rhythmic headache responses\nvia regulation of pain genes including the novel regulator Mertk. Our two specific aims are as follows. In Aim 1,\ncombining genetic, environmental and pharmacological approaches, we will delineate the regulatory role of the\nnociceptive neuron clock in headache pain rhythms and a potential chronotherapeutic application. In Aim 2, we\nwill investigate the role of MERTK in rhythmic headache responses and identify downstream mechanistic\npathways. This grant proposal embodies conceptual and experimental innovations including circadian regulation\nof headache pain and a novel regulatory role of MERTK in the clock-headache crosstalk. With the unique\ncombination of complementary expertise in circadian biology and headache/CH, we are ideally suited to\ninterrogate key molecular mechanisms at the interface of circadian rhythms and headache pain. Given the\nincreasing appreciation of the fundamental function of the clock in pain pathophysiology, our study will have\nstrong basic and translational impact, and may ultimately lead to a new paradigm of manipulating the circadian\nmachinery to ameliorate headache pain.",
+   "project_title": "Regulation of headache pain responses by the Trigeminal ganglion clock"
+  },
+  {
+   "fiscal_year": 2025,
+   "project_num": "5R01NS132121-02",
+   "organization": {
+    "org_name": "YALE UNIVERSITY",
+    "city": null,
+    "country": null,
+    "org_city": "NEW HAVEN",
+    "org_country": "UNITED STATES",
+    "org_state": "CT",
+    "org_state_name": null,
+    "dept_type": "NEUROLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "043207562"
+    ],
+    "org_ueis": [
+     "FL6GV84CKN57"
+    ],
+    "primary_duns": "043207562",
+    "primary_uei": "FL6GV84CKN57",
+    "org_fips": "US",
+    "org_ipf_code": "9420201",
+    "org_zipcode": "065208327",
+    "external_org_id": 9420201
+   },
+   "activity_code": "R01",
+   "award_amount": 1322814,
+   "principal_investigators": [
+    {
+     "profile_id": 78627917,
+     "first_name": "Maxime",
+     "middle_name": "Olivier",
+     "last_name": "Baud",
+     "is_contact_pi": false,
+     "full_name": "Maxime Olivier Baud",
+     "title": ""
+    },
+    {
+     "profile_id": 6804521,
+     "first_name": "TORE",
+     "middle_name": "",
+     "last_name": "EID",
+     "is_contact_pi": false,
+     "full_name": "TORE  EID",
+     "title": "PROFESSOR"
+    },
+    {
+     "profile_id": 1925965,
+     "first_name": "VIKRAM",
+     "middle_name": "RAMNATH",
+     "last_name": "RAO",
+     "is_contact_pi": false,
+     "full_name": "VIKRAM RAMNATH RAO",
+     "title": ""
+    },
+    {
+     "profile_id": 1902992,
+     "first_name": "DENNIS",
+     "middle_name": "D",
+     "last_name": "SPENCER",
+     "is_contact_pi": false,
+     "full_name": "DENNIS D SPENCER",
+     "title": "PROFESSOR"
+    },
+    {
+     "profile_id": 7034748,
+     "first_name": "HITTEN",
+     "middle_name": "P",
+     "last_name": "ZAVERI",
+     "is_contact_pi": true,
+     "full_name": "HITTEN P ZAVERI",
+     "title": "PROFESSOR OF NEUROLOGY"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2024-07-01T00:00:00",
+   "project_end_date": "2029-06-30T00:00:00",
+   "abstract_text": "PROJECT SUMMARY\nThe hallmark of epilepsy is recurrent seizures, i.e., paroxysmal attacks of abnormal brain electrical activity that\nare associated with high morbidity and premature mortality. In addition to the direct morbidity of seizures,\npeople with epilepsy must also contend with the ever-present uncertainty about when the next seizure will\noccur. The unpredictability of seizures represents a significant and disabling feature of epilepsy. Despite\ndecades of research, there is no established method for determining when a seizure could occur. Akin to\nweather forecasts that estimate the probability of rain, seizure forecasts that quantify the likelihood of seizures\nover a future temporal window could increase the quality of life for patients and families living with epilepsy, so\nthey could plan around a seizure event. A forecast could help patients and families prepare for, or even\nmitigate upcoming seizures. The overarching goals of the present proposal are (1) to elucidate the relationship\nbetween biochemical changes in saliva (a readily available biofluid that reflects systemic chemistry) and\nelectrophysiological features that determine seizure likelihood (recorded from a Responsive Neurostimulation\n(RNS\u00ae) System) and (2) to leverage these relationships to develop effective seizure forecasting methods that\nwill empower people with epilepsy with the unprecedented ability to anticipate and prevent seizures. We have\nstrong preliminary data from people with epilepsy that several saliva chemicals exhibit novel multidien (multi-\nday) and circadian (~24-hour) concentration changes that correlate with periods of increased seizure\nlikelihood. Our central hypothesis states that a latent biochemical variable for seizure likelihood can be\ndetected in people with epilepsy using serial salivary sampling. We will pursue the following specific aims: (1)\nestablish biochemical signatures of multidien seizure likelihood and develop effective seizure forecasting\napproaches; and (2) establish biochemical signatures of increased seizure likelihood over the circadian cycle.\nSuccessful completion of this project will significantly advance the fields of chronobiology, metabolism, and\nepilepsy by: (a) identifying novel multidien and circadian rhythms in biochemical and metabolic pathways in\npeople with epilepsy and healthy controls, (b) linking these changes to possible causes of seizures, and (c)\nusing these changes to forecast seizures and define a more effective standard of care. The expected positive\nimpacts on public health will be to (a) empower people with epilepsy with the ability to anticipate and prevent\nseizures, (b) provide researchers with validated saliva sample collection and analysis approaches, and (c)\ndiscover ground-breaking biochemical insight into the human chrono-metabolome. Detailed knowledge about\nthe chrono-metabolome is expected to fuel innovative studies on various episodic brain disorders that place a\nlarge burden on society, like migraine, cluster headaches, affective disorders, and substance use disorders.",
+   "project_title": "Personalized Seizure Forecasting: A Precision Medicine Approach"
+  },
+  {
+   "fiscal_year": 2025,
+   "project_num": "1F31NS143421-01",
+   "organization": {
+    "org_name": "UNIVERSITY OF PENNSYLVANIA",
+    "city": null,
+    "country": null,
+    "org_city": "PHILADELPHIA",
+    "org_country": "UNITED STATES",
+    "org_state": "PA",
+    "org_state_name": null,
+    "dept_type": "BIOSTATISTICS & OTHER MATH SCI",
+    "fips_country_code": null,
+    "org_duns": [
+     "042250712"
+    ],
+    "org_ueis": [
+     "GM1XX56LEP58",
+     " Z75RRBRSNRW4"
+    ],
+    "primary_duns": "042250712",
+    "primary_uei": "GM1XX56LEP58",
+    "org_fips": "US",
+    "org_ipf_code": "6463801",
+    "org_zipcode": "191046205",
+    "external_org_id": 6463801
+   },
+   "activity_code": "F31",
+   "award_amount": 39382,
+   "principal_investigators": [
+    {
+     "profile_id": 77807198,
+     "first_name": "Sophie",
+     "middle_name": "",
+     "last_name": "Rogers",
+     "is_contact_pi": true,
+     "full_name": "Sophie  Rogers",
+     "title": "PHD STUDENT"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2025-05-09T00:00:00",
+   "project_end_date": "2025-12-31T00:00:00",
+   "abstract_text": "Project Summary/Abstract\nA dire need for novel chronic pain treatments has arisen due to the opioid crisis and the closure of opioid-\nprescribing pain clinics, affecting over 50 million US adults. The psychedelic serotonin 2a/c receptor (5HT2a/cR)\nagonist psilocybin has shown preliminary efficacy in treating various chronic pain disorders, such as cluster\nheadaches, fibromyalgia, cancer pain, and back pain. However, its mechanisms are still unknown. One\nhypothesis is that psilocybin induces corrective neuroplasticity downstream of 5HT2Rs. While the role of cortical\n5HT2aRs in neuroplasticity is known, 5HT2aR activation by psychedelics induces hallucinations, complicating\nclinical applications. In contrast, cortical 5HT2cR is non-hallucinogenic and anti-addictive, making it a potentially\nvaluable pharmacological target. Although these receptors are Gq-coupled and excitatory in some regions,\ncortical 5HT2cRs are inhibitory due to their coupling with potassium channels. Recently, I established a role for\npsilocybin-induced inhibition of retrosplenial cortex (RSC) neurons responsive to an electrical foot shock in mice\nin enhanced fear extinction. The RSC is one of the few cortical regions expressing 5HT2cRs on Camk2a-\nexpressing pyramidal neurons, which undergo significant transcriptional, morphological, and dynamic changes\nin chronic pain. Chemogenetic inhibition of these neurons in mice can reduce mechanical hyperalgesia, while\nexcitation enhances it after spared nerve injury (SNI)-induced chronic pain, as can a single dose of 1mg/kg of\npsilocybin. Therefore, I hypothesize that psilocybin ameliorates chronic pain by altering the encoding of pain in\nthe RSC (Aim 1) via 5HT2cR stimulation (Aim 2a) and inhibition of excitatory 5HT2cR+ neurons (Aim 2b). In Aim\n1, I will perform one-photon calcium imaging to investigate the effects of psilocybin on encoding spontaneous\npain behaviors acutely, 24 hours post-acutely, and 1 week post-acutely in SNI mice. In Aim 2a, I will perform\nintracranial pharmacology studies to determine the necessity and sufficiency of intra-RSC 5HT2cR stimulation\nfor psilocybin-ameliorated chronic pain. Finally, in Aim 2b, I will chemogenetically manipulate 5HT2cR+ RSC\nneurons to determine if inhibition of these neurons is sufficient to replicate some or all effects of psilocybin.\nSuccessful completion of these aims will provide (1) the first description of the effect of psilocybin and chronic\npain on naturalistic single-cell dynamics and (2) elucidate the role of cortical 5HT2cRs and 5HT2cR+ cells in\nchronic pain relief, laying the foundation for future efforts to improve the viability of psilocybin pain therapy. The\napplicant, Sophie Rogers, will receive advanced training in neurobehavioral deep-learning pain assays,\nintracranial pharmacology and chemogenetics, transgenic approaches, single-cell calcium imaging,\nexperimental design and statistics, and computational analysis of high-dimensional neural datasets from her Co-\nMentors Drs. Gregory Corder and Maria Geffen. This NRSA F31 training will support the applicant\u2019s current and\nfuture research goals and enable her to impact basic neuroscience research as an independent researcher.",
+   "project_title": "Investigating the Cortical Action of Psilocybin in Chronic Pain"
+  },
+  {
+   "fiscal_year": 2024,
+   "project_num": "1R01NS136677-01",
+   "organization": {
+    "org_name": "UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON",
+    "city": null,
+    "country": null,
+    "org_city": "HOUSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "TX",
+    "org_state_name": null,
+    "dept_type": "BIOCHEMISTRY",
+    "fips_country_code": null,
+    "org_duns": [
+     "800771594"
+    ],
+    "org_ueis": [
+     "ZUFBNVZ587D4"
+    ],
+    "primary_duns": "800771594",
+    "primary_uei": "ZUFBNVZ587D4",
+    "org_fips": "US",
+    "org_ipf_code": "578417",
+    "org_zipcode": "770305400",
+    "external_org_id": 578417
+   },
+   "activity_code": "R01",
+   "award_amount": 499303,
+   "principal_investigators": [
+    {
+     "profile_id": 7860313,
+     "first_name": "Mark",
+     "middle_name": "J",
+     "last_name": "Burish",
+     "is_contact_pi": false,
+     "full_name": "Mark J Burish",
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "profile_id": 11974136,
+     "first_name": "Seung-Hee",
+     "middle_name": "",
+     "last_name": "Yoo",
+     "is_contact_pi": true,
+     "full_name": "Seung-Hee  Yoo",
+     "title": "ASSISTANT PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2024-04-17T00:00:00",
+   "project_end_date": "2029-03-31T00:00:00",
+   "abstract_text": "PROJECT SUMMARY / ABSTRACT\n Pain, often referred to as the \u201cfifth vital sign,\u201d is a universal experience and a major reason to seek medical\nintervention. Growing evidence indicates a regulatory role of our biological timer, the circadian clock, in pain\ntiming and thresholds. Particularly, several headache disorders have been found to display distinct circadian\nfeatures, including cluster headache (CH) and migraine. CH is an extremely painful disorder (nicknamed \u201csuicide\nheadache\u201d), affecting 1 out of every 1,000 people, and is known to exhibit a precise daily rhythmicity of headache\nattacks. However, the molecular mechanisms underlying rhythmic pain responses in headache disorders remain\npoorly understood. This significant gap in knowledge hinders the development of novel chronotherapeutic\nstrategies to optimize pain management. To elucidate the circadian regulation of pain responses, we first\nexamined the trigeminal ganglion (TG), the primary somatosensory ganglion for the canonical headache\npathway, and discovered strong circadian rhythms in TG ex vivo cultures. Using a nitroglycerin (NTG) induced\nmouse headache model, we demonstrated circadian rhythms of pain sensitivity which were abolished when the\ncore clock genes Per1/Per2 were disrupted. TG RNA-sequencing analysis revealed a robust circadian\ntranscriptome including core clock genes and clock-regulated pain neurotransmitters. Among the most\nrhythmically expressed genes in the TG circadian transcriptome, Mertk (MER proto-oncogene, tyrosine receptor\nkinase) was recently identified as a CH susceptibility gene in three independent large-scale GWAS studies;\nhowever, its role in pain pathways is completely unknown. We found that NTG induced the phosphorylation of\nMERTK (which is required for its tyrosine kinase activity), and importantly circadian pain sensitivity was abolished\nin Mertk KO mice, suggesting a role for Mertk to confer circadian timing to pain pathways. Based on these\nexciting preliminary findings, we hypothesize that the TG circadian clock governs rhythmic headache responses\nvia regulation of pain genes including the novel regulator Mertk. Our two specific aims are as follows. In Aim 1,\ncombining genetic, environmental and pharmacological approaches, we will delineate the regulatory role of the\nnociceptive neuron clock in headache pain rhythms and a potential chronotherapeutic application. In Aim 2, we\nwill investigate the role of MERTK in rhythmic headache responses and identify downstream mechanistic\npathways. This grant proposal embodies conceptual and experimental innovations including circadian regulation\nof headache pain and a novel regulatory role of MERTK in the clock-headache crosstalk. With the unique\ncombination of complementary expertise in circadian biology and headache/CH, we are ideally suited to\ninterrogate key molecular mechanisms at the interface of circadian rhythms and headache pain. Given the\nincreasing appreciation of the fundamental function of the clock in pain pathophysiology, our study will have\nstrong basic and translational impact, and may ultimately lead to a new paradigm of manipulating the circadian\nmachinery to ameliorate headache pain.",
+   "project_title": "Regulation of headache pain responses by the Trigeminal ganglion clock"
+  },
+  {
+   "fiscal_year": 2024,
+   "project_num": "1R01NS132121-01A1",
+   "organization": {
+    "org_name": "YALE UNIVERSITY",
+    "city": null,
+    "country": null,
+    "org_city": "NEW HAVEN",
+    "org_country": "UNITED STATES",
+    "org_state": "CT",
+    "org_state_name": null,
+    "dept_type": "NEUROLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "043207562"
+    ],
+    "org_ueis": [
+     "FL6GV84CKN57"
+    ],
+    "primary_duns": "043207562",
+    "primary_uei": "FL6GV84CKN57",
+    "org_fips": "US",
+    "org_ipf_code": "9420201",
+    "org_zipcode": "065208327",
+    "external_org_id": 9420201
+   },
+   "activity_code": "R01",
+   "award_amount": 1319282,
+   "principal_investigators": [
+    {
+     "profile_id": 78627917,
+     "first_name": "Maxime",
+     "middle_name": "Olivier",
+     "last_name": "Baud",
+     "is_contact_pi": false,
+     "full_name": "Maxime Olivier Baud",
+     "title": ""
+    },
+    {
+     "profile_id": 6804521,
+     "first_name": "TORE",
+     "middle_name": "",
+     "last_name": "EID",
+     "is_contact_pi": false,
+     "full_name": "TORE  EID",
+     "title": "PROFESSOR"
+    },
+    {
+     "profile_id": 1925965,
+     "first_name": "VIKRAM",
+     "middle_name": "RAMNATH",
+     "last_name": "RAO",
+     "is_contact_pi": false,
+     "full_name": "VIKRAM RAMNATH RAO",
+     "title": ""
+    },
+    {
+     "profile_id": 1902992,
+     "first_name": "DENNIS",
+     "middle_name": "D",
+     "last_name": "SPENCER",
+     "is_contact_pi": false,
+     "full_name": "DENNIS D SPENCER",
+     "title": "PROFESSOR"
+    },
+    {
+     "profile_id": 7034748,
+     "first_name": "HITTEN",
+     "middle_name": "P",
+     "last_name": "ZAVERI",
+     "is_contact_pi": true,
+     "full_name": "HITTEN P ZAVERI",
+     "title": "PROFESSOR OF NEUROLOGY"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2024-07-01T00:00:00",
+   "project_end_date": "2029-06-30T00:00:00",
+   "abstract_text": "PROJECT SUMMARY\nThe hallmark of epilepsy is recurrent seizures, i.e., paroxysmal attacks of abnormal brain electrical activity that\nare associated with high morbidity and premature mortality. In addition to the direct morbidity of seizures,\npeople with epilepsy must also contend with the ever-present uncertainty about when the next seizure will\noccur. The unpredictability of seizures represents a significant and disabling feature of epilepsy. Despite\ndecades of research, there is no established method for determining when a seizure could occur. Akin to\nweather forecasts that estimate the probability of rain, seizure forecasts that quantify the likelihood of seizures\nover a future temporal window could increase the quality of life for patients and families living with epilepsy, so\nthey could plan around a seizure event. A forecast could help patients and families prepare for, or even\nmitigate upcoming seizures. The overarching goals of the present proposal are (1) to elucidate the relationship\nbetween biochemical changes in saliva (a readily available biofluid that reflects systemic chemistry) and\nelectrophysiological features that determine seizure likelihood (recorded from a Responsive Neurostimulation\n(RNS\u00ae) System) and (2) to leverage these relationships to develop effective seizure forecasting methods that\nwill empower people with epilepsy with the unprecedented ability to anticipate and prevent seizures. We have\nstrong preliminary data from people with epilepsy that several saliva chemicals exhibit novel multidien (multi-\nday) and circadian (~24-hour) concentration changes that correlate with periods of increased seizure\nlikelihood. Our central hypothesis states that a latent biochemical variable for seizure likelihood can be\ndetected in people with epilepsy using serial salivary sampling. We will pursue the following specific aims: (1)\nestablish biochemical signatures of multidien seizure likelihood and develop effective seizure forecasting\napproaches; and (2) establish biochemical signatures of increased seizure likelihood over the circadian cycle.\nSuccessful completion of this project will significantly advance the fields of chronobiology, metabolism, and\nepilepsy by: (a) identifying novel multidien and circadian rhythms in biochemical and metabolic pathways in\npeople with epilepsy and healthy controls, (b) linking these changes to possible causes of seizures, and (c)\nusing these changes to forecast seizures and define a more effective standard of care. The expected positive\nimpacts on public health will be to (a) empower people with epilepsy with the ability to anticipate and prevent\nseizures, (b) provide researchers with validated saliva sample collection and analysis approaches, and (c)\ndiscover ground-breaking biochemical insight into the human chrono-metabolome. Detailed knowledge about\nthe chrono-metabolome is expected to fuel innovative studies on various episodic brain disorders that place a\nlarge burden on society, like migraine, cluster headaches, affective disorders, and substance use disorders.",
+   "project_title": "Personalized Seizure Forecasting: A Precision Medicine Approach"
+  },
+  {
+   "fiscal_year": 2022,
+   "project_num": "1R43EY033606-01",
+   "organization": {
+    "org_name": "ELORAC, INC.",
+    "city": null,
+    "country": null,
+    "org_city": "VERNON HILLS",
+    "org_country": "UNITED STATES",
+    "org_state": "IL",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "832590009"
+    ],
+    "org_ueis": [
+     "GBYHPR3SCV73"
+    ],
+    "primary_duns": "832590009",
+    "primary_uei": "GBYHPR3SCV73",
+    "org_fips": "US",
+    "org_ipf_code": "10031066",
+    "org_zipcode": "600611859",
+    "external_org_id": 10031066
+   },
+   "activity_code": "R43",
+   "award_amount": 160284,
+   "principal_investigators": [
+    {
+     "profile_id": 12550593,
+     "first_name": "Scott",
+     "middle_name": "",
+     "last_name": "Phillips",
+     "is_contact_pi": true,
+     "full_name": "Scott  Phillips",
+     "title": "SENIOR VICE PRESIDENT, SCIENTIFIC AFFAIR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "EY",
+    "abbreviation": "NEI",
+    "name": "National Eye Institute",
+    "admin_org_id": "12500073",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2022-02-01T00:00:00",
+   "project_end_date": "2022-08-11T00:00:00",
+   "abstract_text": "7. Project Summary/Abstract\nThe project is a Phase II clinical study of Civamide Nasal Spray for the treatment of Dry Eye Disease, an\nirritating and potentially severely disabling ocular disease. If this study is successful in the treatment of Dry Eye\nDisease, further clinical development will proceed, i.e., Phase 3 studies to support the filing of a New Drug\nApplication. Currently, all approved medications for treating Dry Eye Disease are directly instilled into the eye\nwith the possibility of ocular side effects. Civamide Nasal Spray is unique in that it exerts its therapeutic effect\nlocally in the nasal mucosa without systemic absorption being detected, as shown in a pharmacokinetic study.1\nThe availability of a safe and effective medication for Dry Eye Disease for these patients, i.e., Civamide Nasal\nSpray, will thus fill an unmet medical need.\nCivamide, a TRPV-1 receptor modulator,2,3 is a medication with a mechanism of action that affects nerves by\nmodulating the synthesis, release, and transport of neurotransmitters. Dry Eye Disease is a disease of the\nsurface of the eye, tear film, and related ocular tissues, including mucosal glands, which in part, are innervated\nby the trigeminal nerve.4,5,6 The trigeminal nerve also has superficial nerve endings in the nasal mucosa, which\nare the targets of Civamide Nasal Spray. By affecting these nerve endings, neurotransmitter physiology is\naffected throughout the entire nerve. Increased lacrimation as a result of this novel mechanism of action has\nbeen observed when Civamide Nasal Spray is applied to the nasal mucosa in both normal subjects and\nsubjects with headache disorders mediated by the trigeminal nerve, e.g., migraine headache7 and cluster\nheadache8.\nThis proposed study is a 12 week, double-blind, vehicle-controlled study of adult subjects that have moderate\nto severe Dry Eye Disease for at least 6 months, and a Schirmer\u2019s Test of \u2264 8 per 5 minutes in at least one eye\nat screening and baseline. The study is composed of a non-treatment Screening Period during which subjects\nwill be required to meet study inclusion criteria, followed by a 12-week Double-Blind Treatment Period.\nSubjects will be randomized 1:1, approximately 20 subjects per group. The primary outcome variable will be\nthe change in the Schirmer\u2019s Test from Baseline to Day 84 of the Treatment Period. Adverse events will be\nrecorded during the study.",
+   "project_title": "Civamide Nasal Spray for the Treatment of Dry Eye"
+  },
+  {
+   "fiscal_year": 2016,
+   "project_num": "4R01NR013861-05",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": "NONE",
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "R01",
+   "award_amount": 363442,
+   "principal_investigators": [
+    {
+     "profile_id": 1906093,
+     "first_name": "JANEAN",
+     "middle_name": "E",
+     "last_name": "HOLDEN",
+     "is_contact_pi": true,
+     "full_name": "JANEAN E HOLDEN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NR",
+    "abbreviation": "NINR",
+    "name": "National Institute of Nursing Research",
+    "admin_org_id": "12500052",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-11T00:00:00",
+   "project_end_date": "2018-06-30T00:00:00",
+   "abstract_text": "   \nDESCRIPTION (provided by applicant): The posterior hypothalamus (PH) is an understudied but potentially powerful site for activating descending brainstem systems that modulate pain. Little is known about how forebrain structures modify either acute nociceptive or chronic neuropathic pain in the spinal cord dorsal horn, and whether such modulation is influenced by conditions such as sex and pain type. Using female adult rats, we demonstrated in an acute thermal pain model that: 1) stimulating the PH produced opposing modulation in the spinal cord dorsal horn; 2) alpha2-adrenoceptors mediated antinociception; and 3) alpha1-adrenoceptors mediated opposing, concurrent pronociception. Antinociception predominates, but is attenuated by the pronociceptive effect. Our published data show that PH stimulation also produces robust antinociception in female (n = 11) rats in a model of neuropathic pain (the chronic constriction injury model, or CCI), and pilot data demonstrated PH-induced antinociception in male (n = 3) rats with CCI. We do not know whether the extent of PH stimulation (as determined by dose of PH stimulation) affects outcomes in either sex or pain type, or whether alpha- adrenoceptors function the same way based on animal sex or pain type. Deep brain stimulation in the PH is used clinically for severe headaches with success and with few side effects, but has not been used for other types of neuropathic pain. Given the magnitude of the problem of neuropathic pain and the potential pain relief from PH stimulation demonstrated in humans and rats, the PH may be an effective site for deep brain stimulation in humans for systemic types of pain. Therefore, the aim of this proposal is to extend our findings to examine dose of PH stimulating agent (carbachol), sex, and pain type (nociceptive or neuropathic) in activation of the alpha-adrenoceptor-mediated opposing response in the spinal cord dorsal horn. In two experiments, the PH will be stimulated with four doses of carbachol (62, 12, 250, 500 nmol) alone and with intrathecal injection (IT) of alpha-adrenoceptor antagonists. We will then examine the effect of sex, pain type and dose on the mechanisms of the alpha-mediated opposing response as measured by foot withdrawal latency (FWL). In all experiments, we will take blood samples from female Sprague-Dawley rats to measure serum estradiol and progesterone to establish the hormonal milieu at the time of the experiment. Using multivariate statistical analysis, we will determine whether PH stimulation produces different responses in alpha-adrenoceptor subtype-mediated nociceptive modulation in the nociceptive and CCI model, whether female responses differ from males, and whether the dose of the PH stimulating agent affects the outcome. Results will have an impact on the development of more effective individualized clinical treatments that reduce neuropathic pain and promote analgesia in female and male adults. Because the potential treatment has already been used for neurovascular headaches, our application done in whole animals provides a critical translational piece between cellular mechanisms and work done with human cluster headaches that may have different pain mechanisms than pain occurring elsewhere in the body.   \n   \n",
+   "project_title": "Posterior hypothalamic modulation of pain"
+  },
+  {
+   "fiscal_year": 2015,
+   "project_num": "5R01NR013861-04",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": "NONE",
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "R01",
+   "award_amount": 391014,
+   "principal_investigators": [
+    {
+     "profile_id": 1906093,
+     "first_name": "JANEAN",
+     "middle_name": "E",
+     "last_name": "HOLDEN",
+     "is_contact_pi": true,
+     "full_name": "JANEAN E HOLDEN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NR",
+    "abbreviation": "NINR",
+    "name": "National Institute of Nursing Research",
+    "admin_org_id": "12500052",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-11T00:00:00",
+   "project_end_date": "2016-06-30T00:00:00",
+   "abstract_text": "   \nDESCRIPTION (provided by applicant): The posterior hypothalamus (PH) is an understudied but potentially powerful site for activating descending brainstem systems that modulate pain. Little is known about how forebrain structures modify either acute nociceptive or chronic neuropathic pain in the spinal cord dorsal horn, and whether such modulation is influenced by conditions such as sex and pain type. Using female adult rats, we demonstrated in an acute thermal pain model that: 1) stimulating the PH produced opposing modulation in the spinal cord dorsal horn; 2) alpha2-adrenoceptors mediated antinociception; and 3) alpha1-adrenoceptors mediated opposing, concurrent pronociception. Antinociception predominates, but is attenuated by the pronociceptive effect. Our published data show that PH stimulation also produces robust antinociception in female (n = 11) rats in a model of neuropathic pain (the chronic constriction injury model, or CCI), and pilot data demonstrated PH-induced antinociception in male (n = 3) rats with CCI. We do not know whether the extent of PH stimulation (as determined by dose of PH stimulation) affects outcomes in either sex or pain type, or whether alpha- adrenoceptors function the same way based on animal sex or pain type. Deep brain stimulation in the PH is used clinically for severe headaches with success and with few side effects, but has not been used for other types of neuropathic pain. Given the magnitude of the problem of neuropathic pain and the potential pain relief from PH stimulation demonstrated in humans and rats, the PH may be an effective site for deep brain stimulation in humans for systemic types of pain. Therefore, the aim of this proposal is to extend our findings to examine dose of PH stimulating agent (carbachol), sex, and pain type (nociceptive or neuropathic) in activation of the alpha-adrenoceptor-mediated opposing response in the spinal cord dorsal horn. In two experiments, the PH will be stimulated with four doses of carbachol (62, 12, 250, 500 nmol) alone and with intrathecal injection (IT) of alpha-adrenoceptor antagonists. We will then examine the effect of sex, pain type and dose on the mechanisms of the alpha-mediated opposing response as measured by foot withdrawal latency (FWL). In all experiments, we will take blood samples from female Sprague-Dawley rats to measure serum estradiol and progesterone to establish the hormonal milieu at the time of the experiment. Using multivariate statistical analysis, we will determine whether PH stimulation produces different responses in alpha-adrenoceptor subtype-mediated nociceptive modulation in the nociceptive and CCI model, whether female responses differ from males, and whether the dose of the PH stimulating agent affects the outcome. Results will have an impact on the development of more effective individualized clinical treatments that reduce neuropathic pain and promote analgesia in female and male adults. Because the potential treatment has already been used for neurovascular headaches, our application done in whole animals provides a critical translational piece between cellular mechanisms and work done with human cluster headaches that may have different pain mechanisms than pain occurring elsewhere in the body.   \n   \n",
+   "project_title": "Posterior hypothalamic modulation of pain"
+  },
+  {
+   "fiscal_year": 2014,
+   "project_num": "5R01NR013861-03",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": "NONE",
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "R01",
+   "award_amount": 393494,
+   "principal_investigators": [
+    {
+     "profile_id": 1906093,
+     "first_name": "JANEAN",
+     "middle_name": "E",
+     "last_name": "HOLDEN",
+     "is_contact_pi": true,
+     "full_name": "JANEAN E HOLDEN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NR",
+    "abbreviation": "NINR",
+    "name": "National Institute of Nursing Research",
+    "admin_org_id": "12500052",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-11T00:00:00",
+   "project_end_date": "2017-06-30T00:00:00",
+   "abstract_text": "   \nDESCRIPTION (provided by applicant): The posterior hypothalamus (PH) is an understudied but potentially powerful site for activating descending brainstem systems that modulate pain. Little is known about how forebrain structures modify either acute nociceptive or chronic neuropathic pain in the spinal cord dorsal horn, and whether such modulation is influenced by conditions such as sex and pain type. Using female adult rats, we demonstrated in an acute thermal pain model that: 1) stimulating the PH produced opposing modulation in the spinal cord dorsal horn; 2) alpha2-adrenoceptors mediated antinociception; and 3) alpha1-adrenoceptors mediated opposing, concurrent pronociception. Antinociception predominates, but is attenuated by the pronociceptive effect. Our published data show that PH stimulation also produces robust antinociception in female (n = 11) rats in a model of neuropathic pain (the chronic constriction injury model, or CCI), and pilot data demonstrated PH-induced antinociception in male (n = 3) rats with CCI. We do not know whether the extent of PH stimulation (as determined by dose of PH stimulation) affects outcomes in either sex or pain type, or whether alpha- adrenoceptors function the same way based on animal sex or pain type. Deep brain stimulation in the PH is used clinically for severe headaches with success and with few side effects, but has not been used for other types of neuropathic pain. Given the magnitude of the problem of neuropathic pain and the potential pain relief from PH stimulation demonstrated in humans and rats, the PH may be an effective site for deep brain stimulation in humans for systemic types of pain. Therefore, the aim of this proposal is to extend our findings to examine dose of PH stimulating agent (carbachol), sex, and pain type (nociceptive or neuropathic) in activation of the alpha-adrenoceptor-mediated opposing response in the spinal cord dorsal horn. In two experiments, the PH will be stimulated with four doses of carbachol (62, 12, 250, 500 nmol) alone and with intrathecal injection (IT) of alpha-adrenoceptor antagonists. We will then examine the effect of sex, pain type and dose on the mechanisms of the alpha-mediated opposing response as measured by foot withdrawal latency (FWL). In all experiments, we will take blood samples from female Sprague-Dawley rats to measure serum estradiol and progesterone to establish the hormonal milieu at the time of the experiment. Using multivariate statistical analysis, we will determine whether PH stimulation produces different responses in alpha-adrenoceptor subtype-mediated nociceptive modulation in the nociceptive and CCI model, whether female responses differ from males, and whether the dose of the PH stimulating agent affects the outcome. Results will have an impact on the development of more effective individualized clinical treatments that reduce neuropathic pain and promote analgesia in female and male adults. Because the potential treatment has already been used for neurovascular headaches, our application done in whole animals provides a critical translational piece between cellular mechanisms and work done with human cluster headaches that may have different pain mechanisms than pain occurring elsewhere in the body.   \n   \n",
+   "project_title": "Posterior hypothalamic modulation of pain"
+  },
+  {
+   "fiscal_year": 2013,
+   "project_num": "5R43NS074658-02",
+   "organization": {
+    "org_name": "WINSTON PHARMACEUTICALS, INC.",
+    "city": null,
+    "country": null,
+    "org_city": "VERNON HILLS",
+    "org_country": "UNITED STATES",
+    "org_state": "IL",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "117754601"
+    ],
+    "org_ueis": null,
+    "primary_duns": "117754601",
+    "primary_uei": null,
+    "org_fips": "US",
+    "org_ipf_code": "10026943",
+    "org_zipcode": "600611859",
+    "external_org_id": 10026943
+   },
+   "activity_code": "R43",
+   "award_amount": 195569,
+   "principal_investigators": [
+    {
+     "profile_id": 10606889,
+     "first_name": "Scott",
+     "middle_name": "B",
+     "last_name": "Phillips",
+     "is_contact_pi": true,
+     "full_name": "Scott B Phillips",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-15T00:00:00",
+   "project_end_date": "2015-08-31T00:00:00",
+   "abstract_text": "   \nDESCRIPTION (provided by applicant): The project is the initial proof of concept clinical study of Civamide Nasal Spray for the treatment of postherpetic neuralgia (PHN) of the trigeminal nerve [(TN), a severely disabling facial pain syndrome]. Civamide Nasal Spray as a treatment for PHN of the [TN] has previously been granted orphan drug designation. If this study is successful in the treatment of PHN of the [TN], further clinical development will proceed, i.e., Phase 2 and Phase 3 studies to support the filing of a New Drug Application. Currently, all approved medications for treating PHN of the [TN] are systemically acting drugs. Civamide Nasal Spray is unique in that it exerts its therapeutic effect locally without systemic absorption [being detected in a pharmacokinetic study.8] The availability of a safe and effective medication for PHN of the [TN] for these patients, i.e., Civamide Nasal Spray, will thus fill an unmet medical\nneed. Civamide, a TRPV-1 receptor modulator,1,2 is a medication [with a mechanism of action] that affects nerves by causing a depletion of neurotransmitters, thus making the nerve less able to transmit pain.25,26 PHN of the [TN] is a chronic condition characterized by extreme pain following herpes zoster infection, (commonly called shingles,) in the areas of the face and scalp which are innervated by the [TN].3,4,5 The [TN] also has superficial nerve endings in the nasal mucosa, which are the targets of Civamide Nasal Spray. By affecting these nerve endings the entire nerve's ability to transmit pain is reduced. This novel mechanism of action has been observed when Civamide Nasal Spray is applied to the nasal mucosa in subjects with headache disorders mediated by the [TN], e.g. migraine headaches and cluster headaches with resulting decreases in headache pain and frequency. This study is a 9 week, double-blind, vehicle-controlled study of adult subjects that have moderate to severe pain (a minimum of an average pain score of 4 on a 0-10 point scale) due to PHN of the [TN] for at least 12 months. The study is composed of a 1-week non-treatment Baseline Period during which subjects will be required to complete a daily diary assessing overall pain and sleep interference. The 1 week Baseline Period will be followed by a 6 week Double-Blind Treatment Period and a 2 week Observation Period. Subjects will be randomized 1:1, approximately [20] subjects per group. The primary outcome variable will be the change in the Average Daily PHN Pain Score from the Baseline Period to the last week of the Treatment Period. Adverse events will be recorded during the study.   \n   \n",
+   "project_title": "Civamide Nasal Spray for the Treatment of Postherpetic Neuralgia of the Trigemina"
+  },
+  {
+   "fiscal_year": 2013,
+   "project_num": "5R01NR013861-02",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": "NONE",
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "R01",
+   "award_amount": 374363,
+   "principal_investigators": [
+    {
+     "profile_id": 1906093,
+     "first_name": "JANEAN",
+     "middle_name": "E",
+     "last_name": "HOLDEN",
+     "is_contact_pi": true,
+     "full_name": "JANEAN E HOLDEN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NR",
+    "abbreviation": "NINR",
+    "name": "National Institute of Nursing Research",
+    "admin_org_id": "12500052",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-11T00:00:00",
+   "project_end_date": "2017-06-30T00:00:00",
+   "abstract_text": "   \nDESCRIPTION (provided by applicant): The posterior hypothalamus (PH) is an understudied but potentially powerful site for activating descending brainstem systems that modulate pain. Little is known about how forebrain structures modify either acute nociceptive or chronic neuropathic pain in the spinal cord dorsal horn, and whether such modulation is influenced by conditions such as sex and pain type. Using female adult rats, we demonstrated in an acute thermal pain model that: 1) stimulating the PH produced opposing modulation in the spinal cord dorsal horn; 2) alpha2-adrenoceptors mediated antinociception; and 3) alpha1-adrenoceptors mediated opposing, concurrent pronociception. Antinociception predominates, but is attenuated by the pronociceptive effect. Our published data show that PH stimulation also produces robust antinociception in female (n = 11) rats in a model of neuropathic pain (the chronic constriction injury model, or CCI), and pilot data demonstrated PH-induced antinociception in male (n = 3) rats with CCI. We do not know whether the extent of PH stimulation (as determined by dose of PH stimulation) affects outcomes in either sex or pain type, or whether alpha- adrenoceptors function the same way based on animal sex or pain type. Deep brain stimulation in the PH is used clinically for severe headaches with success and with few side effects, but has not been used for other types of neuropathic pain. Given the magnitude of the problem of neuropathic pain and the potential pain relief from PH stimulation demonstrated in humans and rats, the PH may be an effective site for deep brain stimulation in humans for systemic types of pain. Therefore, the aim of this proposal is to extend our findings to examine dose of PH stimulating agent (carbachol), sex, and pain type (nociceptive or neuropathic) in activation of the alpha-adrenoceptor-mediated opposing response in the spinal cord dorsal horn. In two experiments, the PH will be stimulated with four doses of carbachol (62, 12, 250, 500 nmol) alone and with intrathecal injection (IT) of alpha-adrenoceptor antagonists. We will then examine the effect of sex, pain type and dose on the mechanisms of the alpha-mediated opposing response as measured by foot withdrawal latency (FWL). In all experiments, we will take blood samples from female Sprague-Dawley rats to measure serum estradiol and progesterone to establish the hormonal milieu at the time of the experiment. Using multivariate statistical analysis, we will determine whether PH stimulation produces different responses in alpha-adrenoceptor subtype-mediated nociceptive modulation in the nociceptive and CCI model, whether female responses differ from males, and whether the dose of the PH stimulating agent affects the outcome. Results will have an impact on the development of more effective individualized clinical treatments that reduce neuropathic pain and promote analgesia in female and male adults. Because the potential treatment has already been used for neurovascular headaches, our application done in whole animals provides a critical translational piece between cellular mechanisms and work done with human cluster headaches that may have different pain mechanisms than pain occurring elsewhere in the body.   \n   \n",
+   "project_title": "Posterior hypothalamic modulation of pain"
+  },
+  {
+   "fiscal_year": 2012,
+   "project_num": "1R43NS074658-01A1",
+   "organization": {
+    "org_name": "WINSTON PHARMACEUTICALS, INC.",
+    "city": null,
+    "country": null,
+    "org_city": "VERNON HILLS",
+    "org_country": "UNITED STATES",
+    "org_state": "IL",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "117754601"
+    ],
+    "org_ueis": null,
+    "primary_duns": "117754601",
+    "primary_uei": null,
+    "org_fips": "US",
+    "org_ipf_code": "10026943",
+    "org_zipcode": "600611859",
+    "external_org_id": 10026943
+   },
+   "activity_code": "R43",
+   "award_amount": 158454,
+   "principal_investigators": [
+    {
+     "profile_id": 10606889,
+     "first_name": "Scott",
+     "middle_name": "B",
+     "last_name": "Phillips",
+     "is_contact_pi": true,
+     "full_name": "Scott B Phillips",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-15T00:00:00",
+   "project_end_date": "2014-08-31T00:00:00",
+   "abstract_text": "   \r\nDESCRIPTION (provided by applicant): The project is the initial proof of concept clinical study of Civamide Nasal Spray for the treatment of postherpetic neuralgia (PHN) of the trigeminal nerve [(TN), a severely disabling facial pain syndrome]. Civamide Nasal Spray as a treatment for PHN of the [TN] has previously been granted orphan drug designation. If this study is successful in the treatment of PHN of the [TN], further clinical development will proceed, i.e., Phase 2 and Phase 3 studies to support the filing of a New Drug Application. Currently, all approved medications for treating PHN of the [TN] are systemically acting drugs. Civamide Nasal Spray is unique in that it exerts its therapeutic effect locally without systemic absorption [being detected in a pharmacokinetic study.8] The availability of a safe and effective medication for PHN of the [TN] for these patients, i.e., Civamide Nasal Spray, will thus fill an unmet medical\r\nneed. Civamide, a TRPV-1 receptor modulator,1,2 is a medication [with a mechanism of action] that affects nerves by causing a depletion of neurotransmitters, thus making the nerve less able to transmit pain.25,26 PHN of the [TN] is a chronic condition characterized by extreme pain following herpes zoster infection, (commonly called shingles,) in the areas of the face and scalp which are innervated by the [TN].3,4,5 The [TN] also has superficial nerve endings in the nasal mucosa, which are the targets of Civamide Nasal Spray. By affecting these nerve endings the entire nerve's ability to transmit pain is reduced. This novel mechanism of action has been observed when Civamide Nasal Spray is applied to the nasal mucosa in subjects with headache disorders mediated by the [TN], e.g. migraine headaches and cluster headaches with resulting decreases in headache pain and frequency. This study is a 9 week, double-blind, vehicle-controlled study of adult subjects that have moderate to severe pain (a minimum of an average pain score of 4 on a 0-10 point scale) due to PHN of the [TN] for at least 12 months. The study is composed of a 1-week non-treatment Baseline Period during which subjects will be required to complete a daily diary assessing overall pain and sleep interference. The 1 week Baseline Period will be followed by a 6 week Double-Blind Treatment Period and a 2 week Observation Period. Subjects will be randomized 1:1, approximately [20] subjects per group. The primary outcome variable will be the change in the Average Daily PHN Pain Score from the Baseline Period to the last week of the Treatment Period. Adverse events will be recorded during the study.   \r\n   \r\nPUBLIC HEALTH RELEVANCE: PHN of the trigeminal nerve is a condition primarily affecting the elderly,3,4,5 who are usually on other medications for other medical problems from which they suffer. Thus, the availability of an effective medication for PHN of the trigeminal nerve, such as Civamide Nasal Spray, that is not systemically absorbed, [as demonstrated in a pharmacokinetic study13], and consequently is without both systemic adverse effects as well as drug-drug interactions [of available systemic medications] would represent a significant improvement in the treatment of this disease in this population.   \r\n   \r\n   \r\n      \r\n\r\n",
+   "project_title": "Civamide Nasal Spray for the Treatment of Postherpetic Neuralgia of the Trigemina"
+  },
+  {
+   "fiscal_year": 2012,
+   "project_num": "1R01NR013861-01",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": "NONE",
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "R01",
+   "award_amount": 397410,
+   "principal_investigators": [
+    {
+     "profile_id": 1906093,
+     "first_name": "JANEAN",
+     "middle_name": "E",
+     "last_name": "HOLDEN",
+     "is_contact_pi": true,
+     "full_name": "JANEAN E HOLDEN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NR",
+    "abbreviation": "NINR",
+    "name": "National Institute of Nursing Research",
+    "admin_org_id": "12500052",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2012-09-11T00:00:00",
+   "project_end_date": "2017-06-30T00:00:00",
+   "abstract_text": "   \r\nDESCRIPTION (provided by applicant): The posterior hypothalamus (PH) is an understudied but potentially powerful site for activating descending brainstem systems that modulate pain. Little is known about how forebrain structures modify either acute nociceptive or chronic neuropathic pain in the spinal cord dorsal horn, and whether such modulation is influenced by conditions such as sex and pain type. Using female adult rats, we demonstrated in an acute thermal pain model that: 1) stimulating the PH produced opposing modulation in the spinal cord dorsal horn; 2) alpha2-adrenoceptors mediated antinociception; and 3) alpha1-adrenoceptors mediated opposing, concurrent pronociception. Antinociception predominates, but is attenuated by the pronociceptive effect. Our published data show that PH stimulation also produces robust antinociception in female (n = 11) rats in a model of neuropathic pain (the chronic constriction injury model, or CCI), and pilot data demonstrated PH-induced antinociception in male (n = 3) rats with CCI. We do not know whether the extent of PH stimulation (as determined by dose of PH stimulation) affects outcomes in either sex or pain type, or whether alpha- adrenoceptors function the same way based on animal sex or pain type. Deep brain stimulation in the PH is used clinically for severe headaches with success and with few side effects, but has not been used for other types of neuropathic pain. Given the magnitude of the problem of neuropathic pain and the potential pain relief from PH stimulation demonstrated in humans and rats, the PH may be an effective site for deep brain stimulation in humans for systemic types of pain. Therefore, the aim of this proposal is to extend our findings to examine dose of PH stimulating agent (carbachol), sex, and pain type (nociceptive or neuropathic) in activation of the alpha-adrenoceptor-mediated opposing response in the spinal cord dorsal horn. In two experiments, the PH will be stimulated with four doses of carbachol (62, 12, 250, 500 nmol) alone and with intrathecal injection (IT) of alpha-adrenoceptor antagonists. We will then examine the effect of sex, pain type and dose on the mechanisms of the alpha-mediated opposing response as measured by foot withdrawal latency (FWL). In all experiments, we will take blood samples from female Sprague-Dawley rats to measure serum estradiol and progesterone to establish the hormonal milieu at the time of the experiment. Using multivariate statistical analysis, we will determine whether PH stimulation produces different responses in alpha-adrenoceptor subtype-mediated nociceptive modulation in the nociceptive and CCI model, whether female responses differ from males, and whether the dose of the PH stimulating agent affects the outcome. Results will have an impact on the development of more effective individualized clinical treatments that reduce neuropathic pain and promote analgesia in female and male adults. Because the potential treatment has already been used for neurovascular headaches, our application done in whole animals provides a critical translational piece between cellular mechanisms and work done with human cluster headaches that may have different pain mechanisms than pain occurring elsewhere in the body.   \r\n   \r\nPUBLIC HEALTH RELEVANCE:  This project aims to determine whether stimulating the posterior hypothalamus relieves nociceptive and neuropathic pain in female and male adult rats via the noradrenergic descending pain modulating system. The findings will define sex and pain type differences in responses to this pain modulation and will provide a foundation for establishing individualized clinical therapies that utilize PH activation. These clinical therapies\r\nmay then be individualized based on gender and may help in relieving neuropathic pain that affects millions of adults.   \r\n   \r\n      \r\n\r\n",
+   "project_title": "Posterior hypothalamic modulation of pain"
+  },
+  {
+   "fiscal_year": 2010,
+   "project_num": "5R21RR025398-02",
+   "organization": {
+    "org_name": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+    "city": null,
+    "country": null,
+    "org_city": "LOS ANGELES",
+    "org_country": "UNITED STATES",
+    "org_state": "CA",
+    "org_state_name": null,
+    "dept_type": "OTHER BASIC SCIENCES",
+    "fips_country_code": null,
+    "org_duns": [
+     "092530369"
+    ],
+    "org_ueis": [
+     "RN64EPNH8JC6"
+    ],
+    "primary_duns": "092530369",
+    "primary_uei": "RN64EPNH8JC6",
+    "org_fips": "US",
+    "org_ipf_code": "577505",
+    "org_zipcode": "900952000",
+    "external_org_id": 577505
+   },
+   "activity_code": "R21",
+   "award_amount": 190575,
+   "principal_investigators": [
+    {
+     "profile_id": 1928233,
+     "first_name": "William",
+     "middle_name": "P.",
+     "last_name": "Melega",
+     "is_contact_pi": true,
+     "full_name": "William P. Melega",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2009-07-01T00:00:00",
+   "project_end_date": "2011-04-30T00:00:00",
+   "abstract_text": "  \r\nDESCRIPTION (provided by applicant): Obesity has reached epidemic proportions throughout much of the industrialized world. Lifestyle and dietary patterns remain critical factors for modulating long term weight control of obese individuals (body mass index, BMI > 30), but surgical interventions are often needed to treat morbid obesity (clinically severe, BMI > 40). However, the high incidence of bariatric surgery adverse effects and long term complications has kept morbid obesity as an open field for exploration of more effective therapies. Recent studies of appetite regulatory networks, primarily in rodents, have established that targeted electrical stimulation of ventromedial (VMH) and lateral hypothalamic (LHA) circuits can alter orexigenic and anorexigenic signaling through multiple neuronal pathways to modulate feeding patterns. Here we propose to test an innovative and exciting application for electrical brain stimulation as a treatment for morbid obesity. Known as deep brain stimulation (DBS), it has been successfully used to treat various human brain disorders (e.g., Parkinson's disease, epilepsy, cluster headache). Recently, a case report on hypothalamic DBS in a morbidly obese patient described mixed results on its efficacy to produce weight loss, highlighting the need for studies of DBS parameters to achieve desired weight loss without adverse effects. We will develop an animal model of hypothalamic DBS treatment for morbid obesity using G\"ttingen minipigs. These animals become naturally obese on unrestricted feeding regimens and represent an excellent human obesity model for preclinical design and evaluation of novel brain interventions. It is essential in this new animal model to first determine the effects of DBS in different hypothalamic targets with different stimulation parameters. As the animals become increasingly obese, we will measure body weight changes due to hypothalamic DBS in VMH vs. LHA with 'stimulatory' low- vs. 'inhibitory' high-frequencies for a 4 month period. We hypothesize that conditions of VMH-low-frequency and LHA-high-frequency will produce reduced weight gain. Plasma levels of glucose, insulin, leptin, and ghrelin will be measured to determine DBS-induced changes in peripheral endocrine markers of food intake and regulation. Brain plasticity will be evaluated in hypothalamus and striatum, post-mortem, based on alterations of dopamine and serotonin receptor subtype densities. This study will demonstrate for the first time in a porcine model the long term efficacy of hypothalamic DBS for modulation of food intake and body weight. The success of this DBS application for obesity control in obesity prone animals will provide experimental evidence for functional CNS effects of electrical stimulation in the hypothalamus, and the scientific justification as well as methodology for using the pig model to explore other brain DBS applications. PUBLIC HEALTH RELEVANCE: This research will develop a pig animal model in which a surgical intervention called deep brain stimulation is evaluated as a treatment for human morbid obesity. Electrical stimulation of the specific brain regions involved in feeding behavior will result in modulation of food intake and body weight. We will show that this intervention method is safe and effective for long term weight control.  \r\n    \r\n\r\n",
+   "project_title": "Hypothalamic Deep Brain Stimulation for Morbid Obesity:Development of a Pig Model"
+  },
+  {
+   "fiscal_year": 2009,
+   "project_num": "1R21RR025398-01A1",
+   "organization": {
+    "org_name": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+    "city": null,
+    "country": null,
+    "org_city": "LOS ANGELES",
+    "org_country": "UNITED STATES",
+    "org_state": "CA",
+    "org_state_name": null,
+    "dept_type": "OTHER BASIC SCIENCES",
+    "fips_country_code": null,
+    "org_duns": [
+     "092530369"
+    ],
+    "org_ueis": [
+     "RN64EPNH8JC6"
+    ],
+    "primary_duns": "092530369",
+    "primary_uei": "RN64EPNH8JC6",
+    "org_fips": "US",
+    "org_ipf_code": "577505",
+    "org_zipcode": "900952000",
+    "external_org_id": 577505
+   },
+   "activity_code": "R21",
+   "award_amount": 231000,
+   "principal_investigators": [
+    {
+     "profile_id": 1928233,
+     "first_name": "William",
+     "middle_name": "P.",
+     "last_name": "Melega",
+     "is_contact_pi": true,
+     "full_name": "William P. Melega",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2009-07-01T00:00:00",
+   "project_end_date": "2011-04-30T00:00:00",
+   "abstract_text": "  \r\nDESCRIPTION (provided by applicant): Obesity has reached epidemic proportions throughout much of the industrialized world. Lifestyle and dietary patterns remain critical factors for modulating long term weight control of obese individuals (body mass index, BMI > 30), but surgical interventions are often needed to treat morbid obesity (clinically severe, BMI > 40). However, the high incidence of bariatric surgery adverse effects and long term complications has kept morbid obesity as an open field for exploration of more effective therapies. Recent studies of appetite regulatory networks, primarily in rodents, have established that targeted electrical stimulation of ventromedial (VMH) and lateral hypothalamic (LHA) circuits can alter orexigenic and anorexigenic signaling through multiple neuronal pathways to modulate feeding patterns. Here we propose to test an innovative and exciting application for electrical brain stimulation as a treatment for morbid obesity. Known as deep brain stimulation (DBS), it has been successfully used to treat various human brain disorders (e.g., Parkinson's disease, epilepsy, cluster headache). Recently, a case report on hypothalamic DBS in a morbidly obese patient described mixed results on its efficacy to produce weight loss, highlighting the need for studies of DBS parameters to achieve desired weight loss without adverse effects. We will develop an animal model of hypothalamic DBS treatment for morbid obesity using G\"ttingen minipigs. These animals become naturally obese on unrestricted feeding regimens and represent an excellent human obesity model for preclinical design and evaluation of novel brain interventions. It is essential in this new animal model to first determine the effects of DBS in different hypothalamic targets with different stimulation parameters. As the animals become increasingly obese, we will measure body weight changes due to hypothalamic DBS in VMH vs. LHA with 'stimulatory' low- vs. 'inhibitory' high-frequencies for a 4 month period. We hypothesize that conditions of VMH-low-frequency and LHA-high-frequency will produce reduced weight gain. Plasma levels of glucose, insulin, leptin, and ghrelin will be measured to determine DBS-induced changes in peripheral endocrine markers of food intake and regulation. Brain plasticity will be evaluated in hypothalamus and striatum, post-mortem, based on alterations of dopamine and serotonin receptor subtype densities. This study will demonstrate for the first time in a porcine model the long term efficacy of hypothalamic DBS for modulation of food intake and body weight. The success of this DBS application for obesity control in obesity prone animals will provide experimental evidence for functional CNS effects of electrical stimulation in the hypothalamus, and the scientific justification as well as methodology for using the pig model to explore other brain DBS applications. PUBLIC HEALTH RELEVANCE: This research will develop a pig animal model in which a surgical intervention called deep brain stimulation is evaluated as a treatment for human morbid obesity. Electrical stimulation of the specific brain regions involved in feeding behavior will result in modulation of food intake and body weight. We will show that this intervention method is safe and effective for long term weight control.  \r\n    \r\n\r\n",
+   "project_title": "Hypothalamic Deep Brain Stimulation for Morbid Obesity:Development of a Pig Model"
+  },
+  {
+   "fiscal_year": 2007,
+   "project_num": "5K01NS046582-05",
+   "organization": {
+    "org_name": "OHIO UNIVERSITY ATHENS",
+    "city": null,
+    "country": null,
+    "org_city": "ATHENS",
+    "org_country": "UNITED STATES",
+    "org_state": "OH",
+    "org_state_name": null,
+    "dept_type": "PSYCHOLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "041077983"
+    ],
+    "org_ueis": [
+     "LXHMMWRKN5N8"
+    ],
+    "primary_duns": "041077983",
+    "primary_uei": "LXHMMWRKN5N8",
+    "org_fips": "US",
+    "org_ipf_code": "1523702",
+    "org_zipcode": "457012979",
+    "external_org_id": 1523702
+   },
+   "activity_code": "K01",
+   "award_amount": 105929,
+   "principal_investigators": [
+    {
+     "profile_id": 7367183,
+     "first_name": "BERNADETTE",
+     "middle_name": "Davantes",
+     "last_name": "HECKMAN",
+     "is_contact_pi": true,
+     "full_name": "BERNADETTE Davantes HECKMAN",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2003-09-30T00:00:00",
+   "project_end_date": "2008-07-31T00:00:00",
+   "abstract_text": "DESCRIPTION (provided by applicant): This application requests five years of support for a Mentored Research Scientist Development Award (K01) for a new minority investigator. The objectives of the planned training program are two-fold. The first objective is to provide the minority candidate with contemporary training in the areas of statistics, research methodology, research ethics, the pathophysiology of headache disorders, cross-cultural psychology, and health disparities. Formal coursework in these areas will facilitate the successful conduct of the planned study and prepare the candidate for future research endeavors throughout her career. The second objective is to examine how race and psychiatric co-morbid conditions are related to headache severity, quality of life, treatment adherence, and ability to respond favorably to treatments in people with episodic migraines, chronic migraines, episodic tension-type headaches, chronic tension-type headaches, substance abuse headaches, or cluster headaches. Using a quasi-experimental prospective research design, 400 patients presenting at outpatient medical centers in four urban areas of Ohio (Cincinnati, Cleveland, Columbus, and Toledo) will complete self-administered assessments, telephone-based interviews, and daily headache diaries that elicit data on headache severity, quality of life, social support, treatment self-efficacy, locus of control, treatment adherence, and treatment outcome. Guided by Social Cognitive Theory (SCT; Bandura, 1986), the planned study will employ structural equation modeling path analysis to determine whether SCT constructs, such as social support, health-related locus of control, and treatment self-efficacy, mediate associations between race and the presence of a co-morbid psychiatric disorder and key outcome measures, such as quality of life and treatment outcome. If successful, the candidate will obtain extramural funding prior to the completion of the training program that will enable her to conceptualize, implement, and evaluate a culturally-contextualized intervention to reduce headache pain and improve the life quality of people who experience severe headache characteristics.",
+   "project_title": "Race, Psychiatric Disorders, and Headache"
+  },
+  {
+   "fiscal_year": 2006,
+   "project_num": "5K01NS046582-04",
+   "organization": {
+    "org_name": "OHIO UNIVERSITY ATHENS",
+    "city": null,
+    "country": null,
+    "org_city": "ATHENS",
+    "org_country": "UNITED STATES",
+    "org_state": "OH",
+    "org_state_name": null,
+    "dept_type": "PSYCHOLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "041077983"
+    ],
+    "org_ueis": [
+     "LXHMMWRKN5N8"
+    ],
+    "primary_duns": "041077983",
+    "primary_uei": "LXHMMWRKN5N8",
+    "org_fips": "US",
+    "org_ipf_code": "1523702",
+    "org_zipcode": "457012979",
+    "external_org_id": 1523702
+   },
+   "activity_code": "K01",
+   "award_amount": 139914,
+   "principal_investigators": [
+    {
+     "profile_id": 7367183,
+     "first_name": "BERNADETTE",
+     "middle_name": "Davantes",
+     "last_name": "HECKMAN",
+     "is_contact_pi": true,
+     "full_name": "BERNADETTE Davantes HECKMAN",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2003-09-30T00:00:00",
+   "project_end_date": "2008-07-31T00:00:00",
+   "abstract_text": "DESCRIPTION (provided by applicant): This application requests five years of support for a Mentored Research Scientist Development Award (K01) for a new minority investigator. The objectives of the planned training program are two-fold. The first objective is to provide the minority candidate with contemporary training in the areas of statistics, research methodology, research ethics, the pathophysiology of headache disorders, cross-cultural psychology, and health disparities. Formal coursework in these areas will facilitate the successful conduct of the planned study and prepare the candidate for future research endeavors throughout her career. The second objective is to examine how race and psychiatric co-morbid conditions are related to headache severity, quality of life, treatment adherence, and ability to respond favorably to treatments in people with episodic migraines, chronic migraines, episodic tension-type headaches, chronic tension-type headaches, substance abuse headaches, or cluster headaches. Using a quasi-experimental prospective research design, 400 patients presenting at outpatient medical centers in four urban areas of Ohio (Cincinnati, Cleveland, Columbus, and Toledo) will complete self-administered assessments, telephone-based interviews, and daily headache diaries that elicit data on headache severity, quality of life, social support, treatment self-efficacy, locus of control, treatment adherence, and treatment outcome. Guided by Social Cognitive Theory (SCT; Bandura, 1986), the planned study will employ structural equation modeling path analysis to determine whether SCT constructs, such as social support, health-related locus of control, and treatment self-efficacy, mediate associations between race and the presence of a co-morbid psychiatric disorder and key outcome measures, such as quality of life and treatment outcome. If successful, the candidate will obtain extramural funding prior to the completion of the training program that will enable her to conceptualize, implement, and evaluate a culturally-contextualized intervention to reduce headache pain and improve the life quality of people who experience severe headache characteristics.",
+   "project_title": "Race, Psychiatric Disorders, and Headache"
+  },
+  {
+   "fiscal_year": 2005,
+   "project_num": "5K01NS046582-03",
+   "organization": {
+    "org_name": "OHIO UNIVERSITY ATHENS",
+    "city": null,
+    "country": null,
+    "org_city": "ATHENS",
+    "org_country": "UNITED STATES",
+    "org_state": "OH",
+    "org_state_name": null,
+    "dept_type": "PSYCHOLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "041077983"
+    ],
+    "org_ueis": [
+     "LXHMMWRKN5N8"
+    ],
+    "primary_duns": "041077983",
+    "primary_uei": "LXHMMWRKN5N8",
+    "org_fips": "US",
+    "org_ipf_code": "1523702",
+    "org_zipcode": "457012979",
+    "external_org_id": 1523702
+   },
+   "activity_code": "K01",
+   "award_amount": 137979,
+   "principal_investigators": [
+    {
+     "profile_id": 7367183,
+     "first_name": "BERNADETTE",
+     "middle_name": "Davantes",
+     "last_name": "HECKMAN",
+     "is_contact_pi": true,
+     "full_name": "BERNADETTE Davantes HECKMAN",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2003-09-30T00:00:00",
+   "project_end_date": "2008-07-31T00:00:00",
+   "abstract_text": "DESCRIPTION (provided by applicant): This application requests five years of support for a Mentored Research Scientist Development Award (K01) for a new minority investigator. The objectives of the planned training program are two-fold. The first objective is to provide the minority candidate with contemporary training in the areas of statistics, research methodology, research ethics, the pathophysiology of headache disorders, cross-cultural psychology, and health disparities. Formal coursework in these areas will facilitate the successful conduct of the planned study and prepare the candidate for future research endeavors throughout her career. The second objective is to examine how race and psychiatric co-morbid conditions are related to headache severity, quality of life, treatment adherence, and ability to respond favorably to treatments in people with episodic migraines, chronic migraines, episodic tension-type headaches, chronic tension-type headaches, substance abuse headaches, or cluster headaches. Using a quasi-experimental prospective research design, 400 patients presenting at outpatient medical centers in four urban areas of Ohio (Cincinnati, Cleveland, Columbus, and Toledo) will complete self-administered assessments, telephone-based interviews, and daily headache diaries that elicit data on headache severity, quality of life, social support, treatment self-efficacy, locus of control, treatment adherence, and treatment outcome. Guided by Social Cognitive Theory (SCT; Bandura, 1986), the planned study will employ structural equation modeling path analysis to determine whether SCT constructs, such as social support, health-related locus of control, and treatment self-efficacy, mediate associations between race and the presence of a co-morbid psychiatric disorder and key outcome measures, such as quality of life and treatment outcome. If successful, the candidate will obtain extramural funding prior to the completion of the training program that will enable her to conceptualize, implement, and evaluate a culturally-contextualized intervention to reduce headache pain and improve the life quality of people who experience severe headache characteristics.",
+   "project_title": "Race, Psychiatric Disorders, and Headache"
+  },
+  {
+   "fiscal_year": 2004,
+   "project_num": "5K01NS046582-02",
+   "organization": {
+    "org_name": "OHIO UNIVERSITY ATHENS",
+    "city": null,
+    "country": null,
+    "org_city": "ATHENS",
+    "org_country": "UNITED STATES",
+    "org_state": "OH",
+    "org_state_name": null,
+    "dept_type": "PSYCHOLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "041077983"
+    ],
+    "org_ueis": [
+     "LXHMMWRKN5N8"
+    ],
+    "primary_duns": "041077983",
+    "primary_uei": "LXHMMWRKN5N8",
+    "org_fips": "US",
+    "org_ipf_code": "1523702",
+    "org_zipcode": "457012979",
+    "external_org_id": 1523702
+   },
+   "activity_code": "K01",
+   "award_amount": 129319,
+   "principal_investigators": [
+    {
+     "profile_id": 7367183,
+     "first_name": "BERNADETTE",
+     "middle_name": "Davantes",
+     "last_name": "HECKMAN",
+     "is_contact_pi": true,
+     "full_name": "BERNADETTE Davantes HECKMAN",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2003-09-30T00:00:00",
+   "project_end_date": "2008-07-31T00:00:00",
+   "abstract_text": "DESCRIPTION (provided by applicant): This application requests five years of support for a Mentored Research Scientist Development Award (K01) for a new minority investigator. The objectives of the planned training program are two-fold. The first objective is to provide the minority candidate with contemporary training in the areas of statistics, research methodology, research ethics, the pathophysiology of headache disorders, cross-cultural psychology, and health disparities. Formal coursework in these areas will facilitate the successful conduct of the planned study and prepare the candidate for future research endeavors throughout her career. The second objective is to examine how race and psychiatric co-morbid conditions are related to headache severity, quality of life, treatment adherence, and ability to respond favorably to treatments in people with episodic migraines, chronic migraines, episodic tension-type headaches, chronic tension-type headaches, substance abuse headaches, or cluster headaches. Using a quasi-experimental prospective research design, 400 patients presenting at outpatient medical centers in four urban areas of Ohio (Cincinnati, Cleveland, Columbus, and Toledo) will complete self-administered assessments, telephone-based interviews, and daily headache diaries that elicit data on headache severity, quality of life, social support, treatment self-efficacy, locus of control, treatment adherence, and treatment outcome. Guided by Social Cognitive Theory (SCT; Bandura, 1986), the planned study will employ structural equation modeling path analysis to determine whether SCT constructs, such as social support, health-related locus of control, and treatment self-efficacy, mediate associations between race and the presence of a co-morbid psychiatric disorder and key outcome measures, such as quality of life and treatment outcome. If successful, the candidate will obtain extramural funding prior to the completion of the training program that will enable her to conceptualize, implement, and evaluate a culturally-contextualized intervention to reduce headache pain and improve the life quality of people who experience severe headache characteristics.",
+   "project_title": "Race, Psychiatric Disorders, and Headache"
+  },
+  {
+   "fiscal_year": 2003,
+   "project_num": "1K01NS046582-01",
+   "organization": {
+    "org_name": "OHIO UNIVERSITY ATHENS",
+    "city": null,
+    "country": null,
+    "org_city": "ATHENS",
+    "org_country": "UNITED STATES",
+    "org_state": "OH",
+    "org_state_name": null,
+    "dept_type": "PSYCHOLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "041077983"
+    ],
+    "org_ueis": [
+     "LXHMMWRKN5N8"
+    ],
+    "primary_duns": "041077983",
+    "primary_uei": "LXHMMWRKN5N8",
+    "org_fips": "US",
+    "org_ipf_code": "1523702",
+    "org_zipcode": "457012979",
+    "external_org_id": 1523702
+   },
+   "activity_code": "K01",
+   "award_amount": 116324,
+   "principal_investigators": [
+    {
+     "profile_id": 7367183,
+     "first_name": "BERNADETTE",
+     "middle_name": "Davantes",
+     "last_name": "HECKMAN",
+     "is_contact_pi": true,
+     "full_name": "BERNADETTE Davantes HECKMAN",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2003-09-30T00:00:00",
+   "project_end_date": "2008-07-31T00:00:00",
+   "abstract_text": "DESCRIPTION (provided by applicant): This application requests five years of support for a Mentored Research Scientist Development Award (K01) for a new minority investigator. The objectives of the planned training program are two-fold. The first objective is to provide the minority candidate with contemporary training in the areas of statistics, research methodology, research ethics, the pathophysiology of headache disorders, cross-cultural psychology, and health disparities. Formal coursework in these areas will facilitate the successful conduct of the planned study and prepare the candidate for future research endeavors throughout her career. The second objective is to examine how race and psychiatric co-morbid conditions are related to headache severity, quality of life, treatment adherence, and ability to respond favorably to treatments in people with episodic migraines, chronic migraines, episodic tension-type headaches, chronic tension-type headaches, substance abuse headaches, or cluster headaches. Using a quasi-experimental prospective research design, 400 patients presenting at outpatient medical centers in four urban areas of Ohio (Cincinnati, Cleveland, Columbus, and Toledo) will complete self-administered assessments, telephone-based interviews, and daily headache diaries that elicit data on headache severity, quality of life, social support, treatment self-efficacy, locus of control, treatment adherence, and treatment outcome. Guided by Social Cognitive Theory (SCT; Bandura, 1986), the planned study will employ structural equation modeling path analysis to determine whether SCT constructs, such as social support, health-related locus of control, and treatment self-efficacy, mediate associations between race and the presence of a co-morbid psychiatric disorder and key outcome measures, such as quality of life and treatment outcome. If successful, the candidate will obtain extramural funding prior to the completion of the training program that will enable her to conceptualize, implement, and evaluate a culturally-contextualized intervention to reduce headache pain and improve the life quality of people who experience severe headache characteristics.",
+   "project_title": "Race, Psychiatric Disorders, and Headache"
+  },
+  {
+   "fiscal_year": 2003,
+   "project_num": "5K08NS002237-03",
+   "organization": {
+    "org_name": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "city": null,
+    "country": null,
+    "org_city": "SAN FRANCISCO",
+    "org_country": "UNITED STATES",
+    "org_state": "CA",
+    "org_state_name": null,
+    "dept_type": "NEUROLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "094878337"
+    ],
+    "org_ueis": [
+     "KMH5K9V7S518"
+    ],
+    "primary_duns": "094878337",
+    "primary_uei": "KMH5K9V7S518",
+    "org_fips": "US",
+    "org_ipf_code": "577508",
+    "org_zipcode": "941432510",
+    "external_org_id": 577508
+   },
+   "activity_code": "K08",
+   "award_amount": 121770,
+   "principal_investigators": [
+    {
+     "profile_id": 1929082,
+     "first_name": "SONJA",
+     "middle_name": "B",
+     "last_name": "POTREBIC",
+     "is_contact_pi": true,
+     "full_name": "SONJA B POTREBIC",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2001-01-01T00:00:00",
+   "project_end_date": "2003-12-31T00:00:00",
+   "abstract_text": " DESCRIPTION (Applicant's Abstract): The pathophysiology of migraine, a common      \n disorder causing significant disability and economic burden, is still poorly       \n understood. The development of selective agonists for serotonin (5HT) 1B and       \n 5HT1D receptors (5HT1B/1D agonists) has revolutionized headache treatment. The     \n effectiveness of these medications suggests that understanding their mechanism     \n of action will advance knowledge about the etiology of migraine headache. The      \n general aim of this proposal is to elucidate neural mechanisms that mediate the    \n therapeutic effects of selective 5HT1B/1D agonists. To achieve this goal, a        \n series of anatomical and electrophysiological animal studies are proposed. The     \n experiments will determine the distribution and neurotransmitter                   \n co-localization of sensory ganglion cells possessing 5HT1B and 5HT1D receptors     \n through use of immunohistochemistry. The distribution and origin of these          \n receptors to intracranial and extracranial structures will be compared by          \n combining retrograde tracing with immunohistochemistry. Experiments utilizing      \n in vivo extracellular electrophysiological techniques will explore functional      \n correlates of anatomic innervation. The experiments will focus on determining      \n whether intracranial vascular structures posses an innervation that is unique      \n in terms of 5HT1B and/or 5HT1D receptors. A clinical study will test the           \n proposed selectivity of 5HT1B/1D agonists for migraine and cluster headache.       \n",
+   "project_title": "SEROTONIN 1B AND 1D RECEPTORS IN HEAD PAIN"
+  },
+  {
+   "fiscal_year": 2002,
+   "project_num": "5K08NS002237-02",
+   "organization": {
+    "org_name": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "city": null,
+    "country": null,
+    "org_city": "SAN FRANCISCO",
+    "org_country": "UNITED STATES",
+    "org_state": "CA",
+    "org_state_name": null,
+    "dept_type": "NEUROLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "094878337"
+    ],
+    "org_ueis": [
+     "KMH5K9V7S518"
+    ],
+    "primary_duns": "094878337",
+    "primary_uei": "KMH5K9V7S518",
+    "org_fips": "US",
+    "org_ipf_code": "577508",
+    "org_zipcode": "941432510",
+    "external_org_id": 577508
+   },
+   "activity_code": "K08",
+   "award_amount": 121770,
+   "principal_investigators": [
+    {
+     "profile_id": 1929082,
+     "first_name": "SONJA",
+     "middle_name": "B",
+     "last_name": "POTREBIC",
+     "is_contact_pi": true,
+     "full_name": "SONJA B POTREBIC",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2001-01-01T00:00:00",
+   "project_end_date": "2003-12-31T00:00:00",
+   "abstract_text": " DESCRIPTION (Applicant's Abstract): The pathophysiology of migraine, a common      \n disorder causing significant disability and economic burden, is still poorly       \n understood. The development of selective agonists for serotonin (5HT) 1B and       \n 5HT1D receptors (5HT1B/1D agonists) has revolutionized headache treatment. The     \n effectiveness of these medications suggests that understanding their mechanism     \n of action will advance knowledge about the etiology of migraine headache. The      \n general aim of this proposal is to elucidate neural mechanisms that mediate the    \n therapeutic effects of selective 5HT1B/1D agonists. To achieve this goal, a        \n series of anatomical and electrophysiological animal studies are proposed. The     \n experiments will determine the distribution and neurotransmitter                   \n co-localization of sensory ganglion cells possessing 5HT1B and 5HT1D receptors     \n through use of immunohistochemistry. The distribution and origin of these          \n receptors to intracranial and extracranial structures will be compared by          \n combining retrograde tracing with immunohistochemistry. Experiments utilizing      \n in vivo extracellular electrophysiological techniques will explore functional      \n correlates of anatomic innervation. The experiments will focus on determining      \n whether intracranial vascular structures posses an innervation that is unique      \n in terms of 5HT1B and/or 5HT1D receptors. A clinical study will test the           \n proposed selectivity of 5HT1B/1D agonists for migraine and cluster headache.       \n",
+   "project_title": "SEROTONIN 1B AND 1D RECEPTORS IN HEAD PAIN"
+  },
+  {
+   "fiscal_year": 2001,
+   "project_num": "1K08NS002237-01",
+   "organization": {
+    "org_name": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "city": null,
+    "country": null,
+    "org_city": "SAN FRANCISCO",
+    "org_country": "UNITED STATES",
+    "org_state": "CA",
+    "org_state_name": null,
+    "dept_type": "NEUROLOGY",
+    "fips_country_code": null,
+    "org_duns": [
+     "094878337"
+    ],
+    "org_ueis": [
+     "KMH5K9V7S518"
+    ],
+    "primary_duns": "094878337",
+    "primary_uei": "KMH5K9V7S518",
+    "org_fips": "US",
+    "org_ipf_code": "577508",
+    "org_zipcode": "941432510",
+    "external_org_id": 577508
+   },
+   "activity_code": "K08",
+   "award_amount": 121770,
+   "principal_investigators": [
+    {
+     "profile_id": 1929082,
+     "first_name": "SONJA",
+     "middle_name": "B",
+     "last_name": "POTREBIC",
+     "is_contact_pi": true,
+     "full_name": "SONJA B POTREBIC",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2001-01-01T00:00:00",
+   "project_end_date": "2003-12-31T00:00:00",
+   "abstract_text": " DESCRIPTION (Applicant's Abstract): The pathophysiology of migraine, a common      \n disorder causing significant disability and economic burden, is still poorly       \n understood. The development of selective agonists for serotonin (5HT) 1B and       \n 5HT1D receptors (5HT1B/1D agonists) has revolutionized headache treatment. The     \n effectiveness of these medications suggests that understanding their mechanism     \n of action will advance knowledge about the etiology of migraine headache. The      \n general aim of this proposal is to elucidate neural mechanisms that mediate the    \n therapeutic effects of selective 5HT1B/1D agonists. To achieve this goal, a        \n series of anatomical and electrophysiological animal studies are proposed. The     \n experiments will determine the distribution and neurotransmitter                   \n co-localization of sensory ganglion cells possessing 5HT1B and 5HT1D receptors     \n through use of immunohistochemistry. The distribution and origin of these          \n receptors to intracranial and extracranial structures will be compared by          \n combining retrograde tracing with immunohistochemistry. Experiments utilizing      \n in vivo extracellular electrophysiological techniques will explore functional      \n correlates of anatomic innervation. The experiments will focus on determining      \n whether intracranial vascular structures posses an innervation that is unique      \n in terms of 5HT1B and/or 5HT1D receptors. A clinical study will test the           \n proposed selectivity of 5HT1B/1D agonists for migraine and cluster headache.       \n",
+   "project_title": "SEROTONIN 1B AND 1D RECEPTORS IN HEAD PAIN"
+  },
+  {
+   "fiscal_year": 2000,
+   "project_num": "5M01RR000042-40",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 206,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": null,
+   "project_end_date": null,
+   "abstract_text": null,
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1999,
+   "project_num": "5M01RR000042-39",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 206,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1998-12-01T00:00:00",
+   "project_end_date": "1999-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be a frequent finding in patients with cluster headache (CH) and that treatment of sleep apnea in such patients may improve the headache syndrome.  We will perform cross-sectional studies and a clinical trial to 1) assess the frequency of OSA in a sample of patients with active CH, 2) examine physiological mechanisms that may link the two disorders, and 3) test whether treatment for OSA improves CH and quality of life in patients who have both conditions. ",
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1999,
+   "project_num": "3M01RR000042-39S1",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 206,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1998-12-01T00:00:00",
+   "project_end_date": "1999-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be a frequent finding in patients with cluster headache (CH) and that treatment of sleep apnea in such patients may improve the headache syndrome.  We will perform cross-sectional studies and a clinical trial to 1) assess the frequency of OSA in a sample of patients with active CH, 2) examine physiological mechanisms that may link the two disorders, and 3) test whether treatment for OSA improves CH and quality of life in patients who have both conditions. ",
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1999,
+   "project_num": "5K08NS001803-05",
+   "organization": {
+    "org_name": "MASSACHUSETTS GENERAL HOSPITAL",
+    "city": null,
+    "country": null,
+    "org_city": "BOSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "MA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073130411"
+    ],
+    "org_ueis": [
+     "FLJ7DQKLL226"
+    ],
+    "primary_duns": "073130411",
+    "primary_uei": "FLJ7DQKLL226",
+    "org_fips": "US",
+    "org_ipf_code": "4907701",
+    "org_zipcode": "021142621",
+    "external_org_id": 4907701
+   },
+   "activity_code": "K08",
+   "award_amount": 94246,
+   "principal_investigators": [
+    {
+     "profile_id": 6232801,
+     "first_name": "Fred",
+     "middle_name": "M",
+     "last_name": "CUTRER",
+     "is_contact_pi": true,
+     "full_name": "Fred M CUTRER",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1995-06-01T00:00:00",
+   "project_end_date": "2000-03-31T00:00:00",
+   "abstract_text": "Despite the fact that vascular head pain including migraine and cluster         \nheadache afflicts up to 15% of the population and inflicts significant          \nsuffering and economic loss, its pathophysiology and mechanism of               \ntreatment remain obscure.  We have observed that 5-HT1B/D agonists useful       \nin the treatment of vascular headaches significantly reduce trigeminal          \nstimulation evoked plasma protein extravasation within dura mater of            \nexperimental rats and guinea pigs, as well as decrease c-fos expression         \nwithin trigeminal nucleus caudalis (TNC) in guinea pigs following chemical      \nstimulation of small diameter meningeal afferent fibers.  These receptors       \nappear to mediate prejunctional inhibition of neuropeptide release and          \npossibly blockade of neurotransmission.  Preliminary data indicate that         \nvalproic acid, a drug which inhibits GABA aminotransferase and which has        \nbeen effective in migraine prophylaxis, blocks plasma protein                   \nextravasation and c-fos expression in the above models.                         \n                                                                                \nHere we propose four specific aims to further characterize the identity         \nand location of the GABA and 5-HT receptors relevant to the blockade of         \nneurogenic inflammation.  Initially we propose to extend preliminary data       \nto determine the relevant GABA and serotonin receptor subtype.  Secondly        \nwe propose receptor autoradiographic studies to determine whether these         \nsubtypes are expressed on trigeminal ganglia and trigeminal axons               \nprojecting to the meninges and/or on meningeal blood vessels.  e also           \npropose in situ hybridization studies to determine whether mRNA's encoding      \nGABA receptor subtypes are expressed within trigeminal ganglia neurons.         \nTo test the hypothesis that agonists at 5-HT and GABA receptor subtypes         \ninhibit release of neuropeptides from dural meningeal afferents, a third        \nseries of experiments will employ microdialysis techniques to measure           \nneuropeptide levels within plasma taken from sagittal sinus and external        \njugular vein before, during and after trigeminal activation.  Finally, we       \npropose to test the hypothesis that selective agonists at the identified        \nGABA and 5-HT receptor subtypes reduce the expression of c-fos antigen          \nwithin TNC using immunohistochemistry.  With these proposed experiments we      \nseek to better understand the receptor pharmacology of vascular headaches       \nto thereby establish a more rational basis for new drug discovery in            \nmigraine and cluster headache.                                                  \n",
+   "project_title": "MODULATORY ROLE OF GABA AND 5HT RECEPTORS IN MIGRAINE"
+  },
+  {
+   "fiscal_year": 1998,
+   "project_num": "3M01RR000042-38",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 21464,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1997-12-01T00:00:00",
+   "project_end_date": "1998-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be           \na frequent finding in patients with cluster headache (CH) and that              \ntreatment of sleep apnea in such patients may improve the headache              \nsyndrome. We will perform cross-sectional studies and a clinical trial          \nto 1) assess the frequency of OSA in a sample of patients with active           \nCH, 2) examine physiological mechanisms that may link the two disorders,        \nand 3) test whether treatment for OSA improves CH and quality of life           \nin patients who have both conditions.                                           \n",
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1998,
+   "project_num": "5K08NS001803-04",
+   "organization": {
+    "org_name": "MASSACHUSETTS GENERAL HOSPITAL",
+    "city": null,
+    "country": null,
+    "org_city": "BOSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "MA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073130411"
+    ],
+    "org_ueis": [
+     "FLJ7DQKLL226"
+    ],
+    "primary_duns": "073130411",
+    "primary_uei": "FLJ7DQKLL226",
+    "org_fips": "US",
+    "org_ipf_code": "4907701",
+    "org_zipcode": "021142621",
+    "external_org_id": 4907701
+   },
+   "activity_code": "K08",
+   "award_amount": 105046,
+   "principal_investigators": [
+    {
+     "profile_id": 6232801,
+     "first_name": "Fred",
+     "middle_name": "M",
+     "last_name": "CUTRER",
+     "is_contact_pi": true,
+     "full_name": "Fred M CUTRER",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1995-06-01T00:00:00",
+   "project_end_date": "2000-03-31T00:00:00",
+   "abstract_text": "Despite the fact that vascular head pain including migraine and cluster         \nheadache afflicts up to 15% of the population and inflicts significant          \nsuffering and economic loss, its pathophysiology and mechanism of               \ntreatment remain obscure.  We have observed that 5-HT1B/D agonists useful       \nin the treatment of vascular headaches significantly reduce trigeminal          \nstimulation evoked plasma protein extravasation within dura mater of            \nexperimental rats and guinea pigs, as well as decrease c-fos expression         \nwithin trigeminal nucleus caudalis (TNC) in guinea pigs following chemical      \nstimulation of small diameter meningeal afferent fibers.  These receptors       \nappear to mediate prejunctional inhibition of neuropeptide release and          \npossibly blockade of neurotransmission.  Preliminary data indicate that         \nvalproic acid, a drug which inhibits GABA aminotransferase and which has        \nbeen effective in migraine prophylaxis, blocks plasma protein                   \nextravasation and c-fos expression in the above models.                         \n                                                                                \nHere we propose four specific aims to further characterize the identity         \nand location of the GABA and 5-HT receptors relevant to the blockade of         \nneurogenic inflammation.  Initially we propose to extend preliminary data       \nto determine the relevant GABA and serotonin receptor subtype.  Secondly        \nwe propose receptor autoradiographic studies to determine whether these         \nsubtypes are expressed on trigeminal ganglia and trigeminal axons               \nprojecting to the meninges and/or on meningeal blood vessels.  e also           \npropose in situ hybridization studies to determine whether mRNA's encoding      \nGABA receptor subtypes are expressed within trigeminal ganglia neurons.         \nTo test the hypothesis that agonists at 5-HT and GABA receptor subtypes         \ninhibit release of neuropeptides from dural meningeal afferents, a third        \nseries of experiments will employ microdialysis techniques to measure           \nneuropeptide levels within plasma taken from sagittal sinus and external        \njugular vein before, during and after trigeminal activation.  Finally, we       \npropose to test the hypothesis that selective agonists at the identified        \nGABA and 5-HT receptor subtypes reduce the expression of c-fos antigen          \nwithin TNC using immunohistochemistry.  With these proposed experiments we      \nseek to better understand the receptor pharmacology of vascular headaches       \nto thereby establish a more rational basis for new drug discovery in            \nmigraine and cluster headache.                                                  \n",
+   "project_title": "MODULATORY ROLE OF GABA AND 5HT RECEPTORS IN MIGRAINE"
+  },
+  {
+   "fiscal_year": 1997,
+   "project_num": "5M01RR000042-37",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 22248,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1997-02-20T00:00:00",
+   "project_end_date": "1997-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be           \na frequent finding in patients with cluster headache (CH) and that              \ntreatment of sleep apnea in such patients may improve the headache              \nsyndrome. We will perform cross-sectional studies and a clinical trial          \nto 1) assess the frequency of OSA in a sample of patients with active           \nCH, 2) examine physiological mechanisms that may link the two disorders,        \nand 3) test whether treatment for OSA improves CH and quality of life           \nin patients who have both conditions.                                           \n",
+   "project_title": "ASSOCIATION OF OBSTRUCTIVE SLEEP APNEA WITH CLUSTER HEADACHE--EFFECT OF CPAP"
+  },
+  {
+   "fiscal_year": 1997,
+   "project_num": "5K08NS001803-03",
+   "organization": {
+    "org_name": "MASSACHUSETTS GENERAL HOSPITAL",
+    "city": null,
+    "country": null,
+    "org_city": "BOSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "MA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073130411"
+    ],
+    "org_ueis": [
+     "FLJ7DQKLL226"
+    ],
+    "primary_duns": "073130411",
+    "primary_uei": "FLJ7DQKLL226",
+    "org_fips": "US",
+    "org_ipf_code": "4907701",
+    "org_zipcode": "021142621",
+    "external_org_id": 4907701
+   },
+   "activity_code": "K08",
+   "award_amount": 89894,
+   "principal_investigators": [
+    {
+     "profile_id": 6232801,
+     "first_name": "Fred",
+     "middle_name": "M",
+     "last_name": "CUTRER",
+     "is_contact_pi": true,
+     "full_name": "Fred M CUTRER",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1995-06-01T00:00:00",
+   "project_end_date": "2000-03-31T00:00:00",
+   "abstract_text": "Despite the fact that vascular head pain including migraine and cluster         \nheadache afflicts up to 15% of the population and inflicts significant          \nsuffering and economic loss, its pathophysiology and mechanism of               \ntreatment remain obscure.  We have observed that 5-HT1B/D agonists useful       \nin the treatment of vascular headaches significantly reduce trigeminal          \nstimulation evoked plasma protein extravasation within dura mater of            \nexperimental rats and guinea pigs, as well as decrease c-fos expression         \nwithin trigeminal nucleus caudalis (TNC) in guinea pigs following chemical      \nstimulation of small diameter meningeal afferent fibers.  These receptors       \nappear to mediate prejunctional inhibition of neuropeptide release and          \npossibly blockade of neurotransmission.  Preliminary data indicate that         \nvalproic acid, a drug which inhibits GABA aminotransferase and which has        \nbeen effective in migraine prophylaxis, blocks plasma protein                   \nextravasation and c-fos expression in the above models.                         \n                                                                                \nHere we propose four specific aims to further characterize the identity         \nand location of the GABA and 5-HT receptors relevant to the blockade of         \nneurogenic inflammation.  Initially we propose to extend preliminary data       \nto determine the relevant GABA and serotonin receptor subtype.  Secondly        \nwe propose receptor autoradiographic studies to determine whether these         \nsubtypes are expressed on trigeminal ganglia and trigeminal axons               \nprojecting to the meninges and/or on meningeal blood vessels.  e also           \npropose in situ hybridization studies to determine whether mRNA's encoding      \nGABA receptor subtypes are expressed within trigeminal ganglia neurons.         \nTo test the hypothesis that agonists at 5-HT and GABA receptor subtypes         \ninhibit release of neuropeptides from dural meningeal afferents, a third        \nseries of experiments will employ microdialysis techniques to measure           \nneuropeptide levels within plasma taken from sagittal sinus and external        \njugular vein before, during and after trigeminal activation.  Finally, we       \npropose to test the hypothesis that selective agonists at the identified        \nGABA and 5-HT receptor subtypes reduce the expression of c-fos antigen          \nwithin TNC using immunohistochemistry.  With these proposed experiments we      \nseek to better understand the receptor pharmacology of vascular headaches       \nto thereby establish a more rational basis for new drug discovery in            \nmigraine and cluster headache.                                                  \n",
+   "project_title": "MODULATORY ROLE OF GABA AND 5HT RECEPTORS IN MIGRAINE"
+  },
+  {
+   "fiscal_year": 1995,
+   "project_num": "1K08NS001803-01",
+   "organization": {
+    "org_name": "MASSACHUSETTS GENERAL HOSPITAL",
+    "city": null,
+    "country": null,
+    "org_city": "BOSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "MA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073130411"
+    ],
+    "org_ueis": [
+     "FLJ7DQKLL226"
+    ],
+    "primary_duns": "073130411",
+    "primary_uei": "FLJ7DQKLL226",
+    "org_fips": "US",
+    "org_ipf_code": "4907701",
+    "org_zipcode": "021142621",
+    "external_org_id": 4907701
+   },
+   "activity_code": "K08",
+   "award_amount": 78046,
+   "principal_investigators": [
+    {
+     "profile_id": 6232801,
+     "first_name": "Fred",
+     "middle_name": "M",
+     "last_name": "CUTRER",
+     "is_contact_pi": true,
+     "full_name": "Fred M CUTRER",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1995-06-01T00:00:00",
+   "project_end_date": "2000-03-31T00:00:00",
+   "abstract_text": "Despite the fact that vascular head pain including migraine and cluster\n headache afflicts up to 15% of the population and inflicts significant\n suffering and economic loss, its pathophysiology and mechanism of\n treatment remain obscure.  We have observed that 5-HT1B/D agonists useful\n in the treatment of vascular headaches significantly reduce trigeminal\n stimulation evoked plasma protein extravasation within dura mater of\n experimental rats and guinea pigs, as well as decrease c-fos expression\n within trigeminal nucleus caudalis (TNC) in guinea pigs following chemical\n stimulation of small diameter meningeal afferent fibers.  These receptors\n appear to mediate prejunctional inhibition of neuropeptide release and\n possibly blockade of neurotransmission.  Preliminary data indicate that\n valproic acid, a drug which inhibits GABA aminotransferase and which has\n been effective in migraine prophylaxis, blocks plasma protein\n extravasation and c-fos expression in the above models.\n \n Here we propose four specific aims to further characterize the identity\n and location of the GABA and 5-HT receptors relevant to the blockade of\n neurogenic inflammation.  Initially we propose to extend preliminary data\n to determine the relevant GABA and serotonin receptor subtype.  Secondly\n we propose receptor autoradiographic studies to determine whether these\n subtypes are expressed on trigeminal ganglia and trigeminal axons\n projecting to the meninges and/or on meningeal blood vessels.  e also\n propose in situ hybridization studies to determine whether mRNA's encoding\n GABA receptor subtypes are expressed within trigeminal ganglia neurons.\n To test the hypothesis that agonists at 5-HT and GABA receptor subtypes\n inhibit release of neuropeptides from dural meningeal afferents, a third\n series of experiments will employ microdialysis techniques to measure\n neuropeptide levels within plasma taken from sagittal sinus and external\n jugular vein before, during and after trigeminal activation.  Finally, we\n propose to test the hypothesis that selective agonists at the identified\n GABA and 5-HT receptor subtypes reduce the expression of c-fos antigen\n within TNC using immunohistochemistry.  With these proposed experiments we\n seek to better understand the receptor pharmacology of vascular headaches\n to thereby establish a more rational basis for new drug discovery in\n migraine and cluster headache.\n",
+   "project_title": "MODULATORY ROLE OF GABA AND 5HT RECEPTORS IN MIGRAINE"
+  },
+  {
+   "fiscal_year": 1991,
+   "project_num": "1Z01MH002552-02",
+   "organization": {
+    "org_name": "NATIONAL INSTITUTE OF MENTAL HEALTH",
+    "city": null,
+    "country": null,
+    "org_city": null,
+    "org_country": "UNITED STATES",
+    "org_state": null,
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": null,
+    "org_ueis": null,
+    "primary_duns": null,
+    "primary_uei": null,
+    "org_fips": null,
+    "org_ipf_code": null,
+    "org_zipcode": null,
+    "external_org_id": null
+   },
+   "activity_code": "Z01",
+   "award_amount": null,
+   "principal_investigators": [
+    {
+     "profile_id": 3326625,
+     "first_name": "L",
+     "middle_name": "B",
+     "last_name": "BIGELOW",
+     "is_contact_pi": true,
+     "full_name": "L B BIGELOW",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "MH",
+    "abbreviation": "NIMH",
+    "name": "National Institute of Mental Health",
+    "admin_org_id": "12500050",
+    "admin_funding_url": ""
+   },
+   "project_start_date": null,
+   "project_end_date": null,
+   "abstract_text": "Pentosan polysulfate (PPS), a semi-synthetic polyanion, has been under\ninvestigation here for a number of years as a prophylactic treatment for\nmigraine and cluster headache.  These pilot studies were all single blind.\nResults have been sufficiently encouraging to justify a double blind\nprotocol to confirm or refute the clinical data.\n\nThe main predictor of response has been a low circulating basophil count.\nA protocol has been approved which involves screening a population of\nmigraineurs, selecting those with low basophil counts and randomizing them\ninto a double blind placebo controlled study.\n",
+   "project_title": "PENTOSAN POLYSULFATE AS PROPHYLAXIS FOR MIGRAINE"
+  },
+  {
+   "fiscal_year": 1990,
+   "project_num": "5M01RR000997-15",
+   "organization": {
+    "org_name": "UNIVERSITY OF NEW MEXICO",
+    "city": null,
+    "country": null,
+    "org_city": "ALBUQUERQUE",
+    "org_country": "UNITED STATES",
+    "org_state": "NM",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "868853094"
+    ],
+    "org_ueis": [
+     "F6XLTRUQJEN4"
+    ],
+    "primary_duns": "868853094",
+    "primary_uei": "F6XLTRUQJEN4",
+    "org_fips": "US",
+    "org_ipf_code": "1415702",
+    "org_zipcode": "871063807",
+    "external_org_id": 1415702
+   },
+   "activity_code": "M01",
+   "award_amount": null,
+   "principal_investigators": [
+    {
+     "profile_id": 3366615,
+     "first_name": "OTTO",
+     "middle_name": "",
+     "last_name": "APPENZELLER",
+     "is_contact_pi": true,
+     "full_name": "OTTO  APPENZELLER",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": null,
+   "project_end_date": null,
+   "abstract_text": "This study assesses the influence of a hypertonic glucose infusion\ninduced facial fluch on ear and facial temperatures in normal subjects,\nmigraineurs, and subjects with cluster headache. Correlations between\ntemperature changes, symptomatic facial flushing, blood glucose, insulin,\nand beta-endorphin levels will be made to assess the significance of\nblanching (drop in skin temperature) in migrainers, and flushing (rises\nin skin temperature in patients with cluster headache.\n",
+   "project_title": "FACIAL CORE TEMPERATURES AFTER IV GLUCOSE FOR MIGRAINE"
+  },
+  {
+   "fiscal_year": 1989,
+   "project_num": "1Z01MH002477-01",
+   "organization": {
+    "org_name": "NATIONAL INSTITUTE OF MENTAL HEALTH",
+    "city": null,
+    "country": null,
+    "org_city": null,
+    "org_country": "UNITED STATES",
+    "org_state": null,
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": null,
+    "org_ueis": null,
+    "primary_duns": null,
+    "primary_uei": null,
+    "org_fips": null,
+    "org_ipf_code": null,
+    "org_zipcode": null,
+    "external_org_id": null
+   },
+   "activity_code": "Z01",
+   "award_amount": null,
+   "principal_investigators": [
+    {
+     "profile_id": 3326624,
+     "first_name": "L",
+     "middle_name": "B",
+     "last_name": "BIGELOW",
+     "is_contact_pi": true,
+     "full_name": "L B BIGELOW",
+     "title": ""
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "MH",
+    "abbreviation": "NIMH",
+    "name": "National Institute of Mental Health",
+    "admin_org_id": "12500050",
+    "admin_funding_url": ""
+   },
+   "project_start_date": null,
+   "project_end_date": null,
+   "abstract_text": "Pentosan polysulfate (PPS), a semi-synthetic polyanion, has been under\ninvestigation here for a number of years as a prophylactic treatment for\nmigraine and cluster headache.  Since we observed an increase of\ncirculating T-cells in treated patients and because of the reported\nsynergism of another sulfated polyanion, dextran sulfate, with AZT, we have\nperformed in-vitro experiments to evaluate the therapeutic potential of\nthis drug.\n\nUsing human peripheral blood mononuclear cells we have been able to\ndemonstrate synergism of PPS with aziduvine (AZT) in the suppression of\nHIV-1 growth.  We also observed that PPS and dextran sulfate alone in\nconcentrations less than 1.Omug/ml stimulated viral replication.\n\nThis latter finding is particularly important because of the reported\n\"underground market\" for dextran sulfate.  It suggests that persons with\nAIDS could actually worsen their condition if they were to take polyanions\nsuch as dextran.\n\nOn the other hand, the finding of a powerful synergism between AZT and PPS\ngives encouragement to careful design of clinical research to evaluate this\nsubstance as an adjunct to the treatment of AIDS that might permit\neffective lower dosing of AZT.\n",
+   "project_title": "ANTI-HIV POTENTIAL OF PENTOSAN POLYSULFATE"
+  }
+ ],
+ "title": [
+  {
+   "fiscal_year": 2026,
+   "project_num": "1R61NS144491-01A1",
+   "organization": {
+    "org_name": "UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON",
+    "city": null,
+    "country": null,
+    "org_city": "HOUSTON",
+    "org_country": "UNITED STATES",
+    "org_state": "TX",
+    "org_state_name": null,
+    "dept_type": "NEUROSURGERY",
+    "fips_country_code": null,
+    "org_duns": [
+     "800771594"
+    ],
+    "org_ueis": [
+     "ZUFBNVZ587D4"
+    ],
+    "primary_duns": "800771594",
+    "primary_uei": "ZUFBNVZ587D4",
+    "org_fips": "US",
+    "org_ipf_code": "578417",
+    "org_zipcode": "770305400",
+    "external_org_id": 578417
+   },
+   "activity_code": "R61",
+   "award_amount": 392223,
+   "principal_investigators": [
+    {
+     "profile_id": 7860313,
+     "first_name": "Mark",
+     "middle_name": "J",
+     "last_name": "Burish",
+     "is_contact_pi": true,
+     "full_name": "Mark J Burish",
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "profile_id": 11974136,
+     "first_name": "Seung-Hee",
+     "middle_name": "",
+     "last_name": "Yoo",
+     "is_contact_pi": false,
+     "full_name": "Seung-Hee  Yoo",
+     "title": "ASSISTANT PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "NS",
+    "abbreviation": "NINDS",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "admin_org_id": "12500053",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "2026-09-05T00:00:00",
+   "project_end_date": "2027-05-31T00:00:00",
+   "abstract_text": "PROJECT SUMMARY / ABSTRACT\nCluster headache (CH), which affects about 1 in 1,000 people, is a severe and debilitating primary headache\ndisorder characterized by repeated attacks occurring in clusters over weeks or months. CH has clearly defined\nfeatures: severe pain (worse than childbirth), facial autonomic changes (such as a watery eye), restlessness,\nand a striking circadian pattern of attacks (at the same time each day like clockwork in approximately 70.5% of\npatients). CH also has a well-defined pathophysiology of 3 systems: the trigeminovascular pain system, the\nautonomic nervous system, and the hypothalamic system (in particular the posterior hypothalamus, the first brain\narea activated during an attack). Despite the well-known features and systems involved in CH, no disease-\nspecific treatments are available: all CH treatments are repurposed medications from other diseases. This lack\nof CH-specific treatments is due in large part to the lack of a viable animal model that faithfully recapitulates the\naforementioned CH features. To develop a specific animal model for CH, we previously studied a\ntrigeminovascular headache model (repeated nitroglycerin injections), and discovered a circadian pattern of pain\nresponses that reflects the clockwork-like pattern of attacks in CH patients. Furthermore, our analysis also\nidentified a recently discovered CH modifier gene Mertk (MER proto-oncogene, tyrosine receptor kinase) to be\nhighly rhythmically expressed in the trigeminal ganglion. Deletion of Mertk (Mertk-KO) altered the normal\ncircadian rhythm of pain sensitivity by increasing pain sensitivity over 24 hours. Finally, activation of the posterior\nhypothalamus (via c-Fos staining) was observed after NTG administration in wild-type mice. Based on these\nexciting preliminary findings, we hypothesize that a combination of trigeminovascular (nitroglycerin), genetic\n(Mertk-KO), and hypothalamic (direct optogenetic activation of the posterior hypothalamus) manipulations will\ngenerate the first multi-modal animal model of CH. In Aim 1 (the R61 phase), we will determine the contributions\nof each aspect of our combined model, alone or in combination (a 4x2 grid of NTG or control, Mertk KO mouse\nor wild-type control, and optogenetic injection or control). Our milestone for progression to the R33 phase will be\nsignificant differences in at least two pain behaviors in our model compared to controls. In Aims 2 and 3 (the R33\nphase), we will validate our model through face validity (lacrimation and restlessness), construct validity (CGRP,\nPACAP, and VIP in the trigeminal ganglion and hypothalamus), and predictive validity (ability of first-line and\nnew treatments to ameliorate the pain behaviors of our model). This project is highly significant and innovative,\naddressing a profound need for a specific and comprehensive animal model for this devastating yet understudied\ndisease. With the unique combination of complementary expertise in CH (laboratory and clinical), circadian\nbiology, pharmacology, optogenetics and pain, we are ideally suited to generate this combined CH model with\nthe goal of providing insights into CH pathophysiology and developing novel therapeutics.",
+   "project_title": "Development of a multi-modal mouse model of cluster headache"
+  },
+  {
+   "fiscal_year": 2000,
+   "project_num": "5M01RR000042-40",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 206,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": null,
+   "project_end_date": null,
+   "abstract_text": null,
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1999,
+   "project_num": "5M01RR000042-39",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 206,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1998-12-01T00:00:00",
+   "project_end_date": "1999-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be a frequent finding in patients with cluster headache (CH) and that treatment of sleep apnea in such patients may improve the headache syndrome.  We will perform cross-sectional studies and a clinical trial to 1) assess the frequency of OSA in a sample of patients with active CH, 2) examine physiological mechanisms that may link the two disorders, and 3) test whether treatment for OSA improves CH and quality of life in patients who have both conditions. ",
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1999,
+   "project_num": "3M01RR000042-39S1",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 206,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1998-12-01T00:00:00",
+   "project_end_date": "1999-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be a frequent finding in patients with cluster headache (CH) and that treatment of sleep apnea in such patients may improve the headache syndrome.  We will perform cross-sectional studies and a clinical trial to 1) assess the frequency of OSA in a sample of patients with active CH, 2) examine physiological mechanisms that may link the two disorders, and 3) test whether treatment for OSA improves CH and quality of life in patients who have both conditions. ",
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1998,
+   "project_num": "3M01RR000042-38",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 21464,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1997-12-01T00:00:00",
+   "project_end_date": "1998-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be           \na frequent finding in patients with cluster headache (CH) and that              \ntreatment of sleep apnea in such patients may improve the headache              \nsyndrome. We will perform cross-sectional studies and a clinical trial          \nto 1) assess the frequency of OSA in a sample of patients with active           \nCH, 2) examine physiological mechanisms that may link the two disorders,        \nand 3) test whether treatment for OSA improves CH and quality of life           \nin patients who have both conditions.                                           \n",
+   "project_title": "OBSTRUCTIVE SLEEP APNEA W/CLUSTER HEADACHE--THERAPY W/POSITIVE AIRWAY PRESSURE"
+  },
+  {
+   "fiscal_year": 1997,
+   "project_num": "5M01RR000042-37",
+   "organization": {
+    "org_name": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "073133571"
+    ],
+    "org_ueis": [
+     "GNJ7BBP73WE9"
+    ],
+    "primary_duns": "073133571",
+    "primary_uei": "GNJ7BBP73WE9",
+    "org_fips": "US",
+    "org_ipf_code": "1506502",
+    "org_zipcode": "481081364",
+    "external_org_id": 1506502
+   },
+   "activity_code": "M01",
+   "award_amount": 22248,
+   "principal_investigators": [
+    {
+     "profile_id": 1886339,
+     "first_name": "RONALD",
+     "middle_name": "D",
+     "last_name": "CHERVIN",
+     "is_contact_pi": true,
+     "full_name": "RONALD D CHERVIN",
+     "title": "PROFESSOR"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "RR",
+    "abbreviation": "NCRR",
+    "name": "National Center for Research Resources",
+    "admin_org_id": "12500071",
+    "admin_funding_url": ""
+   },
+   "project_start_date": "1997-02-20T00:00:00",
+   "project_end_date": "1997-11-30T00:00:00",
+   "abstract_text": "Case reports have suggested that obstructive sleep apnea (OSA) may be           \na frequent finding in patients with cluster headache (CH) and that              \ntreatment of sleep apnea in such patients may improve the headache              \nsyndrome. We will perform cross-sectional studies and a clinical trial          \nto 1) assess the frequency of OSA in a sample of patients with active           \nCH, 2) examine physiological mechanisms that may link the two disorders,        \nand 3) test whether treatment for OSA improves CH and quality of life           \nin patients who have both conditions.                                           \n",
+   "project_title": "ASSOCIATION OF OBSTRUCTIVE SLEEP APNEA WITH CLUSTER HEADACHE--EFFECT OF CPAP"
+  }
+ ]
+}

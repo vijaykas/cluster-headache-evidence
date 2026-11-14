@@ -1,0 +1,200 @@
+[
+ {
+  "chembl": "CHEMBL85",
+  "drug": "RISPERIDONE",
+  "5-HT7": 9.4,
+  "5-HT2A": 10.0,
+  "5-HT1A": 7.68,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL1237021",
+  "drug": "LURASIDONE",
+  "5-HT7": 9.3,
+  "5-HT2A": 8.7,
+  "5-HT1A": 8.17,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL2105760",
+  "drug": "BREXPIPRAZOLE",
+  "5-HT7": 8.43,
+  "5-HT2A": 9.33,
+  "5-HT1A": 9.92,
+  "mech": {
+   "5-HT2A": "ANTAGONIST",
+   "5-HT1A": "PARTIAL AGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL708",
+  "drug": "ZIPRASIDONE",
+  "5-HT7": 8.3,
+  "5-HT6": 7.7,
+  "5-HT2A": 10.1,
+  "5-HT1A": 8.8,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL42",
+  "drug": "CLOZAPINE",
+  "5-HT7": 8.26,
+  "5-HT6": 8.4,
+  "5-HT2A": 8.92,
+  "5-HT1A": 8.2,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL1621",
+  "drug": "PALIPERIDONE",
+  "5-HT7": 8.17,
+  "5-HT2A": 9.08,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL726",
+  "drug": "FLUPHENAZINE",
+  "5-HT7": 8.1,
+  "5-HT6": 7.62,
+  "5-HT2A": 8.84,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL1112",
+  "drug": "ARIPIPRAZOLE",
+  "5-HT7": 8.0,
+  "5-HT6": 7.05,
+  "5-HT2A": 9.1,
+  "5-HT1A": 8.77,
+  "mech": {
+   "5-HT2A": "ANTAGONIST",
+   "5-HT1A": "PARTIAL AGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL71",
+  "drug": "CHLORPROMAZINE",
+  "5-HT7": 7.97,
+  "5-HT6": 8.4,
+  "5-HT2A": 8.96,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL243712",
+  "drug": "AMISULPRIDE",
+  "5-HT7": 7.94,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL1065",
+  "drug": "METHYSERGIDE",
+  "5-HT7": 7.9,
+  "5-HT6": 7.12,
+  "5-HT2A": 8.8,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL2104993",
+  "drug": "VORTIOXETINE",
+  "5-HT7": 7.72,
+  "5-HT1A": 8.02,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL567",
+  "drug": "PERPHENAZINE",
+  "5-HT7": 7.64,
+  "5-HT2A": 7.68,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL2138684",
+  "drug": "FROVATRIPTAN SUCCINATE",
+  "5-HT7": 7.44,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL516",
+  "drug": "CYPROHEPTADINE",
+  "5-HT7": 7.3,
+  "5-HT2A": 9.56,
+  "5-HT1A": 7.34,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL6437",
+  "drug": "MIANSERIN",
+  "5-HT7": 7.25,
+  "5-HT6": 7.4,
+  "5-HT2A": 9.3,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL1200517",
+  "drug": "DIHYDROERGOTAMINE MESYLATE",
+  "5-HT7": 7.22,
+  "5-HT2A": 7.68,
+  "5-HT1A": 7.41,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL716",
+  "drug": "QUETIAPINE",
+  "5-HT7": 7.2,
+  "5-HT2A": 7.51,
+  "5-HT1A": 7.1,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL479",
+  "drug": "THIORIDAZINE",
+  "5-HT7": 7.16,
+  "5-HT6": 7.48,
+  "5-HT2A": 8.9,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL1200492",
+  "drug": "NEFAZODONE HYDROCHLORIDE",
+  "5-HT7": 7.15,
+  "5-HT2A": 7.81,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL2024517",
+  "drug": "CARIPRAZINE HYDROCHLORIDE",
+  "5-HT7": 7.12,
+  "5-HT2A": 7.21,
+  "5-HT1A": 7.27,
+  "mech": {}
+ },
+ {
+  "chembl": "CHEMBL715",
+  "drug": "OLANZAPINE",
+  "5-HT7": 7.1,
+  "5-HT6": 8.3,
+  "5-HT2A": 9.38,
+  "mech": {
+   "5-HT2A": "ANTAGONIST"
+  }
+ },
+ {
+  "chembl": "CHEMBL836",
+  "drug": "TAMSULOSIN",
+  "5-HT7": 7.08,
+  "5-HT1A": 9.1,
+  "mech": {}
+ }
+]

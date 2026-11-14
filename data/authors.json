@@ -1,0 +1,502 @@
+{
+ "ch": [
+  [
+   "Fronczek R",
+   17
+  ],
+  [
+   "Goadsby PJ",
+   9
+  ],
+  [
+   "Belin AC",
+   8
+  ],
+  [
+   "Petersen AS",
+   8
+  ],
+  [
+   "Ran C",
+   7
+  ],
+  [
+   "Jensen RH",
+   7
+  ],
+  [
+   "Brandt RB",
+   6
+  ],
+  [
+   "Lanteri-Minet M",
+   6
+  ],
+  [
+   "Dong Z",
+   5
+  ],
+  [
+   "Spulber S",
+   5
+  ],
+  [
+   "Steinberg A",
+   5
+  ],
+  [
+   "Sundholm A",
+   5
+  ],
+  [
+   "Cho SJ",
+   5
+  ],
+  [
+   "Naber WC",
+   5
+  ],
+  [
+   "Huygen FJPM",
+   5
+  ],
+  [
+   "van Tilborg PJ",
+   4
+  ],
+  [
+   "Yu S",
+   4
+  ],
+  [
+   "Jennysdotter Olofsg\u00e5rd F",
+   4
+  ],
+  [
+   "Sj\u00f6strand C",
+   4
+  ],
+  [
+   "Waldenlind E",
+   4
+  ],
+  [
+   "Lantz M",
+   4
+  ],
+  [
+   "Van Obberghen EK",
+   4
+  ],
+  [
+   "Fabre R",
+   4
+  ],
+  [
+   "Heinze A",
+   4
+  ],
+  [
+   "Donnet A",
+   4
+  ],
+  [
+   "D\u00edaz-de-Ter\u00e1n J",
+   4
+  ],
+  [
+   "Lansbergen CS",
+   4
+  ],
+  [
+   "de Vos CC",
+   4
+  ],
+  [
+   "S\u00f8borg MK",
+   4
+  ],
+  [
+   "Lund N",
+   4
+  ],
+  [
+   "Lee MJ",
+   4
+  ],
+  [
+   "Coppola G",
+   4
+  ],
+  [
+   "Kamm K",
+   3
+  ],
+  [
+   "Peres MFP",
+   3
+  ],
+  [
+   "Ekizo\u011flu E",
+   3
+  ],
+  [
+   "Ta\u015fdelen B",
+   3
+  ],
+  [
+   "Baykan B",
+   3
+  ],
+  [
+   "G\u00f6bel CH",
+   3
+  ],
+  [
+   "Heinze-Kuhn K",
+   3
+  ],
+  [
+   "Cirkel A",
+   3
+  ],
+  [
+   "G\u00f6bel H",
+   3
+  ],
+  [
+   "Zhang M",
+   3
+  ],
+  [
+   "Zhang S",
+   3
+  ],
+  [
+   "Wu Y",
+   3
+  ],
+  [
+   "Haghdoost F",
+   3
+  ],
+  [
+   "Vuralli D",
+   3
+  ],
+  [
+   "Mitsikostas DD",
+   3
+  ],
+  [
+   "Wergeland T",
+   3
+  ],
+  [
+   "Caramia F",
+   3
+  ],
+  [
+   "Di Renzo A",
+   3
+  ],
+  [
+   "Giuliani G",
+   3
+  ],
+  [
+   "Chiffi D",
+   3
+  ],
+  [
+   "Altieri M",
+   3
+  ],
+  [
+   "Zhang L",
+   3
+  ],
+  [
+   "Barloese M",
+   3
+  ],
+  [
+   "Portocarrero-S\u00e1nchez L",
+   3
+  ],
+  [
+   "Wilbrink LA",
+   3
+  ],
+  [
+   "Sebastianelli G",
+   3
+  ],
+  [
+   "Ferrari MD",
+   3
+  ],
+  [
+   "Kim BK",
+   3
+  ]
+ ],
+ "ht7": [
+  [
+   "Watts SW",
+   9
+  ],
+  [
+   "Mor\u00e1n A",
+   8
+  ],
+  [
+   "Garc\u00eda-Pedraza J\u00c1",
+   8
+  ],
+  [
+   "Garc\u00eda-Domingo M",
+   7
+  ],
+  [
+   "Fink GD",
+   5
+  ],
+  [
+   "Mart\u00edn ML",
+   5
+  ],
+  [
+   "Villal\u00f3n CM",
+   5
+  ],
+  [
+   "Terol-\u00dabeda AC",
+   4
+  ],
+  [
+   "Liu L",
+   4
+  ],
+  [
+   "Fern\u00e1ndez-Gonz\u00e1lez JF",
+   4
+  ],
+  [
+   "Thompson JM",
+   4
+  ],
+  [
+   "Garver H",
+   3
+  ],
+  [
+   "Lacivita E",
+   3
+  ],
+  [
+   "Leopoldo M",
+   3
+  ],
+  [
+   "Terr\u00f3n JA",
+   3
+  ],
+  [
+   "Wang X",
+   3
+  ],
+  [
+   "Liang J",
+   3
+  ],
+  [
+   "Moritomo A",
+   3
+  ],
+  [
+   "Yamada H",
+   3
+  ],
+  [
+   "Watanabe T",
+   3
+  ],
+  [
+   "Itahana H",
+   3
+  ],
+  [
+   "Akuzawa S",
+   3
+  ],
+  [
+   "Okada M",
+   3
+  ],
+  [
+   "Suzenet F",
+   2
+  ],
+  [
+   "Morisset-Lopez S",
+   2
+  ],
+  [
+   "Chen H",
+   2
+  ],
+  [
+   "Klotz JL",
+   2
+  ],
+  [
+   "MaassenVanDenBrink A",
+   2
+  ],
+  [
+   "Qu ZY",
+   2
+  ],
+  [
+   "Zhao LP",
+   2
+  ],
+  [
+   "Cornelison LE",
+   2
+  ],
+  [
+   "Woodman SE",
+   2
+  ],
+  [
+   "Durham PL",
+   2
+  ],
+  [
+   "Han SK",
+   2
+  ],
+  [
+   "Park SJ",
+   2
+  ],
+  [
+   "Pei P",
+   2
+  ],
+  [
+   "Wang LP",
+   2
+  ],
+  [
+   "Hu R",
+   2
+  ],
+  [
+   "Pan X",
+   2
+  ],
+  [
+   "Su MJ",
+   2
+  ],
+  [
+   "Fang Y",
+   2
+  ],
+  [
+   "Haegeman G",
+   2
+  ],
+  [
+   "Vanhoenacker P",
+   2
+  ],
+  [
+   "Van Craenenbroeck K",
+   2
+  ],
+  [
+   "Mart\u00ednez-Garc\u00eda E",
+   2
+  ],
+  [
+   "Dhar AK",
+   1
+  ],
+  [
+   "Keswani R",
+   1
+  ],
+  [
+   "Anitha K",
+   1
+  ],
+  [
+   "Pathak G",
+   1
+  ],
+  [
+   "Nigade A",
+   1
+  ],
+  [
+   "Bhatt S",
+   1
+  ],
+  [
+   "Abrenica AG",
+   1
+  ],
+  [
+   "Kuang S",
+   1
+  ],
+  [
+   "Kar N",
+   1
+  ],
+  [
+   "Logue JS",
+   1
+  ],
+  [
+   "M\u00fcller FE",
+   1
+  ],
+  [
+   "Bahr FS",
+   1
+  ],
+  [
+   "Erschow S",
+   1
+  ],
+  [
+   "Kasten M",
+   1
+  ],
+  [
+   "Heimerl M",
+   1
+  ]
+ ],
+ "both": [
+  "Gonz\u00e1lez-Hern\u00e1ndez A",
+  "Guo Y",
+  "Johnson KW",
+  "Li Z",
+  "Liu Y",
+  "MaassenVanDenBrink A",
+  "Polat B",
+  "Rubio-Beltr\u00e1n E",
+  "Villal\u00f3n CM",
+  "Wang X",
+  "Wang YX",
+  "Xu H",
+  "Yang X",
+  "Zhang L"
+ ]
+}
